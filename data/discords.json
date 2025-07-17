@@ -1,0 +1,111 @@
+{
+  "Games": {
+    "IFGC": {
+      "index": 1,
+      "name": "IFGC",
+      "desc": "The main hub of all things IFGC, if you're not sure where to join first, this is the place!",
+      "link": "https://discord.gg/0k8YDBGVSKMuS1PM",
+      "thumb": "/images/discords/ifgc.png"
+    },
+    "EireDashers": {
+      "index": 2,
+      "name": "Eiredashers",
+      "desc": "The Irish discord for all airdashers and anime games from Blazblue to Guilty Gear",
+      "link": "https://discord.gg/Hnudpvkqne",
+      "thumb": "/images/discords/eiredashers.png"
+    },
+    "SmashIreland": {
+      "index": 3,
+      "name": "Smash Ireland",
+      "desc": "The centre of all things Smash related in Ireland, from Melee to Ultimate",
+      "link": "https://discord.gg/mmA8ezvFd7",
+      "thumb": "/images/discords/smashireland.png"
+    },
+    "TekkenIreland": {
+      "index": 4,
+      "name": "Tekken Ireland",
+      "desc": "One of Ireland's strongest games thanks to a dedicated grassroots effort",
+      "link": "https://discord.gg/Jr6vVHb",
+      "thumb": "/images/discords/tekkenireland.png"
+    },
+    "DBFZIreland": {
+      "index": 5,
+      "name": "DBFZ Ireland",
+      "desc": "A growing group of players dedicated to DBFZ, running regular online events",
+      "link": "https://discord.gg/KhMGYjEEZH",
+      "thumb": "/images/discords/dbfzireland.png"
+    },
+    "IrishMK": {
+      "index": 6,
+      "name": "Irish MK",
+      "desc": "Love Mortal Kombat? We've got an insanely strong scene!",
+      "link": "https://discord.gg/eRs2rnXEbZ",
+      "thumb": "/images/discords/irishmk.png"
+    },
+    "SSBMIreland": {
+      "index": 7,
+      "name": "SSBM Ireland",
+      "desc": "Interested in playing Melee in Ireland? This is the place to be!",
+      "link": "https://discord.gg/x5mj5pFs",
+      "thumb": "/images/discords/ssbmireland.png"
+    },
+    "StreetFighterIreland": {
+      "index": 8,
+      "name": "SF Ireland",
+      "desc": "Ireland's dedicated SF server, for discussion of SF 2 to 6 and everything inbetween",
+      "link": "https://discord.gg/ZFkvm2qHmf",
+      "thumb": "/images/discords/sfireland.png"
+    }
+  },
+  "Regional": {
+    "Cork": {
+      "index": 1,
+      "name": "Leeside Collision",
+      "desc": "Cork's dedicated discord for its local FGC. They play a variety of games!",
+      "link": "https://discord.gg/D7uK2xvmqW",
+      "thumb": "/images/discords/leesidecollision.png"
+    },
+    "Dublin": {
+      "index": 2,
+      "name": "Dublin FGC",
+      "desc": "There isn't really a Dublin specific discord so most Dublin players use the IFGC one",
+      "link": "https://discord.gg/0k8YDBGVSKMuS1PM",
+      "thumb": "/images/discords/dublinfgc.png"
+    },
+    "TNA": {
+      "index": 3,
+      "name": "The North Awakens",
+      "desc": "The main discord of Smash in N.Ireland! Join for info on all events happening in the North!",
+      "link": "https://discord.gg/ADp6T2MsKS",
+      "thumb": "/images/discords/thenorthawakens.png"
+    },
+    "DAC": {
+      "index": 4,
+      "name": "DAC",
+      "desc": "An active Dublin Smash scene running regular events",
+      "link": "https://discord.gg/2FSxmYjnjm",
+      "thumb": "/images/discords/dac.png"
+    },
+    "Rebel's Guard": {
+      "index": 5,
+      "name": "Rebel's Guard",
+      "desc": "The Munster Smash scene, events running mostly in Cork & Kerry",
+      "link": "https://discord.gg/QCF4KthW8W",
+      "thumb": "/images/discords/rebelsguard.png"
+    },
+    "ButtonMash": {
+      "index": 6,
+      "name": "Button Mash",
+      "desc": "Primarily running FGC events in Belfast often alongside Big Fish (Smash events)",
+      "link": "https://discord.gg/7GnJHuKAnG",
+      "thumb": "/images/discords/buttonmash.png"
+    },
+    "Level1": {
+      "index": 7,
+      "name": "Level 1",
+      "desc": "Running a yearly national tournament in Dublin, featuring games from all communities",
+      "link": "https://discord.gg/mQ4CUQmyTP",
+      "thumb": "/images/discords/level1.png"
+    }
+  }
+}

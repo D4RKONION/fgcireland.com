@@ -1,0 +1,214 @@
+:root {
+  --container-7xl: 87rem;
+
+}
+
+#custom-home-page {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(1, 1fr);
+
+
+  @media (min-width: 468px) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    
+  }
+  
+  @media (min-width: 770px)  {
+    .page-card .card-top {
+      height: 170px !important;
+    }
+  }
+
+  @media (min-width: 1100px) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    .page-card .card-top {
+      height: 200px !important;
+    }
+  }
+
+  .page-card {
+    background: #36393f;
+    border-radius: 10px;
+    /* border: 1px solid #3a3737; */
+
+    .card-top {
+      background-size: cover;
+      background-position: center;
+      height: 135px;
+      background-repeat: no-repeat;
+      border-radius: 10px 10px 0 0;
+    }
+
+    main {
+      padding: 15px 20px 22px;
+
+      h1 {
+        font-size: 20px;
+      }
+    
+      hr {
+        margin: 3px 0px 8px;
+        color: #72da78;
+      }
+
+      p {
+        font-size: 15px;
+        line-height: 1.5;
+      }
+    }
+    
+    
+  }
+}
+
+.main-menu {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  .logo {
+    max-width: 60px;
+  }
+}
+#menu-blur {
+  backdrop-filter: blur(40px);
+  background-color: initial;
+  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 25px 50px -12px
+}
+
+.discord-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+
+
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  @media (min-width: 1200px) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .discordCard {
+    background-color: #36393f;
+    color: white;
+    border-radius: 10px;
+    padding: 16px;
+    
+    display: flex;
+    flex-direction: column;
+    flex: 0 1 auto;
+
+    .cardTop {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      .text {
+        margin-left: 10px;
+        h1 {
+          margin: 0;
+          font-size: 25px;
+        }
+      
+        a {
+          color: #72da78;
+          font-size: 18px;
+          text-decoration: underline;
+        }
+      }
+      img {
+        border-radius: 100%;
+        max-width: 80px;
+        max-height: 80px;
+      }
+    }
+    
+    p {
+      margin: 8px 0 0;
+      line-height: 1.35;
+      font-size: 16px;
+    }
+  }
+}
+
+#events-page {
+  #events-grid {
+    margin-top: 40px;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+
+
+    @media (min-width: 768px) {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    @media (min-width: 1200px) {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+    .eventCard {
+      background-color: #36393f;
+      border-radius: 10px;
+
+      > div {
+        background-size: cover;
+        background-position: top center;
+        height: 220px;
+        background-repeat: no-repeat;
+        border-radius: 10px 10px 0 0;
+      }
+
+      img {
+        border-radius: 10px 10px 0 0;
+        width: 100%;
+      }
+
+      main {
+        padding: 10px 20px;
+        h1 {
+          font-size: 26px;
+          margin: 0;
+          text-overflow: ellipsis;
+          overflow: hidden;
+          white-space: nowrap;
+        }
+        h3 {
+          font-size: 17px;
+          margin: 0;
+          color: #bfbfbf;
+        }
+        h4 {
+          font-size: 15px;
+          margin: -5px 0 18px;
+          color: #bfbfbf;
+        }
+
+        h2 {
+          font-size: 20px;
+          margin: 0;
+        }
+        hr {
+          margin: 3px 0px 8px;
+          color: #72da78;
+        }
+        p {
+          margin: 0;
+          line-height: 1.35;
+          font-size: 14px;
+          color: #bfbfbf;
+        }
+        .links {
+          margin-top: 10px;
+          a {
+          color: #72da78;
+          &:hover {
+            text-decoration: underline;
+          }
+          }
+          
+        }
+      }
+    }
+  }
+}
+

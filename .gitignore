@@ -1,0 +1,12 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Hugo output
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# IDE/editor files
+.vscode/
+.idea/

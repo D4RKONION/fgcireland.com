@@ -1,0 +1,41 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Discords"
+pageRef = "discords"
+identifier = "7sKimtzgcY"
+weight = 9_999
+
+[[main]]
+name = "Events"
+pageRef = "events"
+identifier = "Kv4TvMoxvg"
+weight = 9_999
+
+[[main]]
+name = "Blog"
+pageRef = "blog"
+identifier = "Y7QtkgtFU8"
+weight = 9_999
+
+[[main]]
+name = "About"
+pageRef = "about"
+identifier = "TPBBMLQwXK"
+weight = 9_999
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "Tags"
+pageRef = "tags"
+identifier = "X3vIG7s1LI"
+weight = 9_999
+
+[[footer]]
+name = "Authors"
+pageRef = "authors"
+identifier = "ESkaQtoz0A"
+weight = 9_999

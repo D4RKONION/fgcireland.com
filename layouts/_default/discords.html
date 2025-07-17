@@ -1,0 +1,31 @@
+{{ define "main" }}
+  <h1 class="text-3xl font-bold my-6">Discords</h1>
+  {{ .Content }}
+  {{ range $category, $servers := site.Data.discords }}
+    <div class="md:mb-12">
+      <h2 class="text-3xl font-semibold mt-8 mb-3">{{ $category }}</h2>
+      <div class="discord-grid">
+        {{ $list := slice }}
+        {{ range $key, $val := $servers }}
+          {{ $list = $list | append (dict "key" $key "val" $val) }}
+        {{ end }}
+        {{ $sorted := sort $list "val.index" }}
+        {{ range $item := $sorted }}
+          {{ $server := $item.val }}
+          <div class="discordCard">
+            <div class="cardTop">
+              <img alt="{{ $server.name }}-discord-logo" src="{{ $server.thumb }}" />
+              <div class="text">
+                <h1>{{ $server.name }}</h1>
+                <a href="{{ $server.link }}">Click here to join</a>
+              </div>
+            </div>
+            <p>{{ $server.desc }}</p>
+          </div>
+        {{ end }}
+
+
+      </div>
+    </div>
+  {{ end }}
+{{ end }}
