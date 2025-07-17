@@ -1,6 +1,21 @@
 :root {
   --container-7xl: 87rem;
 
+  --card-background: #e7e9e7;
+  --card-text: #000000;
+  --card-text-shade: #303030;
+  --card-border: 1px solid #dedede;
+  --card-shadow: 0px 0px 16px #00000024;
+
+  --link-text: #007508;
+}
+.dark {
+  --card-background: #36393f;
+  --card-text: #ffffff;
+  --card-text-shade: #bfbfbf;
+  --card-border: 1px solid #424242;
+
+  --link-text: #72da78;
 }
 
 #custom-home-page {
@@ -28,9 +43,10 @@
   }
 
   .page-card {
-    background: #36393f;
+    background-color: var(--card-background);
     border-radius: 10px;
-    /* border: 1px solid #3a3737; */
+    border: var(--card-border);
+    box-shadow: var(--card-shadow);
 
     .card-top {
       background-size: cover;
@@ -49,7 +65,7 @@
     
       hr {
         margin: 3px 0px 8px;
-        color: #72da78;
+        color: var(--link-text);
       }
 
       p {
@@ -90,10 +106,12 @@
   }
 
   .discordCard {
-    background-color: #36393f;
-    color: white;
+    background-color: var(--card-background);
+    color: var(--card-text);
     border-radius: 10px;
     padding: 16px;
+    border: var(--card-border);
+    box-shadow: var(--card-shadow);
     
     display: flex;
     flex-direction: column;
@@ -111,7 +129,7 @@
         }
       
         a {
-          color: #72da78;
+          color: var(--link-text);
           font-size: 18px;
           text-decoration: underline;
         }
@@ -147,8 +165,11 @@
       grid-template-columns: repeat(3, minmax(0, 1fr));
     }
     .eventCard {
-      background-color: #36393f;
+      background-color: var(--card-background);
       border-radius: 10px;
+      border: var(--card-border);
+      box-shadow: var(--card-shadow);
+
 
       > div {
         background-size: cover;
@@ -175,12 +196,12 @@
         h3 {
           font-size: 17px;
           margin: 0;
-          color: #bfbfbf;
+          color: var(--card-text-shade);
         }
         h4 {
           font-size: 15px;
           margin: -5px 0 18px;
-          color: #bfbfbf;
+          color: var(--card-text-shade);
         }
 
         h2 {
@@ -189,18 +210,18 @@
         }
         hr {
           margin: 3px 0px 8px;
-          color: #72da78;
+          color: var(--link-text);
         }
         p {
           margin: 0;
           line-height: 1.35;
           font-size: 14px;
-          color: #bfbfbf;
+          color: var(--card-text-shade);
         }
         .links {
           margin-top: 10px;
           a {
-          color: #72da78;
+          color: var(--link-text);
           &:hover {
             text-decoration: underline;
           }
