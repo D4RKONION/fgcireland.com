@@ -54,6 +54,7 @@
         } = event;
 
         const card = document.createElement("section");
+        card.className = "eventCard";
 
         const imgDiv = document.createElement("div");
         if (imgUrl && imgUrl.trim() !== "") {
@@ -68,15 +69,12 @@
           <h3>${date} @ ${time}</h3>
           <h4>${where}</h4>
           ${game.toLowerCase() !== "multi" ? `<h2>${game}</h2>` : ""}
+          <hr />
           <p>${details}</p>
           <div class="links">
             <p>
-              ${stream && stream.toLowerCase() !== "none" && stream.toLowerCase() !== "n/a" ?
-                `<a href="${stream}" target="_blank" rel="noopener">Stream</a>` : ""}
-              ${(stream && stream.toLowerCase() !== "none" && stream.toLowerCase() !== "n/a") &&
-               (signup && signup.toLowerCase() !== "none" && signup.toLowerCase() !== "n/a") ? " | " : ""}
               ${signup && signup.toLowerCase() !== "none" && signup.toLowerCase() !== "n/a" ?
-                `<a href="${signup}" target="_blank" rel="noopener">Sign-Up</a>` : ""}
+                `<a href="${signup}" target="_blank" rel="noopener">Go to start.gg!</a>` : ""}
             </p>
           </div>
         `;
@@ -84,7 +82,9 @@
         card.appendChild(imgDiv);
         card.appendChild(main);
         container.appendChild(card);
-      });
+      }
+      
+    )
     })
     .catch(err => {
       console.error(err);
