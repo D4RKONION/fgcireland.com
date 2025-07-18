@@ -14,15 +14,15 @@ identifier = "Kv4TvMoxvg"
 weight = 9_999
 
 [[main]]
-name = "Blog"
-pageRef = "blog"
-identifier = "Y7QtkgtFU8"
-weight = 9_999
-
-[[main]]
 name = "About"
 pageRef = "about"
 identifier = "TPBBMLQwXK"
+weight = 9_999
+
+[[main]]
+name = "Posts"
+pageRef = "posts"
+identifier = "vfcFz4UIos"
 weight = 9_999
 
 [[footer]]

@@ -7,7 +7,16 @@
   --card-border: 1px solid #dedede;
   --card-shadow: 0px 0px 16px #00000024;
 
-  --link-text: #007508;
+  --link-text: #06910f;
+
+  @layer utilities {
+    .prose {
+      --tw-prose-links: var(--link-text);
+      a {
+        text-decoration: underline;
+      }
+    }
+  }
 }
 .dark {
   --card-background: #36393f;

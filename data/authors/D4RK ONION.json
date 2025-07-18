@@ -1,0 +1,11 @@
+{
+    "name": "D4RK ONION",
+    "image" : "img/d4rk_onion_avatar.jpg",
+    "bio": "Site Admin, Dublin FGC Organiser",
+    "social": [
+        { "bluesky": "https://bsky.app/profile/d4rkonion.bsky.social" },
+        { "twitter": "https://twitter.com/D4RK_ONION" },
+        { "github": "https://github.com/D4RKONION" },
+        { "link": "https://fullmeter.com/" }
+    ]
+}
