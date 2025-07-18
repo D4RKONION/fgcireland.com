@@ -44,7 +44,7 @@
   }
 ]
 
-  fetch("https://fgcireland.com/ifgcbot/src/events.json")
+  fetch("https://fullmeter.com/ifgcbot/src/events.json")
     .then(res => res.json())
     .then(events => {
       events.forEach(event => {
@@ -57,7 +57,7 @@
 
         const imgDiv = document.createElement("div");
         if (imgUrl && imgUrl.trim() !== "") {
-          imgDiv.style.backgroundImage = `url(https://fgcireland.com/ifgcbot/src/images/${imgUrl})`;
+          imgDiv.style.backgroundImage = `url(https://fullmeter.com/ifgcbot/src/images/${imgUrl})`;
         } else {
           imgDiv.innerHTML = `<div>No Image</div>`;
         }
@@ -99,7 +99,7 @@
 
         const imgDiv = document.createElement("div");
         if (imgUrl && imgUrl.trim() !== "") {
-          imgDiv.style.backgroundImage = `url(https://fgcireland.com/ifgcbot/src/images/${imgUrl})`;
+          imgDiv.style.backgroundImage = `url(https://fullmeter.com/ifgcbot/src/images/${imgUrl})`;
         } else {
           imgDiv.innerHTML = `<div>No Image</div>`;
         }
