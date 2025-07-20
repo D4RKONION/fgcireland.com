@@ -3,6 +3,7 @@
 
 # Site configuration files - require owner approval
 config.yaml @D4RKONION
+config.yml @D4RKONION
 hugo.toml @D4RKONION
 
 # Theme and layout files - require owner approval  
