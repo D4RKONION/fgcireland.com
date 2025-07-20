@@ -1,0 +1,69 @@
+backend:
+  name: github
+  repo: your-username/your-repo-name  # Replace with your actual repo
+  branch: main  # or master, depending on your default branch
+  
+  # GitHub App authentication
+  app_id: "1636334"  # Replace with your App ID
+  installation_id: "76740093"  # Replace with your Installation ID
+  
+  # Enable editorial workflow for content review
+  cms_label_prefix: "decap-cms/"
+  use_graphql: true
+
+# Enable editorial workflow (creates PRs instead of direct commits)
+publish_mode: editorial_workflow
+
+# Media files configuration
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+# Editorial workflow (creates pull requests for review)
+publish_mode: editorial_workflow
+
+# Collections define the structure of your content
+collections:
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "content/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false  # Disable preview pane for better performance
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: "{{now}}"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  
+  - name: "pages"
+    label: "Pages"
+    folder: "content"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: "{{now}}"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Type", name: "type", widget: "hidden", default: "page"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  # Optional: Site configuration
+  - name: "config"
+    label: "Site Configuration"
+    files:
+      - label: "Hugo Config"
+        name: "hugo_config"
+        file: "config.yaml"  # or config.toml/config.json depending on your setup
+        fields:
+          - {label: "Site Title", name: "title", widget: "string"}
+          - {label: "Base URL", name: "baseURL", widget: "string"}
+          - {label: "Language Code", name: "languageCode", widget: "string", default: "en-us"}
+          - {label: "Description", name: "description", widget: "text"}
+          # Add other config fields as needed

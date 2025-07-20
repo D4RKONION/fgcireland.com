@@ -1,0 +1,30 @@
+# .github/CODEOWNERS
+# This file defines code ownership for the repository
+
+# Site configuration files - require owner approval
+config.yaml @D4RKONION
+hugo.toml @D4RKONION
+
+# Theme and layout files - require owner approval  
+/layouts/ @D4RKONION
+/themes/ @D4RKONION
+/assets/ @D4RKONION
+
+# GitHub workflows and settings - require owner approval
+/.github/ @D4RKONION
+
+# Static assets that aren't uploads - require owner approval
+/static/*.html @D4RKONION
+/static/css/ @D4RKONION
+/static/js/ @D4RKONION
+/static/images/ @D4RKONION
+
+# Admin CMS files - require owner approval
+/static/admin/ @D4RKONION
+
+# Content files - anyone can edit (no restriction)
+/content/
+/static/images/uploads/
+
+# Default: everything else requires owner approval
+* @D4RKONION
