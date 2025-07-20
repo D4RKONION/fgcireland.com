@@ -1,7 +1,8 @@
 backend:
   name: github
-  repo: D4RKONION/fgcireland.com # Replace with your actual repo
   branch: main  # or master, depending on your default branch
+  repo: D4RKONION/fgcireland.com # Replace with your actual repo
+  base_url: https://auth.fgcireland.com
   
   # GitHub App authentication
   app_id: "1636334"  # Replace with your App ID
@@ -9,7 +10,6 @@ backend:
   
   # Enable editorial workflow for content review
   cms_label_prefix: "decap-cms/"
-  use_graphql: true
 
 # Enable editorial workflow (creates PRs instead of direct commits)
 publish_mode: editorial_workflow

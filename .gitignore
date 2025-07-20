@@ -10,3 +10,4 @@ Thumbs.db
 # IDE/editor files
 .vscode/
 .idea/
+/backend
