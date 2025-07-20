@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: your-username/your-repo-name  # Replace with your actual repo
+  repo: D4RKONION/fgcireland.com # Replace with your actual repo
   branch: main  # or master, depending on your default branch
   
   # GitHub App authentication
