@@ -1,0 +1,24 @@
+{{ $id := delimit (slice "gallery" (partial "functions/uid.html" .)) "-" }}
+
+<div id="{{ $id }}" class="gallery">
+  {{ range .Images }}
+    {{ $src := .image }}
+    {{ $resolved := $src }}
+
+    {{ if or (hasPrefix $src "http://") (hasPrefix $src "https://") }}
+      {{ with resources.GetRemote $src }}
+        {{ $resolved = .RelPermalink }}
+      {{ end }}
+    {{ else }}
+      {{ with $.Page.Resources.GetMatch $src }}
+        {{ $resolved = .RelPermalink }}
+      {{ else }}
+        {{ with resources.GetMatch $src }}
+          {{ $resolved = .RelPermalink }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    <img src="{{ $resolved }}" class="grid-w33" />
+  {{ end }}
+</div>

@@ -111,6 +111,12 @@
           {{ end }}
 
           {{ .Content }}
+
+
+          {{ with .Params.galleryImages }}
+            {{ partial "gallery.html" (dict "Page" $.Page "Images" .) }}
+          {{ end }}
+
           {{ $defaultReplyByEmail := .Site.Params.replyByEmail }}
           {{ $replyByEmail := default $defaultReplyByEmail .Params.replyByEmail }}
           {{ if $replyByEmail }}
