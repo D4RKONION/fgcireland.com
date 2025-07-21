@@ -77,6 +77,26 @@ jobs:
       
       - name: Configure Git
         run: git config core.quotepath false
+
+      - name: Move featured images to post folders
+        run: |
+          find content/posts -name "index.md" | while read post; do
+            dir=$(dirname "$post")
+            # Skip if featured.* already exists locally
+            if ls "$dir"/featured.* 1> /dev/null 2>&1; then
+              continue
+            fi
+            # Extract featured_image path from frontmatter
+            featured=$(grep "^featured_image:" "$post" | sed 's/featured_image: *"\?\([^"]*\)"\?/\1/')
+            if [ ! -z "$featured" ] && [ -f "static$featured" ]; then
+              # Get file extension
+              ext="${featured##*.}"
+              # Copy to post directory as featured.ext
+              cp "static$featured" "$dir/featured.$ext"
+              # Update frontmatter to reference local file
+              sed -i "s|featured_image:.*|featured_image: featured.$ext|" "$post"
+            fi
+          done
       
       - name: Build with Hugo
         run: |
