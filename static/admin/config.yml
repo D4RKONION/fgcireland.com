@@ -31,12 +31,16 @@ collections:
       preview: false  # Disable preview pane for better performance
     fields:
       - {label: "Title", name: "title", widget: "string"}
+
       - {label: "Date", name: "date", widget: "datetime", default: "{{now}}"}
+
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
+
       - label: "Author"
         name: "authors"
         widget: "select"
         multiple: true
+        required: true
         options:
           - {label: "D4RK ONION", value: "d4rk-onion"}
           - {label: "SHIN-A", value: "shin-a"}
@@ -44,11 +48,32 @@ collections:
       - label: "Featured Image"
         name: "featured_image"
         widget: "image"
-        required: false
+        min: 1
         media_library:
           config:
             max_file_size: 1024000 # in bytes
 
-      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        multiple: true
+        min: 1
+        options: ["News", "Accouncement", "Tournament", "Round Up", "Belfast", "Cork", "Dublin", "Galway", "Kerry", "Travel Blog", "Website Updates"]
+
+
       - {label: "Summary/Lead line (Shown in links & at top of article)", name: "description", widget: "text", required: true}
+
+      - label: "Image Gallery"
+        name: "galleryImages"
+        widget: "list"
+        max: 10
+        field:
+          label: "Image"
+          name: "image"
+          widget: "image"
+          media_folder: "static/uploads/posts/{{slug}}"
+          public_folder: "/images/uploads/posts/{{slug}}"
+          media_library:
+            allow_multiple: true
+
       - {label: "Body", name: "body", widget: "markdown"}
