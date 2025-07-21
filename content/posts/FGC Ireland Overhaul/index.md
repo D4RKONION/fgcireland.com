@@ -8,12 +8,7 @@ tags:
 - News
 - Website Update
 description: "The new and improved fgcreland.com, now with posts!"
-summary: "The new and improved fgcreland.com, now with posts!"
 ---
-
-{{< lead >}}
-The new and improved fgcreland.com, now with posts!
-{{< /lead >}}
 
 ## New and shiny
 
