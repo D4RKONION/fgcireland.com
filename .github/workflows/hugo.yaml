@@ -78,23 +78,21 @@ jobs:
       - name: Configure Git
         run: git config core.quotepath false
 
-      - name: Move featured images to post folders
+      - name: Rename featured images
         run: |
           find content/posts -name "index.md" | while read post; do
             dir=$(dirname "$post")
-            # Skip if featured.* already exists locally
+            # Skip if featured.* already exists with correct name
             if ls "$dir"/featured.* 1> /dev/null 2>&1; then
               continue
             fi
-            # Extract featured_image path from frontmatter
-            featured=$(grep "^featured_image:" "$post" | sed 's/featured_image: *"\?\([^"]*\)"\?/\1/')
-            if [ ! -z "$featured" ] && [ -f "static$featured" ]; then
+            # Extract featured_image filename from frontmatter
+            featured=$(grep "^featured_image:" "$post" | sed 's/featured_image: *"\?\([^"]*\)"\?/\1/' | xargs basename)
+            if [ ! -z "$featured" ] && [ -f "$dir/$featured" ]; then
               # Get file extension
               ext="${featured##*.}"
-              # Copy to post directory as featured.ext
-              cp "static$featured" "$dir/featured.$ext"
-              # Update frontmatter to reference local file
-              sed -i "s|featured_image:.*|featured_image: featured.$ext|" "$post"
+              # Rename to featured.ext
+              mv "$dir/$featured" "$dir/featured.$ext"
             fi
           done
       
