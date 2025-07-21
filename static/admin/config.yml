@@ -21,8 +21,9 @@ public_folder: "/images/uploads"
 # Collections define the structure of your content
 collections:
   - name: "posts"
-    label: "Blog Posts"
+    label: "Posts"
     folder: "content/posts"
+    path: "{{slug}}/index"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
@@ -31,36 +32,22 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime", default: "{{now}}"}
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
-      - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - {label: "Categories", name: "categories", widget: "list", required: false}
-      - {label: "Description", name: "description", widget: "text", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-  
-  - name: "pages"
-    label: "Pages"
-    folder: "content"
-    create: true
-    slug: "{{slug}}"
-    editor:
-      preview: false
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime", default: "{{now}}"}
-      - {label: "Draft", name: "draft", widget: "boolean", default: false}
-      - {label: "Type", name: "type", widget: "hidden", default: "page"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Author"
+        name: "authors"
+        widget: "select"
+        multiple: true
+        options:
+          - {label: "D4RK ONION", value: "d4rk-onion"}
+          - {label: "SHIN-A", value: "shin-a"}
 
-  # Optional: Site configuration
-  - name: "config"
-    label: "Site Configuration"
-    files:
-      - label: "Hugo Config"
-        name: "hugo_config"
-        file: "config.yaml"  # or config.toml/config.json depending on your setup
-        fields:
-          - {label: "Site Title", name: "title", widget: "string"}
-          - {label: "Base URL", name: "baseURL", widget: "string"}
-          - {label: "Language Code", name: "languageCode", widget: "string", default: "en-us"}
-          - {label: "Description", name: "description", widget: "text"}
-          # Add other config fields as needed
+      - label: "Featured Image"
+        name: "featured_image"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            max_file_size: 1024000 # in bytes
+
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Summary/Lead line (Shown in links & at top of article)", name: "description", widget: "text", required: true}
+      - {label: "Body", name: "body", widget: "markdown"}
