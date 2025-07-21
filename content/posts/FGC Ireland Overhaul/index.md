@@ -2,7 +2,7 @@
 date: 2025-07-18T12:00:00Z
 draft: false
 authors:
-  - "D4RK ONION"
+  - "d4rk-onion"
 title: FGC Ireland Overhaul
 tags:
 - News

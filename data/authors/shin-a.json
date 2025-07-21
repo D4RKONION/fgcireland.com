@@ -1,0 +1,10 @@
+{
+    "name": "SHIN-A",
+    "image" : "img/shin-a_avatar.jpg",
+    "bio": "IGM T.O.",
+    "social": [
+        { "twitter": "https://twitter.com/SH1N__A" },
+        { "twitch": "https://www.twitch.tv/shin_a_fgc" },
+        { "link": "https://www.irishgamingmarket.ie/" }
+    ]
+}
