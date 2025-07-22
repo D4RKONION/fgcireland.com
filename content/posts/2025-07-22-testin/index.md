@@ -9,9 +9,10 @@ tags:
   - Website Updates
 description: LEad
 galleryImages:
-  - /images/uploads/posts/testin/ifgc.bmp
-  - /images/uploads/posts/testin/about-us.jpg
+  - image: /images/uploads/posts/testin/ifgc.bmp
+  - image: /images/uploads/posts/testin/about-us.jpg
+  
 ---
 Test image embedded?
 
-`![Alt Text goes here](/images/uploads/posts/testin/about-us.jpg)`
+![Alt Text goes here](/images/uploads/posts/testin/about-us.jpg)
