@@ -13,4 +13,4 @@ galleryImages:
   - /images/uploads/posts/another-test/about-us.jpg
 ---
 Embed Image
-`![Alt Text goes here](/images/uploads/posts/another-test/fgcireland-fist.png)`
+![Alt Text goes here](/images/uploads/posts/another-test/fgcireland-fist.png)
