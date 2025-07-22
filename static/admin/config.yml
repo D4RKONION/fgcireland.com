@@ -67,8 +67,8 @@ collections:
         name: "galleryImages"
         widget: "list"
         max: 10
-        field:
-          label: "Image"
+        fields:
+        - label: "Image"
           name: "image"
           widget: "image"
           media_folder: "/static/images/uploads/posts/{{slug}}"
