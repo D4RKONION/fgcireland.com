@@ -67,7 +67,7 @@ collections:
         name: "galleryImages"
         widget: "list"
         max: 10
-        fields:
+        field:
           label: "Image"
           name: "image"
           widget: "image"
