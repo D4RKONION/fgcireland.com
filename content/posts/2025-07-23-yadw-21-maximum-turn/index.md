@@ -32,12 +32,14 @@ An absolutely massive turn out for YADW 21 made it one of the biggest Dublin tur
 Tekken 8 has been struggling in other regions but it appears the Dublin crowd are chomping at the bit for locals. This is the third time in a row that Tekken 8 has achieved at least [16 players](https://www.start.gg/tournament/your-average-dublin-weekly-21/event/tekken-8/brackets/2025649/2965738), and the competition has been intense every time. Outterest lost a close set to Neilo in Winners Finals, only to go 3-2 vs Maverick in Losers and reset Neilo for the win 3-2, 3-2 in what might now be the longest grand finals on record in Ireland. GGs to everyone who attended!
 
 ![Tekken Top 8 Graphic](/images/uploads/posts/yadw-21-maximum-turn-out/t8top8.png)
+![Tekken Top 3](/images/uploads/posts/yadw-21-maximum-turn-out/img_2544.jpg)
 
 ## GGST
 
 Guilty Gear Strive had a few lower than average turn-outs of recent weeks, but clearly they decided to prove that they were still the biggest scene in Dublin. A massive *[20 people](https://www.start.gg/tournament/your-average-dublin-weekly-21/event/guilty-gear-strive-1v1-bracket/brackets/2025650/2965739)* showed up to compete in Strive in what it feels like is our absolute Capacity for an event at The Back Page. Fierce competitors (plus a beleaguered TO) battled it out where Alumento almost made it back through losers side (and many 3-2 matches, including the losers final with Mister Finer) only to be beaten in the reset of Grand Finals by an on-form Flood. GGs!
 
 ![GGST Top 8 Graphic](/images/uploads/posts/yadw-21-maximum-turn-out/ggst-top-8.png)
+![GGST Top 3](/images/uploads/posts/yadw-21-maximum-turn-out/img_2547.jpg)
 
 ## Equipment update
 
