@@ -36,4 +36,8 @@ Street Fighter 6 ran a round robin bracket to facilitate the lower entry numbers
 
 Guilty Gear Strive had an intense bracket, with many players traveling down from Dublin to compete. The skill floor of the scene has reached a high level across Ireland, with every player who made it to the top 8 a contender, and every match feeling like it could've gone either way. Most notable is Carbattery losing to Flood in Winner's Finals, a match-up which he has previously looked completely in control of, although he would go on to claw back victory in a nail-biter grand finals reset.
 
+![GGST Top 3 - Flood / Carbattery / Goronberry](/images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-7.jpg)
+
 ## UNI2
+
+UNDER NIGHT IN-BIRTH II Sys:Celes hasn't been run in Cork for quite some time, so many rare faces showed up to support. Top 8 Losers was host to a number of great sets including a close fight between Charlie LaCroix and Dualgas in which Charlie would come out on top, followed by Charlie LaCroix vs Strawberry in which Strawberry would jump between Akatsuki, Hilda & Yuzuriha to narrowly secure 3rd. The fight for top spot would be momentarily delayed by some console overheating issues (which were swiftly resolved with the age old unplug everything technology)
