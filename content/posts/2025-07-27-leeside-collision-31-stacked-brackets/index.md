@@ -11,16 +11,15 @@ tags:
   - Cork
 description: A veritable shiver of sharks swarmed in Cork's long-standing local.
 galleryImages:
-  - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-1.jpg
   - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-2.jpg
   - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-3.jpg
   - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-4.jpg
   - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-5.jpg
-  - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-6.jpg
   - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-7.jpg
   - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-8.jpg
   - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-9.jpg
-  - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-10.jpg
+  - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/ggst_top8.png
+  - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/uni2_top8.png
 ---
 ## Filled With Killers
 
@@ -34,7 +33,7 @@ Street Fighter 6 ran a round robin bracket to facilitate the lower entry numbers
 
 ## GGST
 
-Guilty Gear Strive had an intense bracket, with many players traveling down from Dublin to compete. The skill floor of the scene has reached a high level across Ireland, with every player who made it to the top 8 a contender, and every match up feeling like it could've gone either way. Cork player chainsawxangel (me (self-glazing session)) managed to take the set against Dr K and Alumento for the first time to grab 4th, and Dublin regular Goronberry put on an incredible show in one of their rare Cork appearances, achieving a confident 3rd. Most notable though is Carbattery losing to Flood in Winner's Finals, a match-up which he has previously looked completely in control of, although he would go on to claw back victory in a nail-biter Grand Final's reset.
+Guilty Gear Strive had an intense bracket, with many players traveling down from Dublin to compete. The skill floor of the scene has reached a high level across Ireland, with every player who made it to the top 8 a contender for the high placement, and every match up feeling like it could've gone either way. Cork player chainsawxangel (me (self-glazing session)) managed to take the set against Dr K and Alumento for the first time to grab 4th, and Dublin regular Goronberry put on an incredible show in one of their rare Cork appearances, achieving a confident 3rd. Most notable though is Carbattery losing to Flood in Winner's Finals, a match-up which he has previously looked completely in control of, although he would go on to claw back victory in a nail-biter Grand Final's reset.
 
 ![GGST Top 3 - Flood / Carbattery / Goronberry](/images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-7.jpg)
 
