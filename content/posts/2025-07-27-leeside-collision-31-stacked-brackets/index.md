@@ -30,7 +30,7 @@ A deadly set of players filled the Tribe Dance Hall at Leeside Collision's 31st 
 
 Street Fighter 6 ran a round robin bracket to facilitate the lower entry numbers, giving everyone a chance to play longer and more exciting sets. Included in this bracket was Ireland's own Capcom Pro Tour player Brickterium, along with strong Irish players deskmenu and Strawberry, with Brickterium playing extremely convincingly on the day, winning 100% of his sets and only dropping one game out of twenty five to his brother deskmenu.
 
-![SF6's top 3 - deskmenu / Brickterium / Strawberry](/images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-9.jpg)
+![SF6 Top 3 - deskmenu / Brickterium / Strawberry](/images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-9.jpg)
 
 ## GGST
 
