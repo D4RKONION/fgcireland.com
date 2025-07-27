@@ -48,4 +48,4 @@ UNDER NIGHT IN-BIRTH II Sys:Celes hasn't been run in Cork for quite some time, s
 
 This is my first time writing something like this!!! Very exciting and very stressful. I want to get better at this, so if you have any feedback please find me @ chainsawxangel on Discord. I'm all ears ^._.^ ...
 
-On another note, if you're reading this and haven't come to a local before you *totally* should. Whether in Cork, Dublin, Belfast, or Galway, the Irish FGC is endlessly welcoming!! Locals are where it's at and need support now more than ever.
+On another note, if you're reading this and haven't come to a local before you *totally* should. Whether in Cork, Dublin, Belfast, or Galway, the Irish FGC is endlessly welcoming!! Some of the best people I know are local goers. You can find the localest local to you [here](https://fgcireland.com/discords/) and any upcoming events [here.](https://fgcireland.com/events/)
