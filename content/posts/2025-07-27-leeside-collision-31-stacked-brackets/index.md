@@ -34,10 +34,18 @@ Street Fighter 6 ran a round robin bracket to facilitate the lower entry numbers
 
 ## GGST
 
-Guilty Gear Strive had an intense bracket, with many players traveling down from Dublin to compete. The skill floor of the scene has reached a high level across Ireland, with every player who made it to the top 8 a contender, and every match feeling like it could've gone either way. Most notable is Carbattery losing to Flood in Winner's Finals, a match-up which he has previously looked completely in control of, although he would go on to claw back victory in a nail-biter grand finals reset.
+Guilty Gear Strive had an intense bracket, with many players traveling down from Dublin to compete. The skill floor of the scene has reached a high level across Ireland, with every player who made it to the top 8 a contender, and every match up feeling like it could've gone either way. Cork player chainsawxangel (me (self-glazing session)) managed to take the set against Dr K and Alumento for the first time to grab 4th, and Dublin regular Goronberry put on an incredible show in one of their rare Cork appearances, achieving a confident 3rd. Most notable though is Carbattery losing to Flood in Winner's Finals, a match-up which he has previously looked completely in control of, although he would go on to claw back victory in a nail-biter Grand Final's reset.
 
 ![GGST Top 3 - Flood / Carbattery / Goronberry](/images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-7.jpg)
 
 ## UNI2
 
-UNDER NIGHT IN-BIRTH II Sys:Celes hasn't been run in Cork for quite some time, so many rare faces showed up to support. Top 8 Losers was host to a number of great sets including a close fight between Charlie LaCroix and Dualgas in which Charlie would come out on top, followed by Charlie LaCroix vs Strawberry in which Strawberry would jump between Akatsuki, Hilda & Yuzuriha to narrowly secure 3rd. The fight for top spot would be momentarily delayed by some overheating consoles (which were swiftly resolved with the age old unplug everything technology)
+UNDER NIGHT IN-BIRTH II Sys:Celes hasn't been run in Cork for quite some time, so many rare faces showed up to support. Top 8 Losers was host to a number of great sets including a close fight between Charlie LaCroix and Dualgas in which Charlie would come out on top, followed by Charlie LaCroix vs Strawberry in which Strawberry would jump between Akatsuki, Hilda & Yuzuriha to narrowly secure 3rd. The battle for top spot between Naphiel and Dr K would be momentarily delayed by a problem of some overheating consoles (which would be resolved using the age old unplug everything technology). Naphiel started from loser's side on Hyde, switching to Carmine to reverse 3-0 in Grands, but Dr K would assert himself the best on the day by winning 3-1 in the reset.
+
+![UNI2 Top 3 - Naphiel / Dr K / Strawberry](/images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-8.jpg)
+
+## Author's Note
+
+This is my first time writing something like this!!! Very exciting and very stressful. I want to get better at this, so if you have any feedback please find me @ chainsawxangel on Discord. I'm all ears ^._.^ ...
+
+On another note, if you're reading this and haven't come to a local before you *totally* should. Whether in Cork, Dublin, Belfast, or Galway, the Irish FGC is endlessly welcoming!! Locals are where it's at and need support now more than ever.
