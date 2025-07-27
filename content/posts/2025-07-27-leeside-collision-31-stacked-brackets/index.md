@@ -4,12 +4,23 @@ date: 2025-07-27T14:47:00.000+01:00
 draft: false
 authors:
   - chainsawxangel
-featured_image: leeside-31-2.jpg
+featured_image: leeside-31-3.jpg
 tags:
   - Tournament
   - Round Up
   - Cork
 description: A veritable shiver of sharks swarmed in Cork's long-standing local.
+galleryImages:
+  - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-1.jpg
+  - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-2.jpg
+  - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-3.jpg
+  - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-4.jpg
+  - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-5.jpg
+  - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-6.jpg
+  - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-7.jpg
+  - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-8.jpg
+  - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-9.jpg
+  - image: /images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-10.jpg
 ---
 ## Filled With Killers
 
@@ -17,7 +28,11 @@ A deadly set of players filled the Tribe Dance Hall at Leeside Collision's 31st 
 
 ## Street Fighter 6
 
-Street Fighter 6 ran a round robin bracket to facilitate the lower entry numbers, giving everyone a chance to play longer and more exciting sets. Included in this bracket was Ireland's own Capcom Pro Tour player Brickterium, along with strong Irish players deskmenu and Strawberry, with Brickterium playing extremely convincingly on the day, winning 100% of his sets and only dropping 1 game out of 25 to his brother deskmenu.
+Street Fighter 6 ran a round robin bracket to facilitate the lower entry numbers, giving everyone a chance to play longer and more exciting sets. Included in this bracket was Ireland's own Capcom Pro Tour player Brickterium, along with strong Irish players deskmenu and Strawberry, with Brickterium playing extremely convincingly on the day, winning 100% of his sets and only dropping 1 game out of 25 to his brother deskmenu.\
+
+!\[SF6's top 3: deskmenu, Brickterium, Strawberry respectively](/images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-9.jpg)
+
+
 
 ## GGST
 
