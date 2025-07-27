@@ -30,13 +30,10 @@ A deadly set of players filled the Tribe Dance Hall at Leeside Collision's 31st 
 
 Street Fighter 6 ran a round robin bracket to facilitate the lower entry numbers, giving everyone a chance to play longer and more exciting sets. Included in this bracket was Ireland's own Capcom Pro Tour player Brickterium, along with strong Irish players deskmenu and Strawberry, with Brickterium playing extremely convincingly on the day, winning 100% of his sets and only dropping one game out of twenty five to his brother deskmenu.
 
-
 ![SF6's top 3 - deskmenu / Brickterium / Strawberry](/images/uploads/posts/leeside-collision-31-stacked-brackets/leeside-31-9.jpg)
-
-
 
 ## GGST
 
-Guilty Gear Strive had a very exciting bracket, with many players traveling down from Dublin to compete. Every player who made it to the top 8 is a known country-wide killer, and every match felt like it could've gone either way. Most notable is Carbattery losing to Flood in Winner's Finals, a match-up which he has previously looked completely in control of, although he would go on to claw back victory in a nail-biter grand finals reset. Overall the skill floor of Ireland's Strive top echelon has leveled out at an extremely high level.
+Guilty Gear Strive had an intense bracket, with many players traveling down from Dublin to compete. The skill floor of the scene has reached a high level across Ireland, with every player who made it to the top 8 a contender, and every match feeling like it could've gone either way. Most notable is Carbattery losing to Flood in Winner's Finals, a match-up which he has previously looked completely in control of, although he would go on to claw back victory in a nail-biter grand finals reset.
 
 ## UNI2
