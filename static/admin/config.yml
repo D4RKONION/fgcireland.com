@@ -44,6 +44,7 @@ collections:
         options:
           - {label: "D4RK ONION", value: "d4rk-onion"}
           - {label: "SHIN-A", value: "shin-a"}
+          - {label: "chainsawxangel", value: "chainsawxangel"}
 
       - label: "Featured Image"
         name: "featured_image"
@@ -58,7 +59,7 @@ collections:
         widget: "select"
         multiple: true
         min: 1
-        options: ["News", "Accouncement", "Tournament", "Round Up", "Belfast", "Cork", "Dublin", "Galway", "Kerry", "Travel Blog", "Website Updates"]
+        options: ["News", "Announcement", "Tournament", "Round Up", "Belfast", "Cork", "Dublin", "Galway", "Kerry", "Interview", "Travel Blog", "Website Updates"]
 
 
       - {label: "Summary/Lead line (Shown in links & at top of article)", name: "description", widget: "text", required: true}
