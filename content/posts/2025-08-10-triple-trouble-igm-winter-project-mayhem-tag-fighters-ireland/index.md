@@ -1,7 +1,7 @@
 ---
 title: "TRIPLE TROUBLE: IGM Winter, Project Mayhem & Tag Fighters Ireland"
-date: 2025-08-10T18:51:00.000+01:00
-draft: true
+date: 2025-08-10T19:24:00.000+01:00
+draft: false
 authors:
   - shin-a
 featured_image: gxsyxa3wuaakmyh.jpg
@@ -28,7 +28,7 @@ If you don't know me, my name is SHIN-A, I'm a player and tournament organizer f
 
 ![IGM Winter Showdown 2025 Poster](/images/uploads/posts/triple-trouble-igm-winter-project-mayhem-tag-fighters-ireland/gxgqkqexcaa1ps1.jpg) 
 
-### What is IGM? 
+### What is IGM?
 
 If you're unfamiliar, Irish Gaming Market has been working with the FGC since Summer 2024 to bring grassroots esports tournaments back to a bigger stage in Ireland on a seasonal basis. They are a startup convention business based in Leinster that run the largest dedicated gaming market in Ireland, along with other attractions like a variety of non-gaming related vendors, areas where people can use retro arcade and DDR machines as well as a main stage with a variety of competitions with prizes from their event partners like Red Bull.
 
@@ -72,8 +72,7 @@ The venue is home to the Irish based esports organisation "Wylde" and is equippe
 
 Starting at August 1st 2025, the NEC are now running "Project Mayhem", a local ran every second week from 5pm to 8pm. For just €5 entry, anyone can come and enjoy what the venue has to offer either just socially, as a spectator or to sharpen their competitive skills offline! All setups are ran on the high end PC's and monitors mentioned previously with 15 being available for use and pre equipped with Street Fighter 6, Tekken 8 & Guilty Gear Strive as well as space for people to run other games on their own equipment or steam accounts.
 
-![Project Mayhem Venue Shot 2](/images/uploads/posts/triple-trouble-igm-winter-project-mayhem-tag-fighters-ireland/image_2025-08-10_164558273.png) 
-
+![Project Mayhem Cork Preview](/images/uploads/posts/triple-trouble-igm-winter-project-mayhem-tag-fighters-ireland/image_2025-08-10_165155469.png)  
 
 The National Esports Centre is an Official Riot Play Club, giving them a partnership with Riot that will continue with the release of the 2XKO Beta on September 9th. Expect to see 2XKO added to the core lineup of games then, along with some other things in the pipeline soon!
 
@@ -95,4 +94,4 @@ Interested? You can get involved here: <https://discord.gg/SHgztjgnt8>
 
 That's all from me for now, thanks for reading and be sure to keep up to date with everything here that interests you either through the discords or this website.
 
-As always, support your locals![](https://discord.gg/SHgztjgnt8)[](https://discord.gg/tTqP2bpupM)[](https://www.start.gg/tournament/igm-winter-showdown-2025/details)
+As always, support your locals!
