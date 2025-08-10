@@ -1,6 +1,6 @@
 ---
 title: "TRIPLE TROUBLE: IGM Winter, Project Mayhem & Tag Fighters Ireland"
-date: 2025-08-10T18:51:00.000+01:00
+date: 2025-08-10T19:24:00.000+01:00
 draft: false
 authors:
   - shin-a
