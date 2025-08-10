@@ -94,4 +94,4 @@ Interested? You can get involved here: <https://discord.gg/SHgztjgnt8>
 
 That's all from me for now, thanks for reading and be sure to keep up to date with everything here that interests you either through the discords or this website.
 
-As always, support your locals![](https://discord.gg/SHgztjgnt8)[](https://discord.gg/tTqP2bpupM)[](https://www.start.gg/tournament/igm-winter-showdown-2025/details)
+As always, support your locals!
