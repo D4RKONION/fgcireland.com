@@ -27,31 +27,31 @@ The YADW team were worried that summer might dry out the Dublin FGC for a few mo
 
 But spirits were high, deodorant was applied, and competition was immense at this week's YADW!
 
-![Dark Hawkii Rising](/images/uploads/posts/yadw-22-running-smoothly/IMG_2562.jpg)
+![Dark Hawkii Rising](/images/uploads/posts/yadw-22-running-smoothly/img_2562.jpg)
 
 
 ## SF6
 
 SF6 continues to bring the crowds, with strong players and newer competitors alike. Squarepheus managed to clutch a tight Winner's Finals V.S. QuirkyTurtle (who made an impressive YADW debut at 3rd place) before a dominating finish V.S. Skyozer in Grand Finals. This marks Square's first YADW win, massive congrats to him!
 
-![SF6 Top 8](/images/uploads/posts/sf6.png)
+![SF6 Top 8](/images/uploads/posts/yadw-22-running-smoothly/sf6.png)
 
-![SF6 Top 3](/images/uploads/posts/IMG_2572.jpg)
+![SF6 Top 3](/images/uploads/posts/yadw-22-running-smoothly/img_2572.jpg)
 
 
 ## UNI
 
 UNI's consistent numbers can't be denied and this week was no different. The players stormed through the bracket; Dr. K continued his reign of terror with a 3-0 victory over Naphiel in Winner's, and a 3-1 win to take Grands in the same match-up. AN2 placed 3rd in what was an extremely competitive bracket as always.
 
-![UNI Top 8](/images/uploads/posts/download.png)
+![UNI Top 8](/images/uploads/posts/yadw-22-running-smoothly/download.png)
 
-![UNI Top 3](/images/uploads/posts/IMG_2570.jpg)
+![UNI Top 3](/images/uploads/posts/yadw-22-running-smoothly/img_2570.jpg)
 
 ## YADW 23
 
 Want to take part yourself? We play every second Tuesday in The Back Page, Phibsborough, Dublin. If you're a Tekken or Strive player, you should definitely come along to [YADW 23, sign-ups open now](https://start.gg/yadw)! **All skill levels** are welcome and bracket entry goes towards the community fund for new equipment/software purchases.
 
-![This could be you](/images/uploads/posts/IMG_2569.jpg)
+![This could be you](/images/uploads/posts/yadw-22-running-smoothly/img_2569.jpg)
 
 Do you want to be this content in life? It could be you!
 
