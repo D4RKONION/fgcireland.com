@@ -70,13 +70,13 @@ UNI2 had a splash of Irish talent, and a recent push from community members to g
 
 In an unexpected turn of events, Seán is goated at Tekken Ball. Using Law 1+2 he made his way confident to 4th, for which he received a medal and an invitation, as a notable Tekken Ball player, to the European Tekken Ball Discord.
 
-**SF6 / 250 Entrants**\
-*Neilo = 49TH*
-
-**TEKKEN 8 / 242 Entrants**\
+**TEKKEN 8 / 242 Entrants**
 *Hench Man Hoey = 17TH*
 
 Hench Man Hoey had a stellar performance to achieve Top 24
+
+**SF6 / 250 Entrants**\
+*Neilo = 49TH*
 
 **FATAL FURY: COTW / 70 Entrants**\
 *Neilo = 33RD*
