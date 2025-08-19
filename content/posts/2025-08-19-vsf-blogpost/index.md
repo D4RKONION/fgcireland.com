@@ -37,7 +37,7 @@ Ireland's favourite game at VSF was bound to have a good showing, but what we ca
 *Orion = 17TH*\
 *Flood = 17TH*
 
-On the Sunday of VSF, some of the GGST players decided to set up a little casual bracket which quickly bloomed into a 31 person post-local. Of this bracket Ireland had some very strong placements, with Orion and Flood getting 17th (Flood specifically wanted me to mention that she lost to two Potemkins (Fraud Alert)), Mister_Finer making it all the way to Top 8 before being knocked out by Volta Antares, and Alumento securing 4th before dropping to GekkoSquirrel.
+On the Sunday of VSF, some of the GGST players decided to set up a little casual bracket which quickly bloomed into a 31 person post-local. Of this bracket Ireland had some very strong placements, with Orion and Flood getting 17th (Flood specifically wanted me to mention that she lost to two Potemkins (Fraud Laust Alert)), Mister_Finer making it all the way to Top 8 before being knocked out by Volta Antares, and Alumento securing 4th before dropping to GekkoSquirrel.
 
 ## GBVSR
 
