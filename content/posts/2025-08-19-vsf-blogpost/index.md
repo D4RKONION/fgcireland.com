@@ -48,7 +48,7 @@ On the Sunday of VSF, some of the GGST players decided to set up a little casual
 *Pyro_ = 49TH*\
 *Mister_Finer = 65TH*
 
-Granblue is a game which has had very few in person tournaments across Ireland, although it has seen some online attention recently through Orion's "Monday Night Granball" which is hosted in the [Eiredashers Discord](https://fgcireland.com/discords/). Mister_Finer took 65th
+Granblue is a game which has had very few in person tournaments across Ireland, although it has seen some online attention recently through Orion's "Monday Night Granball" which is hosted in the [Eiredashers Discord](https://fgcireland.com/discords/). Mister\_Finer took 65th, with Pyro\_ making a run through losers, barely scraping the edge of top 48 in a 2-3 set against Pizza time. Orion had a great run through losers to get 33rd after a Round 1 Irish teamkill from Grumm, who went on to reach top 24 in a very impressive showing.
 
 ## UNI2
 
