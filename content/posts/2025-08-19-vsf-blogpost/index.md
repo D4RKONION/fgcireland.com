@@ -48,7 +48,7 @@ On the Sunday of VSF, some of the GGST players decided to set up a little casual
 *Pyro_ = 49TH*\
 *Mister_Finer = 65TH*
 
-
+Granblue is a game which has had very few in person tournaments across Ireland, although it has seen some online attention recently through Orion's "Monday Night Granball" which is hosted in the [Eiredashers Discord](https://fgcireland.com/discords/).
 
 ## UNI2
 
@@ -56,10 +56,11 @@ On the Sunday of VSF, some of the GGST players decided to set up a little casual
 
 *Dr K = 5TH*\
 *Mister_Finer = 33RD*\
-*Orion = 33RD*\
-*Themata = 49TH*
+*Orion = 33RD*
 
-## HONOURABLE MENTION: TEKKEN BALL
+UNI2 had a splash of Irish talent, and a recent push from community members to give it more time in sun leads me to believe it has bright future full of photosynthesis. Out in 33rd was Mister_Finer and Orion, both managing to do some damage in a game which they are quite unfamiliar with. The star of the show here is Dr K, Ireland's resident lab monster and a leader of the recent UNI2 resurgence, who grabbed 5th in some very exciting horse-related matches.
+
+## HONOURABLE MENTION: TEKKEN BALL, T8, SF6
 
 **IRISH PLACEMENTS:**
 
