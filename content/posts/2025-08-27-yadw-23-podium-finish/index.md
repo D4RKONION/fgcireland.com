@@ -4,7 +4,6 @@ date: 2025-08-27T10:08:00.000+01:00
 draft: false
 authors:
   - d4rk-onion
-featured_image: img_1498.jpg
 tags:
   - Tournament
   - Round Up
