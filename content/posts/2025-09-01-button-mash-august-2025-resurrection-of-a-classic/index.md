@@ -1,6 +1,6 @@
 ---
 title: "Button Mash August 2025: Resurrection of a Classic"
-date: 2025-09-01T21:52:00.000+01:00
+date: 2025-09-01T22:26:00.000+01:00
 draft: true
 authors:
   - yreval
