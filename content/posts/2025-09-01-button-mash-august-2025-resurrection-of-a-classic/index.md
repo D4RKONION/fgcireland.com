@@ -1,7 +1,7 @@
 ---
 title: "Button Mash August 2025: Resurrection of a Classic"
 date: 2025-09-01T22:26:00.000+01:00
-draft: true
+draft: false
 authors:
   - yreval
 featured_image: 20250830_161126.jpg
