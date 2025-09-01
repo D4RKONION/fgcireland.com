@@ -1,0 +1,10 @@
+{
+    "name": "Yreval",
+    "image" : "img/yreval_avatar.jpg",
+    "bio": "Belfast FGC Veteran",
+    "social": [
+        { "bluesky": "https://bsky.app/profile/yreval.bsky.social" },
+        { "youtube": "https://www.youtube.com/@TheYreval" },
+        { "link": "https://yreval.dreamwidth.org/" }
+    ]
+}
