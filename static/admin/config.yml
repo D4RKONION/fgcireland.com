@@ -45,6 +45,7 @@ collections:
           - {label: "D4RK ONION", value: "d4rk-onion"}
           - {label: "SHIN-A", value: "shin-a"}
           - {label: "chainsawxangel", value: "chainsawxangel"}
+          - {label: "Yreval", value: "yreval"}
 
       - label: "Featured Image"
         name: "featured_image"
