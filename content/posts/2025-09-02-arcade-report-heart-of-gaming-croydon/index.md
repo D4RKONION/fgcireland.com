@@ -73,7 +73,7 @@ Finally, they had an Arcade1Up Marvel vs Capcom cabinet, accounting for (in addi
 
 ![A seating area at Heart of Gaming. There are game posters (Street Fighter EX, Street Fighter EX2, Real Bout Fatal Fury, KOF96, KOF97, KOF98, X-Men vs Street Fighter, Marvel Super Heroes vs Street Fighter, Mushihime Futari Black Label). There's also one of those Arcade1Up Marvel vs Capcom cabinets](/images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreic2i6mwfxuzdtomhxx6pdq6s5b6ylttfpd37b6hkkagaml4npaega.jpg)
 
-All told, that's 19 games, and they were (at least, the ones I had time to play) in excellent condition. The joysticks were a bit loose on a couple of them, but otherwise I had no complaints. In particular, those Naomi DX cabinets with their massive CRTs were an absolute joy to play on. You could say that the game selection is a little Capcom-centric (and SNK, to a lesser extent), and the closest thing you'll get to a 3D fighter is SFEX2, but I'd be surprised if even the gargantuan [Arcade Club](https://www.arcadeclub.co.uk/) in Bury, the largest arcade in Europe and nearly ten times the size of HoG, had a better line-up of fighters.
+All told, that's 19 games, and they were (at least, the ones I had time to play) in excellent condition. The joysticks were a bit loose on a couple of them, but otherwise I had no complaints. In particular, those Naomi DX cabinets with their massive CRTs were an absolute joy to play on. You could say that the game selection is a little Capcom-centric (and SNK, to a lesser extent), and the closest thing you'll get to a 3D fighter is SFEX2, but I'd be surprised if even the gargantuan [Arcade Club](https://www.arcadeclub.co.uk/) in Bury, the [largest arcade in Europe](https://youtu.be/vhAzFz1lNEY) and nearly ten times the size of HoG, had a better line-up of fighters.
 
 Other highlights
 
@@ -88,4 +88,4 @@ Other highlights
 
 * Back-to-back with the aforementioned six-slot Neo-Geo was a four-slot Neo-Geo with Metal Slug 1-3 and X.
 
-![A four-slot Neo Geo cabinet with Metal Slug 1-3 and X](/images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreieksrkmhqggoiuqzsm5jbg5psgu5j5eccqprnfhjbuobwmv5qpj3q.jpg0
+!\[A four-slot Neo Geo cabinet with Metal Slug 1-3 and X](/images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreieksrkmhqggoiuqzsm5jbg5psgu5j5eccqprnfhjbuobwmv5qpj3q.jpg0
