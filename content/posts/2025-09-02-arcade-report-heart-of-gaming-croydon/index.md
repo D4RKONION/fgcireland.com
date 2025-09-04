@@ -17,6 +17,7 @@ galleryImages:
   - image: /images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreiam3d5oajlbtmstgmc7eoxwkyqxl2mcyserilaavjlddtwf7aohiu.jpg
   - image: /images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreic2i6mwfxuzdtomhxx6pdq6s5b6ylttfpd37b6hkkagaml4npaega.jpg
   - image: /images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreieksrkmhqggoiuqzsm5jbg5psgu5j5eccqprnfhjbuobwmv5qpj3q.jpg
+  - image: /images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreidhdpyiimmc2tggswsp7ux2v5umgskgne7unm5zh6bftff7bas2je.jpg
 ---
 Over the August Bank Holiday weekend, I travelled to London with my brother - a massive wrestling fan - to see AEW/NJPW Forbidden Door at the O2 Arena. It was a great night of wrestling, for sure, but for me the highlight of the trip was the following afternoon, when to pass some time before our flight back to Belfast, we checked out the Heart of Gaming arcade in Croydon.
 
@@ -31,7 +32,7 @@ We arrived there and paid £10 each for a wristband that granted us entry all da
 
 Since we didn't have that much time to kill, this report is based on around an hour and a half of time in the arcade, and is therefore unlikely to be fully accurate or complete; also, I'm sorry that the pictures aren't exactly the best quality - the lens on my phone camera must have been a bit smudged.
 
-Fighting games
+# Fighting games
 
 The arcade had the following fighting games in stand-alone two-player cabinets:
 
@@ -71,11 +72,15 @@ Finally, they had an Arcade1Up Marvel vs Capcom cabinet, accounting for (in addi
 * Marvel Super Heroes vs Street Fighter
 * Marvel vs Capcom
 
-![A seating area at Heart of Gaming. There are game posters (Street Fighter EX, Street Fighter EX2, Real Bout Fatal Fury, KOF96, KOF97, KOF98, X-Men vs Street Fighter, Marvel Super Heroes vs Street Fighter, Mushihime Futari Black Label). There's also one of those Arcade1Up Marvel vs Capcom cabinets](/images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreic2i6mwfxuzdtomhxx6pdq6s5b6ylttfpd37b6hkkagaml4npaega.jpg)
+![A seating area at Heart of Gaming. There are game posters (Street Fighter EX, Street Fighter EX2, Real Bout Fatal Fury, KOF96, KOF97, KOF98, X-Men vs Street Fighter, Marvel Super Heroes vs Street Fighter, Mushihimesama Futari Black Label). There's also one of those Arcade1Up Marvel vs Capcom cabinets](/images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreic2i6mwfxuzdtomhxx6pdq6s5b6ylttfpd37b6hkkagaml4npaega.jpg)
 
-All told, that's 19 games, and they were (at least, the ones I had time to play) in excellent condition. The joysticks were a bit loose on a couple of them, but otherwise I had no complaints. In particular, those Naomi DX cabinets with their massive CRTs were an absolute joy to play on. You could say that the game selection is a little Capcom-centric (and SNK, to a lesser extent), and the closest thing you'll get to a 3D fighter is SFEX2, but I'd be surprised if even the gargantuan [Arcade Club](https://www.arcadeclub.co.uk/) in Bury, the [largest arcade in Europe](https://youtu.be/vhAzFz1lNEY) and nearly ten times the size of HoG, had a better line-up of fighters.
+All told, that's 19 games, and they were (at least, the ones I had time to play) in excellent condition. The joysticks were a bit loose on a couple of them, but otherwise I had no complaints. In particular, those Naomi DX cabinets with their massive CRTs were an absolute joy to play on.
 
-Other highlights
+![High score screen of Street Fighter Zero 3 (Japanese version of SFA3) after I 1CC'd the game with Sakura with a score of 1,504,000](/images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreidhdpyiimmc2tggswsp7ux2v5umgskgne7unm5zh6bftff7bas2je.jpg)
+
+You could say that the game selection is a little Capcom-centric (and SNK, to a lesser extent), and the closest thing you'll get to a 3D fighter is SFEX2, but I'd be surprised if even the gargantuan [Arcade Club](https://www.arcadeclub.co.uk/) in Bury, the [largest arcade in Europe](https://youtu.be/vhAzFz1lNEY) and nearly ten times the size of HoG, had a better line-up of fighters.
+
+# Other highlights
 
 * There was a decent selection of rhythm games, such as In the Groove, Maimai, Pop'n Music, Hatsune Miku: Project Diva, Rhythm Heaven, and - I apologise to Paul for not getting a better picture of it - Taiko no Tatsujin.
 
@@ -90,4 +95,10 @@ Other highlights
 
 ![A four-slot Neo Geo cabinet with Metal Slug 1-3 and X](/images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreieksrkmhqggoiuqzsm5jbg5psgu5j5eccqprnfhjbuobwmv5qpj3q.jpg0)
 
-*
+# General information
+
+HoG is located at 44-46 North End Road in Croydon, about a five-minute walk from West Croydon station and a ten-minute walk from East Croydon station. It's open from midday to 7pm every Friday, Saturday, and Sunday, and seven days a week in the summer. As mentioned previously, it's usually £20 for an all-day pass, but various concessionary rates are available. For more information, visit their website at [https://www.heartofgaming.co.uk/.](https://www.heartofgaming.co.uk/)
+
+In the end, it turns out we could have stayed later, as just as we got on the train back into central London, we got a message - it turned out there'd been a change of plan at McLaren and they weren't able to accomodate any tours that day. On top of that, our flight - which we'd switched to from an earlier flight so we could go on the tour - was delayed by over an hour. Oops!
+
+In any case, though, I had a great time at HoG and I'll be sure to visit for longer the next time I'm in London. So I say: check it out if you can.
