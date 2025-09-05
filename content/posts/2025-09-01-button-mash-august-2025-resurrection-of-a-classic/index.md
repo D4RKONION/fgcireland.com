@@ -42,7 +42,7 @@ With May winner **FreakingFracker** (T8 having been put on hiatus for the June e
 
 ![Street Fighter 6 top 3 from left to right: MigBee, CriticaLizard, Neilo](/images/uploads/posts/button-mash-august-2025-resurrection-of-a-classic/20250830_160435.jpg)
 
-![Street Fighter 6 top 8: 1) CriticaLizard (Zangief) 2) MigBee (Jamie) 3) Neilo (Dee Jay) 4) Yreval (Marisa) 5) Azhar (Rashid)/Pennma (Marisa) 7) Alumento(Dee Jay)/Lianoc (Ken)](//images/uploads/posts/button-mash-august-2025-resurrection-of-a-classic/button-mash-aug-25-top8-sf6.jpg)
+![Street Fighter 6 top 8: 1) CriticaLizard (Zangief) 2) MigBee (Jamie) 3) Neilo (Dee Jay) 4) Yreval (Marisa) 5) Azhar (Rashid)/Pennma (Marisa) 7) Alumento(Dee Jay)/Lianoc (Ken)](/images/uploads/posts/button-mash-august-2025-resurrection-of-a-classic/button-mash-aug-25-top8-sf6.jpg)
 
 # Guilty Gear Strive
 
