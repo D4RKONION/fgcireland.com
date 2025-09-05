@@ -99,6 +99,6 @@ You could say that the game selection is a little Capcom-centric (and SNK, to a 
 
 HoG is located at 44-46 North End Road in Croydon, about a five-minute walk from West Croydon station and a ten-minute walk from East Croydon station. It's open from midday to 7pm every Friday, Saturday, and Sunday, and seven days a week in the summer. As mentioned previously, it's usually £20 for an all-day pass, but various concessionary rates are available. For more information, visit their website at [https://www.heartofgaming.co.uk/.](https://www.heartofgaming.co.uk/)
 
-In the end, it turns out we could have stayed later, as just as we got on the train back into central London, we got a message - it turned out there'd been a change of plan at McLaren and they weren't able to accomodate any tours that day. On top of that, our flight - which we'd switched to from an earlier flight so we could go on the tour - was delayed by over an hour. Oops!
+In the end, it turns out we could have stayed later, as just as we got on the train back into central London, we got a message - it turned out something had come up at McLaren and they weren't able to accomodate any tours that day. On top of that, our flight - which we'd switched to from an earlier flight so we could go on the tour - was delayed by over an hour. Oops!
 
 In any case, though, I had a great time at HoG and I'll be sure to visit for longer the next time I'm in London. So I say: check it out if you can.
