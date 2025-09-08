@@ -1,7 +1,7 @@
 ---
 title: "Arcade Report: Heart of Gaming, Croydon"
 date: 2025-09-02T23:30:00.000+01:00
-draft: true
+draft: false
 authors:
   - yreval
 featured_image: bafkreigfivqohvncbprtub2nna65rgcq6fvrbltvicpusxuiljb6jqwuum.jpg
