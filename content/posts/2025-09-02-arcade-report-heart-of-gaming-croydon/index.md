@@ -93,7 +93,7 @@ You could say that the game selection is a little Capcom-centric (and SNK, to a 
 
 * Back-to-back with the aforementioned six-slot Neo-Geo was a four-slot Neo-Geo with Metal Slug 1-3 and X.
 
-![A four-slot Neo Geo cabinet with Metal Slug 1-3 and X](/images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreieksrkmhqggoiuqzsm5jbg5psgu5j5eccqprnfhjbuobwmv5qpj3q.jpg0)
+![A four-slot Neo Geo cabinet with Metal Slug 1-3 and X](/images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreieksrkmhqggoiuqzsm5jbg5psgu5j5eccqprnfhjbuobwmv5qpj3q.jpg)
 
 # General information
 
