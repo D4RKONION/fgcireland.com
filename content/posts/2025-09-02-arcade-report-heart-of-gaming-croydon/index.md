@@ -25,7 +25,7 @@ My brother told me how on a previous trip to London he visited the now-closed Na
 
 We had a bit of a gap in our Monday plans, between checking out of our apartment at 11am and a tour of the McLaren Technology Centre at 4pm (our sister works for the McLaren F1 team - [who are doing reasonably well at the minute](https://www.formula1.com/en/results/2025/team) - and arranged for us to go on the tour), so we decided to take the train to Croydon and check this place out.
 
-We arrived there and paid £10 each for a wristband that granted us entry all day (the games are all on free play, and it's normally £20, but they were giving half-price entry as it was a Bank Holiday). I looked at the far corner of the arcade, saw this, and knew immediately that I had come to the right place:
+We arrived there and paid £10 each for a wristband that granted us entry all day (the games are all on free play, and it's normally £20 to get in, but they were giving half-price entry as it was a Bank Holiday). I looked at the far corner of the arcade, saw this, and knew immediately that I had come to the right place:
 
 ![A row of fighting game cabinets: Street Fighter Zero 3, Street Fighter Alpha 2, Street Fighter EX2, and Street Fighter 2: Hyper Fighting](/images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreign6umhqeq2ylmxkl4eqazq6wixa22srl3g5c7c2pdrbjhi7paclm.jpg)
 *From left to right: Street Fighter Alpha 3, Street Fighter Alpha 2, Street Fighter EX2, and Street Fighter II: Hyper Fighting, all housed in Naomi DX Universal Cabinets, all of which are in impeccable condition*
