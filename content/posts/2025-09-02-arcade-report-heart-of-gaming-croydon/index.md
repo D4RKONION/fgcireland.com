@@ -78,7 +78,7 @@ All told, that's 19 games, and they were (at least, the ones I had time to play)
 
 ![High score screen of Street Fighter Zero 3 (Japanese version of SFA3) after I 1CC'd the game with Sakura with a score of 1,504,000](/images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreidhdpyiimmc2tggswsp7ux2v5umgskgne7unm5zh6bftff7bas2je.jpg)
 
-You could say that the game selection is a little Capcom-centric (and SNK, to a lesser extent), and the closest thing you'll get to a 3D fighter is SFEX2, but I'd be surprised if even the gargantuan [Arcade Club](https://www.arcadeclub.co.uk/) in Bury, the [largest arcade in Europe](https://youtu.be/vhAzFz1lNEY) - nearly ten times the size of HoG - had a better line-up of fighters.
+You could say that the game selection is a little Capcom-centric (and SNK, to a lesser extent), and the closest thing you'll get to a 3D fighter is SFEX2, but I'd be surprised if even the gargantuan [Arcade Club](https://www.arcadeclub.co.uk/) in Bury, the [largest arcade in Europe](https://youtu.be/vhAzFz1lNEY) - over five times the size of HoG, in terms of number of cabinets - had a better line-up of fighters.
 
 # Other highlights
 
