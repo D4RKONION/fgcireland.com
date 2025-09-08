@@ -78,11 +78,11 @@ All told, that's 19 games, and they were (at least, the ones I had time to play)
 
 ![High score screen of Street Fighter Zero 3 (Japanese version of SFA3) after I 1CC'd the game with Sakura with a score of 1,504,000](/images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreidhdpyiimmc2tggswsp7ux2v5umgskgne7unm5zh6bftff7bas2je.jpg)
 
-You could say that the game selection is a little Capcom-centric (and SNK, to a lesser extent), and the closest thing you'll get to a 3D fighter is SFEX2, but I'd be surprised if even the gargantuan [Arcade Club](https://www.arcadeclub.co.uk/) in Bury, the [largest arcade in Europe](https://youtu.be/vhAzFz1lNEY) and nearly ten times the size of HoG, had a better line-up of fighters.
+You could say that the game selection is a little Capcom-centric (and SNK, to a lesser extent), and the closest thing you'll get to a 3D fighter is SFEX2, but I'd be surprised if even the gargantuan [Arcade Club](https://www.arcadeclub.co.uk/) in Bury, the [largest arcade in Europe](https://youtu.be/vhAzFz1lNEY) - nearly ten times the size of HoG - had a better line-up of fighters.
 
 # Other highlights
 
-* There was a decent selection of rhythm games, such as In the Groove, Maimai, Pop'n Music, Hatsune Miku: Project Diva, Rhythm Heaven, and - I apologise to Paul for not getting a better picture of it - Taiko no Tatsujin.
+* There was a decent selection of rhythm games, such as In the Groove, Maimai, Pop'n Music, Hatsune Miku: Project Diva, Rhythm Heaven, and - I apologise to D4RK ONION for not getting a better picture of it - Taiko no Tatsujin.
 
 ![A row of rhythm games: Pop'n Music, Hatsune Miku: Project Diva, Rhythm Heaven. The side of a Taiko no Tatsujin cabinet can be seen on the right hand side](/images/uploads/posts/arcade-report-heart-of-gaming-croydon/bafkreiawmnx742amrsynk4quudiqo7bqvmlx7dppvwurc35edzpay5u4li.jpg)
 
@@ -97,7 +97,7 @@ You could say that the game selection is a little Capcom-centric (and SNK, to a 
 
 # General information
 
-HoG is located at 44-46 North End Road in Croydon, about a five-minute walk from West Croydon station and a ten-minute walk from East Croydon station. It's open from midday to 7pm every Friday, Saturday, and Sunday, and seven days a week in the summer. As mentioned previously, it's usually £20 for an all-day pass, but various concessionary rates are available. For more information, visit their website at [https://www.heartofgaming.co.uk/.](https://www.heartofgaming.co.uk/)
+HoG is located at 44-46 North End Road in Croydon, about a five-minute walk from West Croydon station and a ten-minute walk from East Croydon station. It's open from midday to 7pm every Friday, Saturday, and Sunday, and seven days a week in July and August. As mentioned previously, it's usually £20 for an all-day pass, but various concessionary rates are available. For more information, visit their website at [https://www.heartofgaming.co.uk/.](https://www.heartofgaming.co.uk/)
 
 In the end, it turns out we could have stayed later, as just as we got on the train back into central London, we got a message - it turned out something had come up at McLaren and they weren't able to accomodate any tours that day. On top of that, our flight - which we'd switched to from an earlier flight so we could go on the tour - was delayed by over an hour. Oops!
 
