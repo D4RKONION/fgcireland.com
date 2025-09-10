@@ -23,6 +23,8 @@ galleryImages:
 ## Smash shoutouts
 Smash is back with a vengeance this week, with a massive 18 person bracket. Truly this is the final sign that Irish summer is over, and sure enough the weather deteriorated the next day. Shoutouts to the smash top 3 of TheGreg, Hackle Serpent & Silver Bullet!
 
+![Smash Stream](/images/uploads/posts/yadw-24-summers-end/img_2645.jpg)
+
 ## UNI
 
 Another bumper week for UNI as well, the anime scene showing that its appetite for competition is unwaning. A full 16 person bracket was underway, and Dr. K's reign of terror has finally been put to an end by Naphiel with newcomer Unika!
