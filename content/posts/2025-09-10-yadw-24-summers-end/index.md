@@ -36,7 +36,7 @@ Another bumper week for UNI as well, the anime scene showing that its appetite f
 A quiet week for SF6, but competition was still fierce with Damigod taking his first YADW bracket victory, defeating Skyozer in grand finals! This continues our streak of having a different player win SF6 every week, which is impressive stuff.
 
 ![SF6 Top 8 Graphic](/images/uploads/posts/yadw-24-summers-end/sf6.png)
-![SF6 Top 3](/images/uploads/posts/yadw-24-summers-end/img_2656.jpg)
+![SF6 Top 3](/images/uploads/posts/yadw-24-summers-end/img_2655.jpg)
 
 ## YADW 25
 
