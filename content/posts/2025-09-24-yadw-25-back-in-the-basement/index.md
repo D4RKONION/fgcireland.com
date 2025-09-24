@@ -23,7 +23,7 @@ galleryImages:
 
 This week marks our 25th event since Dublin locals started back up (a bit less for FGC-featuring YADWs but shhhh). It's been great to help bring Fighting Games back to Dublin, and thank you to everyone who's been helping out at these events; whether that's people helping to run brackets, setting up tables, or just showing up to enjoy the bracket & grab some pizza. Here's to 25 more!
 
-![The smash lads](/images/uploads/posts/yadw-25-back-in-the-basement/2661.jpg)
+![The smash lads](/images/uploads/posts/yadw-25-back-in-the-basement/img_2661.jpg)
 
 ## GGST
 
