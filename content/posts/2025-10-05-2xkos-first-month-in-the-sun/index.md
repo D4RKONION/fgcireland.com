@@ -14,6 +14,8 @@ description: Is it warming to the touch, or burning in the heat?
 galleryImages:
   - image: /images/uploads/posts/2xkos-first-month-in-the-sun/discussion.png
   - image: /images/uploads/posts/2xkos-first-month-in-the-sun/craicdown-top-8.png
+  - image: /images/uploads/posts/2xkos-first-month-in-the-sun/yadw-top-8.png
+  - image: /images/uploads/posts/2xkos-first-month-in-the-sun/leeside-top-8.png
 ---
 # How's it feelin'?
 
@@ -21,7 +23,7 @@ Today marks the end of Closed Beta and simultaneously the beginning of Early Acc
 
 What's the community sentiment for the game thus far? The game's been played widely and discussed continually from before it's Closed Beta release until today within the [TFI Discord](<>), so that's the perfect place to find out.
 
-!\[A discussion in TFI](/images/uploads/posts/2xkos-first-month-in-the-sun/discussion.jpg)
+!\[A discussion in TFI](/images/uploads/posts/2xkos-first-month-in-the-sun/discussion.png)
 
  I asked in the TFI Discord for first impressions and thoughts from it's variety of denizens, and they are as follows:
 
@@ -38,8 +40,13 @@ What's the community sentiment for the game thus far? The game's been played wid
 
 2XKO appeared in three Irish tournaments the month it's been out – Craicdown, YADW, and Leeside Collision, won by Strawberry, Dr K, and Strawberry again respectively. Charlie LaCroix also placed 13th in France's UFA, out of 156 entrants.
 
-!\[Craicdown Top 8](/images/uploads/posts/2xkos-first-month-in-the-sun/craicdown-top-8.jpg)
+!\[Craicdown Top 8](/images/uploads/posts/2xkos-first-month-in-the-sun/craicdown-top-8.png)
 
+
+!\[YADW Top 8)](/images/uploads/posts/2xkos-first-month-in-the-sun/yadw-top-8.png)
+
+
+!\[Leeside Top 8)](/images/uploads/posts/2xkos-first-month-in-the-sun/leeside-top-8.png)
 
 
 # Conclusions
