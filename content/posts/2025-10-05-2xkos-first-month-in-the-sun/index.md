@@ -42,15 +42,12 @@ What's the community sentiment for the game thus far? The game's been played wid
 
 !\[Craicdown Top 8](/images/uploads/posts/2xkos-first-month-in-the-sun/craicdown-top-8.png)
 
-
 !\[YADW Top 8)](/images/uploads/posts/2xkos-first-month-in-the-sun/yadw-top-8.png)
 
-
 !\[Leeside Top 8)](/images/uploads/posts/2xkos-first-month-in-the-sun/leeside-top-8.png)
-
 
 # Conclusions
 
 It is quite loved! There are fair criticisms of balancing and some lacking features, and much praise for it's accessibility, characters, and duo play.
 
-Boasting high entry numbers, strong competitors, and a plethora of support from TO's, the game has already found a home in Ireland before it's full release. It's exciting to imagine what kind of scene 2XKO might create once it becomes easier to access.
+Boasting high entry numbers, strong competitors, and a plethora of support from TO's, the game has already found a home in Ireland before it's full release. It's exciting to imagine what kind of scene 2XKO might create on it's full release into the ecosystem...
