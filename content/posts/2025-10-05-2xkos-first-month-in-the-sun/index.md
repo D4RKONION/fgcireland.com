@@ -10,7 +10,7 @@ tags:
   - Round Up
   - Cork
   - Dublin
-description: Is it warming to the touch, or burning in the heat?
+description: Warming to the touch, or burning in the heat?
 galleryImages:
   - image: /images/uploads/posts/2xkos-first-month-in-the-sun/cover.png
   - image: /images/uploads/posts/2xkos-first-month-in-the-sun/discussion.png
