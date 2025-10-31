@@ -1,6 +1,6 @@
 ---
 title: "Button Mash October 2025: Double the KOs, Double the Guilt"
-date: 2025-10-27T00:15:00.000+00:00
+date: 2025-10-31T00:37:00.000+00:00
 draft: false
 authors:
   - yreval
