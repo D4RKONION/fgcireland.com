@@ -40,7 +40,7 @@ Holy moly what a banger. The royal marine has been a favourite venue of mine sin
 
 Debuting 2XKO into Éire's major tournament scene, with an excellent, tense Grand Finals reset performed by Strawberry to beat Aggu and secure a huge Riot paycheck, yay — It might be said that something should be done about that Teemo character, he looked a little uninteractive, although it might've been said. Hot Stuff!
 
-!(/images/uploads/posts/the-irish-fighters-periodical-igm-hijinx-and-corks-new-local-edition01/teemo.png)
+!\[i'm teemo](/images/uploads/posts/the-irish-fighters-periodical-igm-hijinx-and-corks-new-local-edition01/teemo.png)
 
 On the topic of Riot Games 2XKO, they also placed a curse upon Mr Brandon 2XKO. If you want to help lift this curse from our beloved tournament organiser  ̶A̶T̶T̶E̶N̶D̶ ̶Y̶O̶U̶R̶ ̶F̶U̶C̶K̶I̶N̶G̶ ̶L̶O̶C̶A̶L̶S̶ collect his 500 pages at ur nearest convenience soon.
 
@@ -48,11 +48,11 @@ On the topic of Riot Games 2XKO, they also placed a curse upon Mr Brandon 2XKO. 
 
 STRIVE's bracket was immense, impactful, quite large, and notable. attended by all of Éire's best soldiers  we saw  a fascinating top eight, with bottom -1 anemic Faust piloted by Flood making it in at third (god bless), and a grand grand grand finals matchup between Mattie Pot and Happy Chaos player EVO Champion Tiger_Pop...
 
-!/images/uploads/posts/the-irish-fighters-periodical-igm-hijinx-and-corks-new-local-edition01/potemkin.png)
+!\[lyrical blow to the skull](/images/uploads/posts/the-irish-fighters-periodical-igm-hijinx-and-corks-new-local-edition01/potemkin.png)
 
 anyway MATTIE FUCKING WON!!!! LET'S GO MATTIE (from winners side too what a fucking god). We've seen Mattie Rounds and Mattie Games but i think this IGM is described as a Mattie Tournament.
 
-!(/images/uploads/posts/the-irish-fighters-periodical-igm-hijinx-and-corks-new-local-edition01/mattie.png)
+!\[Mattie in disbelief, comforted by comrade Jo](/images/uploads/posts/the-irish-fighters-periodical-igm-hijinx-and-corks-new-local-edition01/mattie.png)
 
 ~
 
@@ -64,17 +64,17 @@ Now I'm not trying to saying that his motion sickness was perhaps strategic, and
 
 # Limit Break!
 
-!(/images/uploads/posts/the-irish-fighters-periodical-igm-hijinx-and-corks-new-local-edition01/limitbreak.png)
+!\[LIMITBREAK!](/images/uploads/posts/the-irish-fighters-periodical-igm-hijinx-and-corks-new-local-edition01/limitbreak.png)
 
 A new tournament found it's way into Cork's scene last weekend, with the public debut of Limit Break!!! Previously a closed tournament for MTU students, it has now opened the gates to outsiders, and exciting it was! A long comfy room filled with setups and lots of natural light (I wish I had taken some fotos but it completely slipped my mind). I had the honour of introducing them all to Ichihime; she was a big hit among investors and stocks are on the rise. Speaking of, everyone there was lovely, and I had such a nice time. Immense vibe. I would highly recommend attending the next one if you get a chance, I heartell episode 2 will take place in Janruary. I also won 17 euro there and am being payed through bank transfer which I think is hilarious.
 
-!(/images/uploads/posts/the-irish-fighters-periodical-igm-hijinx-and-corks-new-local-edition01/ichi.jpg)
+!\[stocks rising](/images/uploads/posts/the-irish-fighters-periodical-igm-hijinx-and-corks-new-local-edition01/ichi.jpg)
 
 # Emerald Circuit
 
 With the completion of the 3rd and final IGM of this year, the Emerald circuit points are locked, and no more points will be awarded. Exciting! The top 15 players  for each game will be invited to an invitational come late December/Janruary (think Irish Arc World Tour). There will also be a 16th and final spot open through an LCQ on the day before the main event starts. The main event itself involves a round robin groups stage. groups contain 4 players each, with the top 2 of every group making it into the final top 8.
 
-!(/images/uploads/posts/the-irish-fighters-periodical-igm-hijinx-and-corks-new-local-edition01/emecirc.png)
+!\[Strive Emerald Circuit Points](/images/uploads/posts/the-irish-fighters-periodical-igm-hijinx-and-corks-new-local-edition01/emecirc.png)
 
 Did you make it into the top 15 Eme points scorers? if not you better practice hard and win that LCQ!!.
 
@@ -90,4 +90,4 @@ If u want to give me feedback or would like me to alter/remove something relatin
 
 soggy dog signing off o7
 
-!(/images/uploads/posts/the-irish-fighters-periodical-igm-hijinx-and-corks-new-local-edition01/leaving.jpg)
+!\[PeepoLeave](/images/uploads/posts/the-irish-fighters-periodical-igm-hijinx-and-corks-new-local-edition01/leaving.jpg)
