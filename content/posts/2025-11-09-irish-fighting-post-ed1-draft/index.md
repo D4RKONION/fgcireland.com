@@ -16,13 +16,13 @@ description: THE IRISH FIGHTER'S PERIODICAL Inaugural Edition hits the shelves
   end to learn about Ireland's upcoming Invitational and how you can get an
   invite!
 galleryImages:
-  - image: /images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01l/emecirc.png
-  - image: /images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01l/ichi.jpg
-  - image: /images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01l/limitbreak.png
-  - image: /images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01l/teemo.png
-  - image: /images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01l/mattie.png
-  - image: /images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01l/potemkin.png
-  - image: /images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01l/leaving.jpg
+  - image: /images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01/ichi.jpg
+  - image: /images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01/limitbreak.png
+  - image: /images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01/mattie.png
+  - image: /images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01/potemkin.png
+  - image: /images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01/teemo.png
+  - image: /images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01/emecirc.png
+  - image: /images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01/leaving.jpg
 ---
 ### HELLO fighting games and gaming fighters and gentlewomen and mother's sons, and welcome to this edition of THE IRISH FIGHTER'S PERIODICAL whereince:
 
