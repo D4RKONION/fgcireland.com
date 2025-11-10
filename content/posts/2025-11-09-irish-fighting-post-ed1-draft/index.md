@@ -80,6 +80,9 @@ Did you make it into the top 15 Eme points scorers? if not you better practice h
 
 Hello gang, this is a thing. I'm undecided on whether I'll make it reoccurent monthly or whenever me mood strikes, mostlikely a mix of the two. Also next time I'm gonna try and get more pictiúr, it only dawned on me as I'm writing this that I'd need them, ah well. Also also I'm obviously not covering all the games going on at the events I talk about; I don't play SF6 or Smashy Bros or much Tekken and am not super familiar with what the story is there, so if you want news for them come attend the tournaments and experience it urself!
 
+
+~
+
 For a little backstory, I recently got a job as a newspaper distribution company customer service agent (modern day factory work :D ). Anyway, dealing with newspapers all day inspired me to create something similar for the community that I love. I hope you enjoyed!
 
 If u want to give me feedback or would like me to alter/remove something relating to you, hit my lime at @chainsawxangel on Discord.
