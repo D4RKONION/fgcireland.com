@@ -1,18 +1,20 @@
 ---
-title: THE IRISH FIGHTER'S PERIODICAL — IGM HIJINX AND CORK'S NEW LOCAL — EDITION01L
-date: 2025-11-09T17:49:00.000+00:00
+title: THE IRISH FIGHTER'S PERIODICAL — IGM HIJINX AND CORK'S NEW LOCAL — EDITION01
+date: 2025-11-10T17:14:00.000+00:00
 draft: false
 authors:
   - chainsawxangel
 featured_image: cover1.png
 tags:
   - News
-  - Tournament
-  - Round Up
   - Cork
   - Dublin
+  - Tournament
+  - Round Up
 description: THE IRISH FIGHTER'S PERIODICAL Inaugural Edition hits the shelves
-  of FGC Ireland!
+  of FGC Ireland! Covering 2XKO & GGST at IGM plus Cork's New Local. Read to the
+  end to learn about Ireland's upcoming Invitational and how you can get an
+  invite!
 galleryImages:
   - image: /images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01l/emecirc.png
   - image: /images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01l/ichi.jpg
@@ -32,9 +34,10 @@ So.. my ravenous reader-base. I see you chomping at the bit for the latest and t
 
 # IGM
 
-### 2XKO
 
-Holy moly what a banger. The royal marine has been a favourite venue of mine since last W-IGM and it didn't disappoint this year. We also were sponsored by riot games for setups and Tuko money (wow riot thanks games).
+Holy moly what a banger. The royal marine has been a favourite venue of mine since last W-IGM and it didn't disappoint this year. We also were sponsored by Riot Games for setups and Tuko money (wow riot thanks games).
+
+### 2XKO
 
 Debuting 2XKO into Éire's major tournament scene, with an excellent, tense Grand Finals reset performed by Strawberry to beat Aggu and secure a huge Riot paycheck, yay — It might be said that something should be done about that Teemo character, he looked a little uninteractive, although it might've been said. Hot Stuff!
 
@@ -64,7 +67,7 @@ Now I'm not trying to saying that his motion sickness was perhaps strategic, and
 
 !(/images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01/limitbreak.png)
 
-A new tournament found it's way into Cork's scene last weekend, with the public debut of Limit Break!!! Previously a closed tournament for MTU students, it has now opened the gates to outsiders, and exciting it was! A long comfy room filled with setups and lots of natural light (I wish I had taken some fotos but it completely slipped my mind). I had the honour of introducing them all to Ichihime; she was a big hit among investors and stocks are on the rise. Speaking of, everyone there was lovely, and I had such a nice time. Immense vibe. I would highly recommend attending this one if you get a chance, I heartell episode 2 will take place in Janruary. I also won 17 euro there and am being payed through bank transfer which I think is hilarious.
+A new tournament found it's way into Cork's scene last weekend, with the public debut of Limit Break!!! Previously a closed tournament for MTU students, it has now opened the gates to outsiders, and exciting it was! A long comfy room filled with setups and lots of natural light (I wish I had taken some fotos but it completely slipped my mind). I had the honour of introducing them all to Ichihime; she was a big hit among investors and stocks are on the rise. Speaking of, everyone there was lovely, and I had such a nice time. Immense vibe. I would highly recommend attending the next one if you get a chance, I heartell episode 2 will take place in Janruary. I also won 17 euro there and am being payed through bank transfer which I think is hilarious.
 
 !(/images/uploads/posts/the-irish-fighters-periodical-—-igm-hijinx-and-corks-new-local-—-edition01/ichi.jpg)
 
@@ -83,7 +86,7 @@ Hello gang, this is a thing. I'm undecided on whether I'll make it reoccurent mo
 
 ~
 
-For a little backstory, I recently got a job as a newspaper distribution company customer service agent (modern day factory work :D ). Anyway, dealing with newspapers all day inspired me to create something similar for the community that I love. I hope you enjoyed!
+For a little backstory, I recently got a job to do with newspapers. Dealing with the papers all day inspired me to create something similar for the community that I love. I hope you enjoyed!
 
 If u want to give me feedback or would like me to alter/remove something relating to you, hit my lime at @chainsawxangel on Discord.
 
