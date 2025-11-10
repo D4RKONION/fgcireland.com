@@ -1,5 +1,5 @@
 ---
-title: IRISH FIGHTING POST ED1 draft
+title: THE IRISH FIGHTER'S PERIODIC — IGM HIJINX AND CORK'S NEW LOCAL — EDITION01
 date: 2025-11-09T17:49:00.000+00:00
 draft: false
 authors:
@@ -11,35 +11,59 @@ tags:
   - Round Up
   - Cork
   - Dublin
-description: IRISH FIGHTING POST's Inaugural Edition hits the shelves of FGC Ireland!
+description: THE IRISH FIGHTER'S PERIODIC Inaugural Edition hits the shelves of FGC Ireland!
 galleryImages: []
 ---
-### HELLO fighting games and gaming fighters and gentlewomen and mother's sons, and welcome to this month's edition of the Irish Fighting Post whereince:
+### HELLO fighting games and gaming fighters and gentlewomen and mother's sons, and welcome to this edition of THE IRISH FIGHTER'S PERIODIC whereince:
 
-i will forthward catalogue a selection of the irish fighting game tournaments and their winners and also news!!! of upcoming events an so on. and also other things i'm interested in.
+I will forth ward catalogue a selection of the Irish Fighting Game Community ("**IFGC**") news and the winners and also news!!! of upcoming events an so on.
 
-so.. my ravenous and reader-base. i see you chomping at the bit for the latest and thusly i present it yoh:
+So.. my ravenous reader-base. I see you chomping at the bit for the latest and thusly I present it yoh
+
+~
 
 # IGM
 
-holy moly what a banger. the royal marine has been a favourite venue of mine since last W-IGM and it didn't dissapoint this year. we also were sponsored by riot games for setups and Tuko money (wow riot thanks games).
+### 2XKO
 
-debuting 2XKO into Eire's major tournament scene, with an excellent, tense Grand Finals reset performed by Strawberry to beat Aggu and secure a huge Riot paycheck.
+Holy moly what a banger. The royal marine has been a favourite venue of mine since last W-IGM and it didn't disappoint this year. We also were sponsored by riot games for setups and Tuko money (wow riot thanks games).
 
-it might be said that something should be done about that Teemo character, he looked a little uninteractive, although it might've been said.
+Debuting 2XKO into Éire's major tournament scene, with an excellent, tense Grand Finals reset performed by Strawberry to beat Aggu and secure a huge Riot paycheck — It might be said that something should be done about that Teemo character, he looked a little uninteractive, although it might've been said. Hot Stuff!
 
-on the topic of riiot games 2xko, they also placed a curse upon Mr Brandon 2XKO. if you want to help lift this curse from our beloved tournament organiser -ATTEND YOUR FUCKING LOCALS- collect his 500 pages at ur nearest convenience soon.
+On the topic of Riot Games 2XKO, they also placed a curse upon Mr Brandon 2XKO. If you want to help lift this curse from our beloved tournament organiser  ̶A̶T̶T̶E̶N̶D̶ ̶Y̶O̶U̶R̶ ̶F̶U̶C̶K̶I̶N̶G̶ ̶L̶O̶C̶A̶L̶S̶ collect his 500 pages at ur nearest convenience soon.
 
-STRIVE's bracket was immense, impactful, quite large, and notable. attended by all of Eire's best soldiers  we saw  a fascinating top eight, with bottom -1 anemic Faust piloted by Flood making it in at third (god bless), and a grand grand grand finals matchup between Mattie Pot and Happy Chaos player EVO Champion Tiger_Pop...  
+### GGST
 
-anyway MATTIE FUCKING WON!!!! LET'S GO MATTIE (from winners side too what a fucking god). we've seen Mattie Rounds and Mattie Games but i think this is described as a Mattie Tournament.
+STRIVE's bracket was immense, impactful, quite large, and notable. attended by all of Éire's best soldiers  we saw  a fascinating top eight, with bottom -1 anemic Faust piloted by Flood making it in at third (god bless), and a grand grand grand finals matchup between Mattie Pot and Happy Chaos player EVO Champion Tiger_Pop...  
 
-as for side stories, a little onstream top 16 qualifier between GideonTG and D4RKONION featured an interruption. now some might say that the interruption was purposeful by Gideon to slow Paul's momentum after equalising the set 1-1, but i'll let you review the details. supposedly, after finishing the second game of the series Gideon got up and decided to leave and talk to the TOs (i saw this part with my eyes). both Paul and the commentators were confused, as was Mr TO on hand Brandon who would hear Gideon tell that the curve of the monitors on the stream setup was making him motion sick (Mr TO i just feel sooo sick, oughh Mr TO my belly achesss.) Gideons suggested solution was to change out both monitors on the stream setup, to which Brandon replied "get back on that setup and finish the set or i will DQ you right this moment." Gideon would proceed to sit back down at the setup, swap between character selections 7 times, and then resume the set which he would eventually win 3-2. now i'm not trying to saying that his motion sickness was perhaps strategic, and i'm always one to believe an ailing soul, but i  just thought it pertinent to share.
+anyway MATTIE FUCKING WON!!!! LET'S GO MATTIE (from winners side too what a fucking god). We've seen Mattie Rounds and Mattie Games but i think this IGM is described as a Mattie Tournament.
+
+
+~
+
+
+As for Strive side stories, a little on-stream top 16 qualifier between GideonTG and D4RK ONION featured an interruption. Now some might say that the interruption was purposeful by Gideon to slow Paul's momentum after equalising the set 1-1, but i'll let you review the details.
+
+Supposedly, after finishing the second game of the series Gideon got up and decided to leave and talk to the TOs (I saw this part with my eyes). Both Paul and the commentators were confused, as was Mr TO on hand Brandon who would hear Gideon tell that the curve of the monitors on the stream setup was making him motion sick (Mr TO I just feel sooo sick, oughh Mr TO my belly achesss.) Gideons suggested solution was to change out both monitors on the stream setup, to which, after a back and forth, Brandon replied "get back on that setup and finish the set or I will DQ you right this moment." Gideon would proceed to sit back down at the setup, swap between character selections 7 times, and then resume the set which he would eventually win 3-2.
+
+Now I'm not trying to saying that his motion sickness was perhaps strategic, and I'm always one to believe an ailing soul, but i  just thought it pertinent to share.
 
 # Limit Break!
 
-a new tournament found it's way into Cork's scene last weekend, with the public debut of Limit Break!!! previously a closed tournament for MTU students, it has now opened the gates to outsiders, and exciting it was! a long comfy room filled with setups and lots of natural light (i wish i had taken some fotos but it completely slipped my mind). i had the honour of introducing them all to Ichihime; she was a big hit among investors. speaking of, everyone there was lovely, and i had such a nice time. immense vibe. i would highly recommend attending this one if you get a chance (you didn't hear it from me, but i think ep 2 is already in the pipeline). i also won 17 euro there and am being payed through bank transfer which i think is hilarious.
+A new tournament found it's way into Cork's scene last weekend, with the public debut of Limit Break!!! Previously a closed tournament for MTU students, it has now opened the gates to outsiders, and exciting it was! A long comfy room filled with setups and lots of natural light (I wish I had taken some fotos but it completely slipped my mind). I had the honour of introducing them all to Ichihime; she was a big hit among investors and stocks are on the rise. Speaking of, everyone there was lovely, and I had such a nice time. Immense vibe. I would highly recommend attending this one if you get a chance, I heartell episode 2 will take place in Janruary. I also won 17 euro there and am being payed through bank transfer which I think is hilarious.
 
-### Emerald Circuit
+# Emerald Circuit
 
-with the completion of the 3rd and final IGM of this year, the Emerald circuit points are locked, no more points will be awarded. exciting! the top 15 players  for each game will be invited to an invitational come late December/Janruary (think Irish Arc World Tour). There will also be a 16th and final spot open through an LCQ on the day before the main event starts. the main event itself involves a round robin groups stage. groups contain 4 players each, with the top 2 of every group making it into the final top 8. did you make it into the top 15 Eme points scorers? if not you better practice hard and win that LCQ!!.
+With the completion of the 3rd and final IGM of this year, the Emerald circuit points are locked, and no more points will be awarded. Exciting! The top 15 players  for each game will be invited to an invitational come late December/Janruary (think Irish Arc World Tour). There will also be a 16th and final spot open through an LCQ on the day before the main event starts. The main event itself involves a round robin groups stage. groups contain 4 players each, with the top 2 of every group making it into the final top 8.
+
+Did you make it into the top 15 Eme points scorers? if not you better practice hard and win that LCQ!!.
+
+# Closing Closers
+
+Hello gang, this is a thing. I'm undecided on whether I'll make it reoccurent monthly or whenever me mood strikes, mostlikely a mix of the two. Also next time I'm gonna try and get more pictiúr, it only dawned on me as I'm writing this that I'd need them, ah well. Also also I'm obviously not covering all the games going on at the events I talk about; I don't play SF6 or Smashy Bros or much Tekken and am not super familiar with what the story is there, so if you want news for them come attend the tournaments and experience it urself!
+
+For a little backstory, I recently got a job as a newspaper distribution company customer service agent (modern day factory work :D ). Anyway, dealing with newspapers all day inspired me to create something similar for the community that I love. I hope you enjoyed!
+
+If u want to give me feedback or would like me to alter/remove something relating to you, hit my lime at @chainsawxangel on Discord.
+
+soggy dog signing off o7
