@@ -54,13 +54,7 @@ anyway MATTIE FUCKING WON!!!! LET'S GO MATTIE (from winners side too what a fuck
 
 ![Mattie in disbelief, comforted by comrade Jo](/images/uploads/posts/the-irish-fighters-periodical-igm-hijinx-and-corks-new-local-edition01/mattie.png)
 
-~
 
-As for Strive side stories, a little on-stream top 16 qualifier between GideonTG and D4RK ONION featured an interruption. Now some might say that the interruption was purposeful by Gideon to slow Paul's momentum after equalising the set 1-1, but i'll let you review the details.
-
-Supposedly, after finishing the second game of the series Gideon got up and decided to leave and talk to the TOs (I saw this part with my eyes). Both Paul and the commentators were confused, as was Mr TO on hand Brandon who would hear Gideon tell that the curve of the monitors on the stream setup was making him motion sick (Mr TO I just feel sooo sick, oughh Mr TO my belly achesss.) Gideons suggested solution was to change out both monitors on the stream setup, to which, after a back and forth, Brandon replied "get back on that setup and finish the set or I will DQ you right this moment." Gideon would proceed to sit back down at the setup, swap between character selections 7 times, and then resume the set which he would eventually win 3-2.
-
-Now I'm not trying to saying that his motion sickness was perhaps strategic, and I'm always one to believe an ailing soul, but i  just thought it pertinent to share.
 
 # Limit Break!
 
