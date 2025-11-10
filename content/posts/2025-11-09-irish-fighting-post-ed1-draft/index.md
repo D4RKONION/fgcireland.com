@@ -1,17 +1,18 @@
 ---
-title: THE IRISH FIGHTER'S PERIODIC — IGM HIJINX AND CORK'S NEW LOCAL — EDITION01
+title: THE IRISH FIGHTER'S PERIODICAL — IGM HIJINX AND CORK'S NEW LOCAL — EDITION01L
 date: 2025-11-09T17:49:00.000+00:00
 draft: false
 authors:
   - chainsawxangel
-featured_image: ichi.jpg
+featured_image: cover1.png
 tags:
   - News
   - Tournament
   - Round Up
   - Cork
   - Dublin
-description: THE IRISH FIGHTER'S PERIODIC Inaugural Edition hits the shelves of FGC Ireland!
+description: THE IRISH FIGHTER'S PERIODICAL Inaugural Edition hits the shelves
+  of FGC Ireland!
 galleryImages:
   - image: /images/uploads/posts/the-irish-fighters-periodic-—-igm-hijinx-and-corks-new-local-—-edition01/emecirc.png
   - image: /images/uploads/posts/the-irish-fighters-periodic-—-igm-hijinx-and-corks-new-local-—-edition01/ichi.jpg
@@ -21,7 +22,7 @@ galleryImages:
   - image: /images/uploads/posts/the-irish-fighters-periodic-—-igm-hijinx-and-corks-new-local-—-edition01/mattie.png
   - image: /images/uploads/posts/the-irish-fighters-periodic-—-igm-hijinx-and-corks-new-local-—-edition01/leaving.jpg
 ---
-### HELLO fighting games and gaming fighters and gentlewomen and mother's sons, and welcome to this edition of THE IRISH FIGHTER'S PERIODIC whereince:
+### HELLO fighting games and gaming fighters and gentlewomen and mother's sons, and welcome to this edition of THE IRISH FIGHTER'S PERIODICAL whereince:
 
 I will forth ward catalogue a selection of the Irish Fighting Game Community ("**IFGC**") news and the winners and also news!!! of upcoming events an so on.
 
@@ -51,9 +52,7 @@ anyway MATTIE FUCKING WON!!!! LET'S GO MATTIE (from winners side too what a fuck
 
 !(/images/uploads/posts/the-irish-fighters-periodic-—-igm-hijinx-and-corks-new-local-—-edition01/mattie.png)
 
-
 ~
-
 
 As for Strive side stories, a little on-stream top 16 qualifier between GideonTG and D4RK ONION featured an interruption. Now some might say that the interruption was purposeful by Gideon to slow Paul's momentum after equalising the set 1-1, but i'll let you review the details.
 
