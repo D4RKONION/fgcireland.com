@@ -25,7 +25,7 @@ Button Mash returned to the Accidental Theatre on the first weekend of December 
 
 **Pennma**'s Marisa kept the SNK invaders at arm's length with a clean sweep of this round robin tournament. **Yreval** claimed second place after coming out on top in a Terry mirror against **CJ**, while **Skeletorr** (Mai) finished in fourth.
 
-![Street Fighter 6 results: 1) Pennma (Marisa) 2) Yreval (Terry) 3) CJ (Terry) 4) Skeletorr (Mai)](button-mash-dec-25-top8-sf6.jpg)
+![Street Fighter 6 results: 1) Pennma (Marisa) 2) Yreval (Terry) 3) CJ (Terry) 4) Skeletorr (Mai)](/images/uploads/posts/button-mash-december-2025-khristmas-kombat/button-mash-dec-25-top8-sf6.jpg)
 
 # Granblue Fantasy Versus Rising
 
@@ -33,7 +33,7 @@ Button Mash returned to the Accidental Theatre on the first weekend of December 
 
 **Mister_Finer** (Sandalphon/Siegfried/Belial) was the class of the field as he racked up three consecutive 3-0 victories to win the GBVSR tournament, with **Pennma** (Soriz/Wilnas/Ladiva) completing a thrilling comeback over **Yreval** (Anila) to secure second place.
 
-![GBVSR results: 1) Mister_Finer (Siegfried) 2) Pennma (Soriz) 3) Yreval (Anila) 4) Aurelia (Cagliostro)](button-mash-dec-25-top8-gbvsr.jpg)
+![GBVSR results: 1) Mister_Finer (Siegfried) 2) Pennma (Soriz) 3) Yreval (Anila) 4) Aurelia (Cagliostro)](/images/uploads/posts/button-mash-december-2025-khristmas-kombat/button-mash-dec-25-top8-gbvsr.jpg)
 
 # Tekken 8
 
@@ -41,7 +41,7 @@ Button Mash returned to the Accidental Theatre on the first weekend of December 
 
 In the only tournament to see an increased turnout compared to its previous running, **Raff** (Bryan) was taken to a grand final reset by **outterest** (Hwoarang), but eventually claimed the tournament victory to add to his win in last month's Button Mash Online event. outterest qualified by beating **ChickenChakra** (Clive) in the losers' final, despite having lost to him in the winners' bracket.
 
-![Tekken 8 results: 1) Raff (Bryan) 2) outterest (Hwoarang) 3) ChickenChakra (Clive) 4) Skeletorr (Miary Zo) 5) CJ (Armor King), Yreval (Asuka) 7) BigManBeef (Kuma), WonderDownUnder (Paul)](button-mash-dec-25-top8-t8.jpg)
+![Tekken 8 results: 1) Raff (Bryan) 2) outterest (Hwoarang) 3) ChickenChakra (Clive) 4) Skeletorr (Miary Zo) 5) CJ (Armor King), Yreval (Asuka) 7) BigManBeef (Kuma), WonderDownUnder (Paul)](/images/uploads/posts/button-mash-december-2025-khristmas-kombat/button-mash-dec-25-top8-t8.jpg)
 
 # Guilty Gear Strive
 
@@ -49,7 +49,7 @@ In the only tournament to see an increased turnout compared to its previous runn
 
 For the second Button Mash in a row, **Jo** (Testament) claimed victory - and this time, he did so without dropping a single game, as he thwarted **Mister_Finer**'s (Johnny) attempt to win his second tournament of the day. Third place went to **MasterEdgelord0** (Venom).
 
-![GGST results: 1) Jo (Testament) 2) Mister_Finer (Johnny) 3) MasterEdgelord0 (Venom) 4) Siglinde (Venom) 5) the.windows (Elphelt), RedshiftNova (Giovanna) 7) BigManBeef (Slayer)](button-mash-dec-25-top8-strive.jpg)
+![GGST results: 1) Jo (Testament) 2) Mister_Finer (Johnny) 3) MasterEdgelord0 (Venom) 4) Siglinde (Venom) 5) the.windows (Elphelt), RedshiftNova (Giovanna) 7) BigManBeef (Slayer)](/images/uploads/posts/button-mash-december-2025-khristmas-kombat/button-mash-dec-25-top8-strive.jpg)
 
 # Ultimate Mortal Kombat 3
 
@@ -57,7 +57,7 @@ For the second Button Mash in a row, **Jo** (Testament) claimed victory - and th
 
 In this event's throwback game, **Skeletorr** (Sektor) defeated **Pennma** (Sheeva) in a close grand final. Skeletorr quickly went 2-0 up, but had to survive a fightback from Pennma who levelled the score before Skeletorr claimed the deciding game. **WonderDownUnder** (Smoke) came in third.
 
-![UMK3 results: 1) Skeletorr (Sektor) 2) Pennma (Sheeva) 3) WonderDownUnder (Smoke) 4) CJ (Liu Kang)](button-mash-dec-25-top8-umk3.jpg)
+![UMK3 results: 1) Skeletorr (Sektor) 2) Pennma (Sheeva) 3) WonderDownUnder (Smoke) 4) CJ (Liu Kang)](/images/uploads/posts/button-mash-december-2025-khristmas-kombat/button-mash-dec-25-top8-umk3.jpg)
 
 # What next?
 
