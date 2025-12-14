@@ -4,7 +4,7 @@ date: 2025-12-14T19:43:00.000+00:00
 draft: false
 authors:
   - yreval
-featured_image: https://files.catbox.moe/lorhtt.jpg
+featured_image: lorhtt.jpg
 tags:
   - Tournament
   - Round Up
