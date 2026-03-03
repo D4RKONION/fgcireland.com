@@ -1,6 +1,6 @@
 ---
 title: "Button Mash February 2026: Tornado of Souls"
-date: 2026-03-01T22:28:00.000+00:00
+date: 2026-03-03T22:51:00.000+00:00
 draft: false
 authors:
   - yreval
@@ -27,7 +27,7 @@ galleryImages:
 
 (15 players/[Bracket](https://www.start.gg/tournament/button-mash-february-2026/event/2xko/brackets/2187026/3180473)/[VOD](https://www.youtube.com/watch?v=6dlfd_85fIw&t=18s))
 
-**Strawberry** (Ahri/Ekko) romped home with a dominant performance, dropping games only to second-placed **Owen** (Ekko/Darius) as she won the winners' final 3-2. That set up a rematch between Owen and **Lie** (Yasuo/Jinx), who Owen had defeated in the early stages of the winners' bracket and had subsequently gone on a lengthy losers' bracket run. Owen put paid to that run, however, with a 3-0 whitewash to advance to grand finals - where he would be on the receiving end of a 3-0 of his own, as Strawberry proved too strong.
+**Strawberry** (Ahri/Ekko) romped home with a dominant performance, dropping games only to second-placed **Owen** (Ekko/Darius) as she won the winners' final 3-2. That set up a rematch between Owen and **Lie** (Yasuo/Jinx), who had put together a lengthy losers' bracket run after being defeated by Owen in the early stages of the winners' bracket. Owen put paid to that run, however, with a 3-0 whitewash to advance to grand finals - where he would be on the receiving end of a 3-0 of his own, as Strawberry proved too strong.
 
 ![2XKO top 3: Owen (2nd), Strawberry (1st), Lie (3rd)](/images/uploads/posts/button-mash-february-2026-tornado-of-souls/20260228_1720260.jpg)
 
