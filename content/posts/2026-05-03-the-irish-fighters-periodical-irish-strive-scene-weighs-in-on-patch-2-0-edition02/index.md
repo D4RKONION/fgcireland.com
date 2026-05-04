@@ -13,7 +13,11 @@ description: summary
 ---
 # Introduction
 
-Hello!! Recently I posted a form where everyone could give their opinion on GUILTY GEAR -STRIVE-'s 2.0 Battle Balance Patch. This \[huge] article is a collection of all of those responses. I have tried to get as many quotes from you all as possible, and have succeed on many accounts. As became quickly apparent, getting everything from everyone would be simply impossible, but I have tried my best. If you're interested in the questions I included on the form, they are attached at the bottom.
+Hello!! Recently I posted a form where everyone could give their opinion on GUILTY GEAR -STRIVE-'s 2.0 Battle Balance Patch. This \[huge] article is a collection of all of those responses. I have tried to use as many quotes from you all as possible \[while still retaining a readable article].
+
+In some sections I reference responses which I didn't have the space to add into the article, for example by saying things such as "many responses". I thought I would mention this for clarity, you'll just have to take my word for it in those cases.
+
+I've included the questions within some quotes to clarify context. If you're interested in the questions I put on the form, they are attached at the bottom.
 
 ### Stats
 
@@ -36,6 +40,8 @@ This article is not intended to be read from top to bottom \[that would be exhau
 So what does the community think?!? Let's get into it.
 
 ## Overall reception to the patch
+
+image goes here
 
 The GUILTY GEAR -STRIVE- 2.0 Battle Balance Patch came out on the 9th of April 2026, meaning the Irish FGC has had about a month to play with and get a feel of it. It promised to be a huge update for the game, akin to title updates from previous Gears, and many hoped it would be a big shakeup in terms of meta.
 
@@ -75,8 +81,47 @@ In terms of criticism, it lies largely in the way some characters have either be
 
 ## System Mechanics
 
-A large amount of focus for 2.0 was placed on the system mechanics of Strive. Strive is coming up on it's 5th anniversary since release, and in the time it's been around it's accrued a lot of tweaks to it's baseline mechanics which all characters play by. The implementation of Wild Assault and Dust Shield in Season 3 \[24/08/2023], the removal of DP RC in Season 4 \[22/07/24], etc.
+A large amount of focus for 2.0 was placed on the system mechanics of the game. Strive is coming up on it's 5th anniversary since release, and in the time it's been around it's accrued a lot of tweaks to it's baseline mechanics which all characters play by. The implementation of Wild Assault and Dust Shield in Season 3 \[24/08/2023], the removal of DP RC in Season 4 \[22/07/24], etc.
 
 But not all these changes have been well received. Wild Assault in particular has been contentious since it's release, and ArcSys have gone through iteration after iteration in attempt to mould it into something positive. After Strive's top 8 at Arc World Tour 2025-26 concluded, they revealed they would be removing Wild Assault, and were met with cheers and cries and a standing ovation.
 
 But they didn't stop there. As promised the patch turned out to be a huge upheaval of all of Strive's system mechanics. Let's go through them one by one and see what you had to say:
+
+### Wild Assault
+
+image goes here
+
+We already went over how Wild Assault was removed, but what's the opinion on it?
+
+> "Wild Assault being gone means characters can be designed more sharply and that's great. I don't like overbearing system mechanics" - D4RK ONION 
+>
+> "...Obviously no more wild assault is nice too!" - Monj 
+>
+> **What's one change made in this patch which you totally love?** 
+>
+> "Removal of wild assault, I don't think I have to explain why" - Carbattery
+>
+> "Wild assault being gone feels super good, I don't think I need to go in depth on this. I'm very much with the common consensus here." - Goronberry
+>
+> **What's one change made in this patch which you totally love?** 
+>
+> "I bet everyone says "removing Wild Assault" here. Well. Removing Wild Assault" - Éadairbhe
+
+### Defensive interaction as a whole
+
+I'll be going over each change to defense separately, but I thought it was important to get some of the main viewpoints across beforehand:
+
+> "The increased punishment on failed defence is AMAZING. Missing a Dp is now punishable by a Dust launcher, and the removal of Roman cancel on back dash, invulnerable supers and throws was very much needed in strive. Now defence has to be much more thought out" - Dufferz8000
+>
+> I have really loved all of the reversal changes this patch! With the 
+> removal of both roman cancelling reversal supers and backdash brc, 
+> having the opponent build 100 meter from your offence no longer gives 
+> them a free escape. - Flood
+>
+> "I can't help but feel that they went too far in places. I think that removing Throw PRC, removing Super RC, making reversals effectively a neutral reset on hit and reducing opportunities for strong oki and pressure loses some of the "Guilty Gear" DNA that makes Strive really special." - Oisín Alumento 
+
+While many responses shared an adoration for the defensive changes, I want to focus on the opposing view point because I think it's the most interesting.
+
+A reoccurring theme among critiques of 2.0 was loss of identity. Goronberry mentioned that he dislikes the standardisation of characters away from 4f normals and low profiles which he said diminished the individual strengths. Now Oisín Alumento is saying that the limitations on Roman Cancel and lowered reward on meterless reversals, among other things, "loses some of the 'Guilty Gear' DNA".
+
+This loss of identity is a point worth considering: At what point does a move towards a fair and balanced environment go too far and become homogenisation on a character or game level? We'll see throughout the article where the consensus seems to lie on this issue.
