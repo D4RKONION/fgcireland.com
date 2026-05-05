@@ -1,7 +1,7 @@
 ---
 title: THE IRISH FIGHTER'S PERIODICAL - IRISH STRIVE SCENE WEIGHS IN ON PATCH
   2.0 - EDITION02
-date: 2026-05-03T18:22:00.000+01:00
+date: 2026-05-05T15:00:00.000+01:00
 draft: true
 authors:
   - chainsawxangel
@@ -33,7 +33,7 @@ Total uses of the phrase "Wild Assault": 10
 
 # THE OPINIONS
 
-I'm going to go through each section of the patch \[Overall, System Mechanics, etc...] and attach the quotes that I think are most interesting or best represent the reception the patch has received. Because of how comprehensive this will be, it is going to be very long.
+I'm going to go through each section of the 2.0 patch \[Overall, System Mechanics, etc...] and attach the quotes that I think are most interesting or best represent the reception the patch has received. Because of how comprehensive this will be, it is going to be very long.
 
 This article is not intended to be read from top to bottom \[that would be exhausting], instead I would prefer you pick out whichever sections you're interested in and read from there. Or name search your opp and snipe their Incredibly Wrong opinions. Or just look at the pretty pictures. Idgaf.
 
@@ -109,7 +109,7 @@ We already went over how Wild Assault was removed, but what's the opinion on it?
 
 ### Defensive interaction as a whole
 
-I'll be going over each change to defense separately, but I thought it was important to get some of the main viewpoints across beforehand:
+I'll be individually going over some changes to defense separately, but I thought it important to get the main viewpoints across beforehand:
 
 > "The increased punishment on failed defence is AMAZING. Missing a Dp is now punishable by a Dust launcher, and the removal of Roman cancel on back dash, invulnerable supers and throws was very much needed in strive. Now defence has to be much more thought out" - Dufferz8000
 >
@@ -125,3 +125,33 @@ While many responses shared an adoration for the defensive changes, I want to fo
 A reoccurring theme among critiques of 2.0 was loss of identity. Goronberry mentioned that he dislikes the standardisation of characters away from 4f normals and low profiles which he said diminished the individual strengths. Now Oisín Alumento is saying that the limitations on Roman Cancel and lowered reward on meterless reversals, among other things, "loses some of the 'Guilty Gear' DNA".
 
 This loss of identity is a point worth considering: At what point does a move towards a fair and balanced environment go too far and become homogenisation on a character or game level? We'll see throughout the article where the consensus seems to lie on this issue.
+
+### Command grabs losing throw invul
+
+In the 2.0 patch, command grabs lost invulnerability to throws. Previously if one player were to normal throw and another command throw, the command throw would win 100% of the time. Now it seems to depend on which player's throw comes out first, and seeing as command throws generally have 5-7f start up, considerably slower than the 2f of normal throws, it's frequently the normal throw. Is this what the community wanted?
+
+>
+> "I think the change that lets regular throws beat command throws is a bit silly. I think they should at least give the command thrower a throw tech scenario instead of just straight up losing. It makes command throws riskier to attempt than regular throws now." - Flood
+>
+>
+> "The command grab throw invul universal change was initially scary but all it really does in practice is removing fuzzy pot buster’s application vs strike throw." - mattie
+>
+>
+> "I also don't agree with command grabs losing throw invul and it leads to a lot of odd scenarios." - Dr K
+
+From talking with with other players, and the responses to this form, I've found that everyone is confused with this change. It removes a lot of the power and utility that command grabs provided, and leaves them feeling quite weak. An exception to this is characters which can easily space their command grab outside of throw range \[Pot, Nago], they seem to be doing just fine.
+
+### Throw PRC
+
+On the theme of throws, Throw PRC \[Purple Roman Cancel]! As of 2.0 there's a PRC lockout on whiff throw, meaning you can no longer use meter to cover. This has consistently been a very strong option throughout GGST's lifespan, useful on offence and defense to swing the risk/reward. Now it's gone!
+
+>
+> "I love all of the RC changes but the throw PRC change is probably my favourite. One of the main issues I found with high meter build characters is they would basically remove any consequence of going for throw since you could just PRC and either punish their defensive option or force them to block again. Since its gone it makes offense a lot more interesting for both sides." -Mister_Finer
+>
+>
+> "Throw PRC is gone! Amazing decision that I thought they would never do since RC is so core to guilty gear. It shows that the dev team is willing to make serious system changes to make the game healthier." - MasterEdgelord0
+>
+>
+> "I know it's a very unpopular opinion, but I'm unhappy that Throw Whiff PRC is gone. I felt like that was a really core part of what made Roman Cancel feel like a powerful mechanic, a mechanic that let you break the rules a bit if you could pay for it. And I felt that it struck a good balance of making the attacker in a situation feel powerful, since they could run Strike-Throw without one of those option leading to an immediate punish and reversal, while still having a real cost to being wrong…" "I think that the Tension Penalty change and the PRC scaling nerf would have been more than enough to rein in the more "problematic"/"degenerate" aspects of the Roman Cancel system, without needing to completely remove some of its flashiest applications."  - Oisín Alumento 
+>
+>
