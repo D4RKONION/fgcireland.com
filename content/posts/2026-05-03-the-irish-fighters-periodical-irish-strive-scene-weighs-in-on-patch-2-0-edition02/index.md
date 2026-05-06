@@ -87,7 +87,7 @@ But not all these changes have been well received. Wild Assault in particular ha
 
 But they didn't stop there. As promised the patch turned out to be a huge upheaval of all of Strive's system mechanics. Let's go through them one by one and see what you had to say:
 
-### Wild Assault
+## Wild Assault
 
 image goes here
 
@@ -107,7 +107,7 @@ We already went over how Wild Assault was removed, but what's the opinion on it?
 >
 > "I bet everyone says "removing Wild Assault" here. Well. Removing Wild Assault" - Éadairbhe
 
-### Defensive interaction as a whole
+## Defensive interaction as a whole
 
 I'll be individually going over some changes to defense separately, but I thought it important to get the main viewpoints across beforehand:
 
@@ -148,6 +148,73 @@ On the theme of throws, Throw PRC \[Purple Roman Cancel]! As of 2.0 there's a lo
 >
 > "I know it's a very unpopular opinion, but I'm unhappy that Throw Whiff PRC is gone. I felt like that was a really core part of what made Roman Cancel feel like a powerful mechanic, a mechanic that let you break the rules a bit if you could pay for it. And I felt that it struck a good balance of making the attacker in a situation feel powerful, since they could run Strike-Throw without one of those option leading to an immediate punish and reversal, while still having a real cost to being wrong … I think that the Tension Penalty change and the PRC scaling nerf would have been more than enough to rein in the more 'problematic'/'degenerate' aspects of the Roman Cancel system, without needing to completely remove some of its flashiest applications."  - Oisín Alumento
 
-Throw PRC is largely celebrated on it's departure. Players are enjoying the increased consequences for making an incorrect decision. MasterEdgelord0 praises ArcSys for being "willing to make serious system changes"; To many players this represents a big change in the identity of the game, and one they're happy to welcome.
+To others such as Oisín, this change is unneeded. He argues that Throw PRC was a core part of what made Roman Cancel feel powerful, "a mechanic that let you break the rules", and that the Tension Penalty & PRC Scaling changes would be enough to keep problematic applications of RC in line.
 
-To others such as Oisín, this change is unneeded. He argues that Throw PRC was a core part of what made Roman Cancel feel powerful, "a mechanic that let you break the rules", and that the Tension Penalty & PRC scaling changes would be enough to keep problematic applications of RC in line.
+### c.S Hitbox
+
+In the 2.0 patch, c.S \[close slash] hitboxes were lowered and standardised across the cast. Previously c.S was a key anti-air option, providing the most reward of any anti-air on hit, along with being consistent way to jail fuzzy jump attempts during pressure.
+
+>
+>
+> "cS hitboxes getting nerfed is a very uninteresting change imo as it feels like a lot of characters were built with it in mind. It unintentionally makes fuzzy jump a lot better as it's much harder to dissuade and harder to punish for some character. I think increasing scaling on anti air cS starters would've been a better change" - Mister_Finer
+>
+> "The antiair c.S change is so stupid to me. Why would they spend 5 years giving characters c.S animations that are very clearly designed to antiair only to turn around one day and say "No, :3". I understand wanting to lower the reward off antiairs but surely there had to be a better way, it feels genuinely terrible seeing the characters c.S very visibly go through them just for it to not hit because of the changes." - Goronberry
+>
+>
+
+ ArcSys seem to've been targeting the reward off of anti-air c.S, which they have succeeded in, but Mister_Finer posits "increasing the scaling on anti air cS starters would've been a better change".
+
+A common complaint I've seen throughout the community, echoed here, is the fact that a lot of c.S animations don't line up with the hitbox now. Attacks which look like they should hit completely phase through opponents in the air, creating some very weird looking situations.
+
+### Meter Penalty & Snowballing
+
+A gripe of Strive players last patch was "the game is too snowbally". To address this, ArcSys made it so meter penalty carries over between wallbreaks, negating a lot of positive bonuses value. The result of this change is a choice: Break wall with super and use the hard knockdown to continue pressure without meter OR Break wall with a normal and use positive bonus to win neutral.
+
+>
+> "The change to Tension Penalty to overwrite Positive Bonus is a really smart change imo. I think the biggest issue Strive had before was how over-abundant resources were, especially in a world where Wild Assault made Burst an offensive resource in addition to Tension." - Oisín Alumento 
+>
+>
+>
+> **What's one change made in this patch which you totally love?**
+>
+> "Meter gain nerfs for super wallbreak, stops snowballing" - DialNouns
+>
+> **What's one change made in this patch which you totally love?**
+>
+> "Probably the fact wallbreak carries meter penalty over and means pressure is no longer as snowbally. Lets me have more interactions in a game overall" - Lightheon 
+>
+> **What's one change made in this patch which you totally love?**
+>
+> "Positive Bonus doesn't override tension penalty." - Cho-Cathal-ic
+
+Everyone loved this one. A stray f.S leads into a Wild Assault leads into a super wallbreak leads into hkd positive bonus pressure...! But now two elements of that dastardly mix are gone and we are all the happier for it.
+
+### Other miscellaneous system mechanic changes
+
+The rest of the defensive changes didn't have enough specific quotes to make their own section so I'm gathering them here for your pleasure.
+
+#### DP Recovery
+
+> The change to meterless reversals has also been a standout for me. Now DPs are useful tools for escaping offence and resetting to neutral, instead of complete momentum shifts that give oki." - Flood
+>
+> "it would be nice if they could take a look at DPs having way more recovery frames. If your character has a multi hit DP and the last hit whiffs, you can be extremely unsafe on hit. Bridget DP is now a massive liability and it feels unintentional." - D4RK ONION
+
+#### Backdash BRC
+
+> **What's one change made in this patch which you totally disagree with?** 
+>
+> "the removal of backdash BRC overheads those were kinda cool" - jayo
+
+#### PRC Scaling
+
+> "adding scaling to hits that connect after a PRC i was begging for this for years" - jayo
+
+#### Burst Changes
+
+> "Honourable mention to gold burst being easier to do on wakeup just make it punishable please why is it -2" - Mister_Finer
+>
+> "The changes to the binding of Burst & Deflect shield to accommodate the addition of Counter Blitz makes sense to me, but it’s never going to stop feeling weird." - Mr Potato
+>
+> **What's one change made in this patch which you totally disagree with?** 
+>
+> "The new burst and DS inputs. Not only did it take absolutely forever to get used to; they also just suck and often don't come out properly…" - -Xandra-
