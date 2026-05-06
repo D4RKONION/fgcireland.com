@@ -128,30 +128,26 @@ This loss of identity is a point worth considering: At what point does a move to
 
 ### Command grabs losing throw invul
 
-In the 2.0 patch, command grabs lost invulnerability to throws. Previously if one player were to normal throw and another command throw, the command throw would win 100% of the time. Now it seems to depend on which player's throw comes out first, and seeing as command throws generally have 5-7f start up, considerably slower than the 2f of normal throws, it's frequently the normal throw. Is this what the community wanted?
+In the 2.0 patch, command grabs lost invulnerability to throws. Previously if one player were to normal throw and another command throw, the command throw would win 100% of the time. Now it seems to depend on which player's throw comes out first, and seeing as command throws generally have 6-7f start up, considerably slower than the 2f of normal throws, it's frequently the normal throw. Is this what the community wanted?
 
->
 > "I think the change that lets regular throws beat command throws is a bit silly. I think they should at least give the command thrower a throw tech scenario instead of just straight up losing. It makes command throws riskier to attempt than regular throws now." - Flood
->
 >
 > "The command grab throw invul universal change was initially scary but all it really does in practice is removing fuzzy pot buster’s application vs strike throw." - mattie
 >
->
 > "I also don't agree with command grabs losing throw invul and it leads to a lot of odd scenarios." - Dr K
 
-From talking with with other players, and the responses to this form, I've found that everyone is confused with this change. It removes a lot of the power and utility that command grabs provided, and leaves them feeling quite weak. An exception to this is characters which can easily space their command grab outside of throw range \[Pot, Nago], they seem to be doing just fine.
+From talking with with other players, and the responses to this form, I've found that everyone is confused with this change. It removes a lot of the power and utility that command grabs provided, and leaves them feeling quite weak. An exception to this is Pot who is often able to space his command grab out of throw range/grab after a guard crush.
 
 ### Throw PRC
 
-On the theme of throws, Throw PRC \[Purple Roman Cancel]! As of 2.0 there's a PRC lockout on whiff throw, meaning you can no longer use meter to cover. This has consistently been a very strong option throughout GGST's lifespan, useful on offence and defense to swing the risk/reward. Now it's gone!
+On the theme of throws, Throw PRC \[Purple Roman Cancel]! As of 2.0 there's a lockout on RC after a whiffed throw, meaning you can no longer use meter to cover yourself. This has consistently been a very strong option throughout GGST's lifespan, useful on offence and defense to swing the risk/reward. Now it's gone!
 
->
 > "I love all of the RC changes but the throw PRC change is probably my favourite. One of the main issues I found with high meter build characters is they would basically remove any consequence of going for throw since you could just PRC and either punish their defensive option or force them to block again. Since its gone it makes offense a lot more interesting for both sides." -Mister_Finer
->
 >
 > "Throw PRC is gone! Amazing decision that I thought they would never do since RC is so core to guilty gear. It shows that the dev team is willing to make serious system changes to make the game healthier." - MasterEdgelord0
 >
->
-> "I know it's a very unpopular opinion, but I'm unhappy that Throw Whiff PRC is gone. I felt like that was a really core part of what made Roman Cancel feel like a powerful mechanic, a mechanic that let you break the rules a bit if you could pay for it. And I felt that it struck a good balance of making the attacker in a situation feel powerful, since they could run Strike-Throw without one of those option leading to an immediate punish and reversal, while still having a real cost to being wrong…" "I think that the Tension Penalty change and the PRC scaling nerf would have been more than enough to rein in the more "problematic"/"degenerate" aspects of the Roman Cancel system, without needing to completely remove some of its flashiest applications."  - Oisín Alumento 
->
->
+> "I know it's a very unpopular opinion, but I'm unhappy that Throw Whiff PRC is gone. I felt like that was a really core part of what made Roman Cancel feel like a powerful mechanic, a mechanic that let you break the rules a bit if you could pay for it. And I felt that it struck a good balance of making the attacker in a situation feel powerful, since they could run Strike-Throw without one of those option leading to an immediate punish and reversal, while still having a real cost to being wrong … I think that the Tension Penalty change and the PRC scaling nerf would have been more than enough to rein in the more 'problematic'/'degenerate' aspects of the Roman Cancel system, without needing to completely remove some of its flashiest applications."  - Oisín Alumento
+
+Throw PRC is largely celebrated on it's departure. Players are enjoying the increased consequences for making an incorrect decision. MasterEdgelord0 praises ArcSys for being "willing to make serious system changes"; To many players this represents a big change in the identity of the game, and one they're happy to welcome.
+
+To others such as Oisín, this change is unneeded. He argues that Throw PRC was a core part of what made Roman Cancel feel powerful, "a mechanic that let you break the rules", and that the Tension Penalty & PRC scaling changes would be enough to keep problematic applications of RC in line.
