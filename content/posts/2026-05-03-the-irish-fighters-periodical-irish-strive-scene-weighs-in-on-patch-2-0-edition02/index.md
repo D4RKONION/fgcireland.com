@@ -23,11 +23,11 @@ I've included the questions within some quotes to clarify context. If you're int
 
 First off, an appetizer, some stats! Yay!!
 
-In total there were 21 Respondents to the form
+In total there were 22 Respondents to the form
 
 In terms of character representation \[including secondaries] there were:
 
-2 Bridget, 1 Sol, 1 Jam, 2 Axl, 2 Anji, 1 Johnny, 3 Chipp, 1 Faust, 2 Venom, 1 Nago, 2 Bedman?, 2 I-no, 3 Testament, 2 Elphelt, 1 Potemkin, 1 Aba, 2 Lucy, 1 May, 2 Dizzy, 1 Baiken, 1 Zato-1
+2 Bridget, 1 Sol, 1 Jam, 2 Axl, 3 Anji, 1 Johnny, 3 Chipp, 1 Faust, 2 Venom, 1 Nago, 2 Bedman?, 2 I-no, 3 Testament, 2 Elphelt, 1 Potemkin, 1 Aba, 2 Lucy, 1 May, 2 Dizzy, 1 Baiken, 1 Slayer, 1 Zato-1
 
 Total uses of the phrase "Wild Assault": 10
 
@@ -102,6 +102,10 @@ We already went over how Wild Assault was removed, but what's the opinion on it?
 > "Removal of wild assault, I don't think I have to explain why" - Carbattery
 >
 > "Wild assault being gone feels super good, I don't think I need to go in depth on this. I'm very much with the common consensus here." - Goronberry
+>
+> **What's one change made in this patch which you totally love?**
+>
+> Removal of Wild Assault. It was far too strong and for a lot of characters felt one of their best tools. I would rather a character's strengths come from their unique traits, not a system mechanic that every character has access to. It felt too homogenising and I think it being gone will allow characters to feel that bit more unique. - Orion
 >
 > **What's one change made in this patch which you totally love?** 
 >
@@ -234,36 +238,40 @@ It seems that we're still undecided on Jam Kuradoberi.
 
 This is a huge topic and I am totally not qualified nor do I have the bandwidth to talk about all 33 of it's characters in depth, so I'm going to leave the fun to you guys...
 
-
+> "Since WA has been removed and 5H has been reverted along with some other changes \[Johnny] feels more interesting and more importantly more fun to play." -Mister_Finer
 >
-> "Since WA has been removed and 5H has been reverted along with some other changes \\[Johnny] feels more interesting and more importantly more fun to play." -Mister_Finer
+> "Slayer fared quite well, though the changes do make me sad. The patch was overall nerfs and while I do think Slayer got hit pretty hard, I don't think any of his changes were something that will make him bad, and the new patch being lower damage overall means his damage being as high as it is feels more valuable now. I actually really really like the change to pilebunker where it lost damage out of P dandy step. It makes his combos a lot more interesting by encouraging you to do harder routes for better reward." - Orion
 >
 > "Overall I think bedman got off pretty good all things considered, being I think overall stronger this patch then last, while getting new tools that are fun to play with ... Id give their handling of bedman an 8.5/10" - Carbattery
 
+image goes here
+
+> "Pot is fine now but I wish slidehead could have armour back because it’s legit useless. The universal hurtbox changes removed some of his routes which kinda sucks. He’s way less belligerent overall and he’s back to having to actually try in some mus. Importantly though his non-special neutral feels much better to play with the 5h change and his faster walk speed, which was already my preferred style of playing." - mattie
+>
+> "Launch Aba was by far the most fun I’ve ever had with the game, second to launch Slayer, so to see her in this state now makes me really sad but what can you do." - mattie
+>
+>
+> "I think Faust definitely got weaker this patch, however with many other characters getting weaker too he hasn't really moved in terms of overall strength. That being said he wasn't in a good position before the patch and many of the problems that put him in that position were not addressed." - Flood
+>
+>
 
 image goes here
 
->
->
-> "Pot is fine now but I wish slidehead could have armour back because it’s legit useless. The universal hurtbox changes removed some of his routes which kinda sucks. He’s way less belligerent overall and he’s back to having to actually try in some mus. Importantly though his non-special neutral feels much better to play with the 5h change and his faster walk speed, which was already my preferred style of playing." - \*\*mattie\*\*
->
-> "sol new move is the most wack thing ever and i hope whoever asked for sidewinder is banned from having opinions ever again." - \*\*Rubii\*\*
->
-> "Launch Aba was by far the most fun I’ve ever had with the game, second to launch Slayer, so to see her in this state now makes me really sad but what can you do." - \*\*mattie\*\*
-
-
-
-image goes here
-
->
->
->
 > "I think Baiken came out of the patch pretty well overall. The one major nerf she got (other than the universal nerfs to reversals) was losing the hard knockdown on H Kabari, which hurts her for sure, but it's mitigated decently well by finding combo routes that set up a guaranteed meaty S Kabari. Beyond that, she kept all of her other really strong tools, namely her incredible Throw game, scary high-low with Yozansen (which didn't get the overhead scaling nerf for some reason), and Guard Cancel Parry." - Oisín Alumento
 >
 > "Elphelt feels a bit less fun... I don't like what they did to bomb and the Rekka ender but she's still strong."- -Xandra-
 >
-> "Lucy is even more dead than aba they removed ALL of her combos and didn’t fix her losing on block or her disastrously low health for the type of offence she runs. I played her a lot casually last version and while she had her problems she was really fun, though I can’t say the same now unfortunately. She feels like one step forward two steps back this version :/" - mattie
 >
+>
+> "Lucy is even more dead than aba they removed ALL of her combos and didn’t fix her losing on block or her disastrously low health for the type of offence she runs. I played her a lot casually last version and while she had her problems she was really fun, though I can’t say the same now unfortunately. She feels like one step forward two steps back this version :/" - mattie
+
+image goes here
+
+> "Zato-1: My initial thoughts I feel like zato is way stronger this patch. The lower power environment suits him way better and WA removal isn't too big a deal for him since he only used in really specific scenarios. With all the changes he received over the last two seasons he could be a bit of a terror again." - Dr K
+>
+> "sol new move is the most wack thing ever and i hope whoever asked for sidewinder is banned from having opinions ever again." - Rubii
+>
+> "It's sort of baffling; \[Testament] was not very strong before the patch, and would likely have been pretty decent but not astonishingly strong had they been left totally unchanged - this is a meta where they should have thrived! Shooting them in both kneecaps mostly left them bad before the patch and worse after it." - Éadairbhe 
 
 ## The Disparity between High-tiers and Low-tiers
 
