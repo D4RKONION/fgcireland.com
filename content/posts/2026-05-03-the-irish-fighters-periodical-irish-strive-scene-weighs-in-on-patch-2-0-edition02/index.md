@@ -232,7 +232,38 @@ It seems that we're still undecided on Jam Kuradoberi.
 
 # Character Balance
 
-This is a huge topic and I am totally not qualified to talk about all 33 of it's characters in depth, so I'm going to leave that part to you guys. What I will do is go over some broad feelings, starting with...
+This is a huge topic and I am totally not qualified nor do I have the bandwidth to talk about all 33 of it's characters in depth, so I'm going to leave the fun to you guys...
+
+
+>
+> "Since WA has been removed and 5H has been reverted along with some other changes \\[Johnny] feels more interesting and more importantly more fun to play." -Mister_Finer
+>
+> "Overall I think bedman got off pretty good all things considered, being I think overall stronger this patch then last, while getting new tools that are fun to play with ... Id give their handling of bedman an 8.5/10" - Carbattery
+
+
+image goes here
+
+>
+>
+> "Pot is fine now but I wish slidehead could have armour back because it’s legit useless. The universal hurtbox changes removed some of his routes which kinda sucks. He’s way less belligerent overall and he’s back to having to actually try in some mus. Importantly though his non-special neutral feels much better to play with the 5h change and his faster walk speed, which was already my preferred style of playing." - \*\*mattie\*\*
+>
+> "sol new move is the most wack thing ever and i hope whoever asked for sidewinder is banned from having opinions ever again." - \*\*Rubii\*\*
+>
+> "Launch Aba was by far the most fun I’ve ever had with the game, second to launch Slayer, so to see her in this state now makes me really sad but what can you do." - \*\*mattie\*\*
+
+
+
+image goes here
+
+>
+>
+>
+> "I think Baiken came out of the patch pretty well overall. The one major nerf she got (other than the universal nerfs to reversals) was losing the hard knockdown on H Kabari, which hurts her for sure, but it's mitigated decently well by finding combo routes that set up a guaranteed meaty S Kabari. Beyond that, she kept all of her other really strong tools, namely her incredible Throw game, scary high-low with Yozansen (which didn't get the overhead scaling nerf for some reason), and Guard Cancel Parry." - Oisín Alumento
+>
+> "Elphelt feels a bit less fun... I don't like what they did to bomb and the Rekka ender but she's still strong."- -Xandra-
+>
+> "Lucy is even more dead than aba they removed ALL of her combos and didn’t fix her losing on block or her disastrously low health for the type of offence she runs. I played her a lot casually last version and while she had her problems she was really fun, though I can’t say the same now unfortunately. She feels like one step forward two steps back this version :/" - mattie
+>
 
 ## The Disparity between High-tiers and Low-tiers
 
