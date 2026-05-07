@@ -1,6 +1,6 @@
 ---
-title: THE IRISH FIGHTER'S PERIODICAL - IRISH STRIVE SCENE WEIGHS IN ON PATCH
-  2.0 - EDITION02
+title: THE IRISH FIGHTER'S PERIODICAL - IRISH STRIVE PLAYERS TALK PATCH 2.0 -
+  EDITION02
 date: 2026-05-05T15:00:00.000+01:00
 draft: true
 authors:
@@ -10,30 +10,38 @@ tags:
   - News
   - Round Up
 description: summary
+galleryImages:
+  - image: /images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/balance.png
+  - image: /images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/wildassault.png
+  - image: /images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/throwprc.png
+  - image: /images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/jam.png
+  - image: /images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/anjiino2.png
+  - image: /images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/venombridget.png
+  - image: /images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/chippaxl.png
 ---
 # Introduction
 
-Hello!! Recently I posted a form where everyone could give their opinion on GUILTY GEAR -STRIVE-'s 2.0 Battle Balance Patch. This \[huge] article is a collection of all of those responses. I have tried to use as many quotes from you all as possible \[while still retaining a readable article].
+Hello!! Recently I posted a form in Eiredashers where everyone could give their opinion on GUILTY GEAR -STRIVE-'s 2.0 Battle Balance Patch. This \[huge] article is a collection of all of those responses. I have tried to use as many quotes from you, the bellowing masses, as possible \[while still retaining a readable article].
 
 In some sections I reference responses which I didn't have the space to add into the article, for example by saying things such as "many responses". I thought I would mention this for clarity, you'll just have to take my word for it in those cases.
-
-I've included the questions within some quotes to clarify context. If you're interested in the questions I put on the form, they are attached at the bottom.
 
 ### Stats
 
 First off, an appetizer, some stats! Yay!!
 
-In total there were 22 Respondents to the form
+In total there were 22 Respondents to the form! Thank you all for your cooperation!
+
+Total uses of the phrase "Wild Assault": 11
+
+Total uses of the word "Nerf": 40
 
 In terms of character representation \[including secondaries] there were:
 
 2 Bridget, 1 Sol, 1 Jam, 2 Axl, 3 Anji, 1 Johnny, 3 Chipp, 1 Faust, 2 Venom, 1 Nago, 2 Bedman?, 2 I-no, 3 Testament, 2 Elphelt, 1 Potemkin, 1 Aba, 2 Lucy, 1 May, 2 Dizzy, 1 Baiken, 1 Slayer, 1 Zato-1
 
-Total uses of the phrase "Wild Assault": 10
-
 ### Reader's Guide
 
-I'm going to go through each section of the 2.0 patch \[Overall, System Mechanics, etc...] and attach the quotes that I think are most interesting or best represent the reception the patch has received. Because of how comprehensive this will be, it is going to be very long.
+The main course. I'm going to go through each section of the 2.0 patch \[Overall, System Mechanics, etc...] and attach the quotes that I think are most interesting or best represent the reception the patch has received. Because of how comprehensive this will be, it is going to be very long.
 
 This article is not intended to be read from top to bottom \[that would be exhausting], instead I would prefer you pick out whichever sections you're interested in and read from there. Or name search your opp and snipe their Incredibly Wrong opinions. Or just look at the pretty pictures. Idgaf.
 
@@ -41,13 +49,11 @@ So what does the community think?!?
 
 # Overall reception to the patch
 
-image goes here
+![A pair of balancing bunnies.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/balance.png)
 
-The GUILTY GEAR -STRIVE- 2.0 Battle Balance Patch came out on the 9th of April 2026, meaning the Irish FGC has had about a month to play with and get a feel of it. It promised to be a huge update for the game, akin to title updates from previous Gears, and many hoped it would be a big shakeup in terms of meta.
+The GUILTY GEAR -STRIVE- 2.0 Battle Balance Patch came out on the 9th of April 2026. It promised to be a huge update for the game, akin to title updates from previous Gears, and many hoped it would be a big shakeup in terms of meta.
 
-Such an update took a long time to prepare; this patch came off an 8 month period without a major update. It is safe to say that there was much hope and anxiety in anticipation for this patch.
-
-Here's what you had to say:
+Such an update took a long time to prepare; this patch came off an 8 month period without a major update. It is safe to say that there was much hope and anxiety in anticipation for this patch. The Irish FGC has had about a month to play with and get a feel of it as of writing this...
 
 > "I think it's a massive improvement" - D4RK ONION
 >
@@ -81,17 +87,15 @@ In terms of criticism, it lies largely in the way some characters have either be
 
 # System Mechanics
 
-A large amount of focus for 2.0 was placed on the system mechanics of the game. Strive is coming up on it's 5th anniversary since release, and in the time it's been around it's accrued a lot of tweaks to it's baseline mechanics which all characters play by. The implementation of Wild Assault and Dust Shield in Season 3 \[24/08/2023], the removal of DP RC in Season 4 \[22/07/24], etc.
+A large amount of focus for 2.0 was placed on the system mechanics of the game. Strive is coming up on it's 5th anniversary since release, and in the time it's been around it's accrued a lot of tweaks to it's baseline mechanics which all characters play by. The implementation of Wild Assault and Dust Shield in Season 3 \[24/08/2023], the removal of DP RC in Season 4 \[22/07/24], etc..
 
-But not all these changes have been well received. Wild Assault in particular has been contentious since it's release, and ArcSys have gone through iteration after iteration in attempt to mould it into something positive. After Strive's top 8 at Arc World Tour 2025-26 concluded, they revealed they would be removing Wild Assault, and were met with cheers and cries and a standing ovation.
-
-But they didn't stop there. As promised the patch turned out to be a huge upheaval of all of Strive's system mechanics. Let's go through them one by one and see what you had to say:
+But not all these changes have been well received. 
 
 ## Wild Assault
 
-image goes here
+![The removal of Wild Assault, the sealing of a Dark Art.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/wildassault.png)
 
-We already went over how Wild Assault was removed, but what's the opinion on it?
+Wild Assault in particular has been contentious since it's release, and ArcSys have gone through iteration after iteration in attempt to mould it into something positive. After Strive's top 8 at Arc World Tour 2025-26 concluded, they revealed they would be removing Wild Assault, and were met with cheers and cries and a standing ovation.
 
 > "Wild Assault being gone means characters can be designed more sharply and that's great. I don't like overbearing system mechanics" - D4RK ONION 
 >
@@ -110,6 +114,8 @@ We already went over how Wild Assault was removed, but what's the opinion on it?
 > **What's one change made in this patch which you totally love?** 
 >
 > "I bet everyone says "removing Wild Assault" here. Well. Removing Wild Assault" - Éadairbhe
+
+While some have stated that they enjoyed Wild Assault for the cool combos it enabled, the overwhelming sense is I think is of relief. A deep breath.
 
 # Defensive interaction as a whole
 
@@ -143,6 +149,8 @@ In the 2.0 patch, command grabs lost invulnerability to throws. Previously if on
 From talking with with other players, and the responses to this form, I've found that everyone is confused with this change. It removes a lot of the power and utility that command grabs provided, and leaves them feeling quite weak. An exception to this is Pot who is often able to space his command grab out of throw range/grab after a guard crush.
 
 ## Throw PRC
+
+![Jam fuzzy jumps Leo's throw, and finds great mirth in his shock.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/throwprc.png)
 
 On the theme of throws, Throw PRC \[Purple Roman Cancel]! As of 2.0 there's a lockout on RC after a whiffed throw, meaning you can no longer use meter to cover yourself. This has consistently been a very strong option throughout GGST's lifespan, useful on offence and defense to swing the risk/reward. Now it's gone!
 
@@ -220,7 +228,7 @@ System Mechanics /end.
 
 ## Jam Intermission
 
-image goes here
+![Jam Kuradoberi, greedy chef.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/jam.png)
 
 Jam is new and fun and evil and everyone seems to have an opinion on her. Like everyone hates her! Or.. does everyone love her?
 
@@ -244,34 +252,37 @@ This is a huge topic and I am totally not qualified nor do I have the bandwidth 
 >
 > "Overall I think bedman got off pretty good all things considered, being I think overall stronger this patch then last, while getting new tools that are fun to play with ... Id give their handling of bedman an 8.5/10" - Carbattery
 
-image goes here
+!\[Anji & I-no players give their opinion on their character.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/anjiino2.png)
 
 > "Pot is fine now but I wish slidehead could have armour back because it’s legit useless. The universal hurtbox changes removed some of his routes which kinda sucks. He’s way less belligerent overall and he’s back to having to actually try in some mus. Importantly though his non-special neutral feels much better to play with the 5h change and his faster walk speed, which was already my preferred style of playing." - mattie
 >
 > "Launch Aba was by far the most fun I’ve ever had with the game, second to launch Slayer, so to see her in this state now makes me really sad but what can you do." - mattie
 >
->
 > "I think Faust definitely got weaker this patch, however with many other characters getting weaker too he hasn't really moved in terms of overall strength. That being said he wasn't in a good position before the patch and many of the problems that put him in that position were not addressed." - Flood
->
->
 
-image goes here
+!\[Venom & Bridget players give their opinion on their character.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/venombridget.png)
 
 > "I think Baiken came out of the patch pretty well overall. The one major nerf she got (other than the universal nerfs to reversals) was losing the hard knockdown on H Kabari, which hurts her for sure, but it's mitigated decently well by finding combo routes that set up a guaranteed meaty S Kabari. Beyond that, she kept all of her other really strong tools, namely her incredible Throw game, scary high-low with Yozansen (which didn't get the overhead scaling nerf for some reason), and Guard Cancel Parry." - Oisín Alumento
 >
 > "Elphelt feels a bit less fun... I don't like what they did to bomb and the Rekka ender but she's still strong."- -Xandra-
 >
->
->
 > "Lucy is even more dead than aba they removed ALL of her combos and didn’t fix her losing on block or her disastrously low health for the type of offence she runs. I played her a lot casually last version and while she had her problems she was really fun, though I can’t say the same now unfortunately. She feels like one step forward two steps back this version :/" - mattie
 
-image goes here
+!\[Chipp & Axl players give their opinion on their character.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/chippaxl.png)
 
 > "Zato-1: My initial thoughts I feel like zato is way stronger this patch. The lower power environment suits him way better and WA removal isn't too big a deal for him since he only used in really specific scenarios. With all the changes he received over the last two seasons he could be a bit of a terror again." - Dr K
 >
 > "sol new move is the most wack thing ever and i hope whoever asked for sidewinder is banned from having opinions ever again." - Rubii
 >
 > "It's sort of baffling; \[Testament] was not very strong before the patch, and would likely have been pretty decent but not astonishingly strong had they been left totally unchanged - this is a meta where they should have thrived! Shooting them in both kneecaps mostly left them bad before the patch and worse after it." - Éadairbhe 
+
+### Happy Chaos \[Author Opinions]
+
+I am making this section to talk about my guy because I have something to say. I played Chaos before the patch, but I can't bring myself to play this iteration. They took the fun out and made him even more gross. Obviously this infinite stuff is going to pass but regardless he now acts as a zoner more than anything else. Who wanted this?!?
+
+The fun of chaos for me was the fluidity of the gun on offense and in combos and how it could be used to lock someone down while you did some bullshit. The removal of 236S for this awful feeling H button, no more Air Gun, and these jank inputs on portals all add up to a nasty, inflexible feeling gun that I hate.
+
+I wanted him to be shot, he really deserved it, and maybe there was no way to have the Chaos I love without him being a permanent top 1. Despite all that, I'll still be sad that I can't take him into this great new patch.
 
 ## The Disparity between High-tiers and Low-tiers
 
