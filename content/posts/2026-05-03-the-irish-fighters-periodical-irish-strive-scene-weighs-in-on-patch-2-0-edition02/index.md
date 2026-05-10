@@ -252,7 +252,7 @@ This is a huge topic and I am totally not qualified nor do I have the bandwidth 
 >
 > "Overall I think bedman got off pretty good all things considered, being I think overall stronger this patch then last, while getting new tools that are fun to play with ... Id give their handling of bedman an 8.5/10" - Carbattery
 
-!\[Anji & I-no players give their opinion on their character.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/anjiino2.png)
+![Anji & I-no players give their opinion on their character.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/anjiino2.png)
 
 > "Pot is fine now but I wish slidehead could have armour back because it’s legit useless. The universal hurtbox changes removed some of his routes which kinda sucks. He’s way less belligerent overall and he’s back to having to actually try in some mus. Importantly though his non-special neutral feels much better to play with the 5h change and his faster walk speed, which was already my preferred style of playing." - mattie
 >
@@ -260,7 +260,7 @@ This is a huge topic and I am totally not qualified nor do I have the bandwidth 
 >
 > "I think Faust definitely got weaker this patch, however with many other characters getting weaker too he hasn't really moved in terms of overall strength. That being said he wasn't in a good position before the patch and many of the problems that put him in that position were not addressed." - Flood
 
-!\[Venom & Bridget players give their opinion on their character.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/venombridget.png)
+![Venom & Bridget players give their opinion on their character.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/venombridget.png)
 
 > "I think Baiken came out of the patch pretty well overall. The one major nerf she got (other than the universal nerfs to reversals) was losing the hard knockdown on H Kabari, which hurts her for sure, but it's mitigated decently well by finding combo routes that set up a guaranteed meaty S Kabari. Beyond that, she kept all of her other really strong tools, namely her incredible Throw game, scary high-low with Yozansen (which didn't get the overhead scaling nerf for some reason), and Guard Cancel Parry." - Oisín Alumento
 >
@@ -268,7 +268,7 @@ This is a huge topic and I am totally not qualified nor do I have the bandwidth 
 >
 > "Lucy is even more dead than aba they removed ALL of her combos and didn’t fix her losing on block or her disastrously low health for the type of offence she runs. I played her a lot casually last version and while she had her problems she was really fun, though I can’t say the same now unfortunately. She feels like one step forward two steps back this version :/" - mattie
 
-!\[Chipp & Axl players give their opinion on their character.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/chippaxl.png)
+![Chipp & Axl players give their opinion on their character.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/chippaxl.png)
 
 > "Zato-1: My initial thoughts I feel like zato is way stronger this patch. The lower power environment suits him way better and WA removal isn't too big a deal for him since he only used in really specific scenarios. With all the changes he received over the last two seasons he could be a bit of a terror again." - Dr K
 >
@@ -299,3 +299,38 @@ In my opinion it's likely this balancing is intentional, and ArcSys are content 
 > "My main gripes come with the changes made to specific characters. I understand the idea of making a patch that decreases the power level across the board but I feel like they went further than they needed to with nerfing some characters, specifically the lower tier ones. The end result is just that the lower tiers stay losing (with some exceptions like Axl fsr) while the high tiers like Leo, Johnny and Nago stay on top." - Loop
 
 This is a point that nobody seems to agree with ArcSys on, with many people specifically mentioning their dislike of the character balance this patch as I highlighted earlier. While characters will always have some disparity, the degree of separation between the current cast is a clear point of criticism.
+
+## The Testament Situation
+
+image goes here
+
+Among nerfed low-tiers, Testament stood out as a particularly violent case of character destruction. Their changes were so universally disapproved by form responders that a section was mandated to catalogue all the distinct mentions.
+
+> "I'm not happy with the excessive nerfs they gave to Testament (who was already struggling)" - Flood 
+>
+> "Testament nerfs. Why did they do that to them." - MasterEdgelord0 
+>
+> "The way they handled Testament this patch is utterly mind boggling. I have no idea what they want you to do with that character, and double stain is the stupidest thing I think they've given a character this patch. I really hope they give testament massive buffs soon. They have never been considered good since they released and did absolutely nothing to warrant these nerfs while chipp and leo get to be top 5 for another 4 years" - Carbattery
+>
+> "Testament lost a lot of strength especially in midrange, I haven't played much of them this patch." - Cho-Cathal-ic 
+>
+> "Why did they do that to Testament? Like really. Why shoot such an already bad character?" - Loop
+>
+> "They did shoot and kill Testament entirely." - Éadairbhe 
+
+There are going to be riots in the street about this character.
+
+## Fishing Intermission
+
+You can now FISH 50 TIMES AT ONCE! This is a huge relief to collectors and fishing enthusiasts alike, such as Mr Potato.
+
+>
+>
+>
+> **What's one change made in this patch which you totally love?** 
+>
+> "You can fish 50 times in one pull now" - Mr Potato
+>
+>
+
+Among changes this patch, this is ranking at the least controversial.
