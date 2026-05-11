@@ -21,7 +21,7 @@ galleryImages:
 ---
 # Introduction
 
-Hello!! Recently I posted a form in Eiredashers where everyone could give their opinion on GUILTY GEAR -STRIVE-'s 2.0 Battle Balance Patch. This \[huge] article is a collection of all of those responses. I have tried to use as many quotes from you, the bellowing masses, as possible \[while still retaining a readable article].
+Hello!! Recently I posted a form in Eiredashers where everyone could give their opinion on GUILTY GEAR -STRIVE-'s 2.0 Battle Balance Patch. This \[huge] article is a collection of all of those responses. I have tried to use as many quotes from you, the marvelous masses, as possible \[while still retaining a readable article].
 
 In some sections I reference responses which I didn't have the space to add into the article, for example by saying things such as "many responses". I thought I would mention this for clarity, you'll just have to take my word for it in those cases.
 
@@ -49,11 +49,9 @@ So what does the community think?!?
 
 # Overall reception to the patch
 
-![A pair of balancing bunnies.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/balance.png)
-
 The GUILTY GEAR -STRIVE- 2.0 Battle Balance Patch came out on the 9th of April 2026. It promised to be a huge update for the game, akin to title updates from previous Gears, and many hoped it would be a big shakeup in terms of meta.
 
-Such an update took a long time to prepare; this patch came off an 8 month period without a major update. It is safe to say that there was much hope and anxiety in anticipation for this patch. The Irish FGC has had about a month to play with and get a feel of it as of writing this...
+Such an update took a long time to prepare; this patch came off an 8 month period without a major update. It is safe to say that there was much hope and anxiety in anticipation for this patch. The Irish FGC has had about a month to play with and get a feel for it as of writing this...
 
 > "I think it's a massive improvement" - D4RK ONION
 >
@@ -87,15 +85,15 @@ In terms of criticism, it lies largely in the way some characters have either be
 
 # System Mechanics
 
-A large amount of focus for 2.0 was placed on the system mechanics of the game. Strive is coming up on it's 5th anniversary since release, and in the time it's been around it's accrued a lot of tweaks to it's baseline mechanics which all characters play by. The implementation of Wild Assault and Dust Shield in Season 3 \[24/08/2023], the removal of DP RC in Season 4 \[22/07/24], etc..
+A large amount of focus for the 2.0 changes were placed on the system mechanics of the game. Strive is coming up on it's 5th anniversary since release, and in the time it's been around it's accrued a lot of tweaks to it's baseline mechanics which all characters play by. The implementation of Wild Assault and Dust Shield in Season 3 \[24/08/2023], the removal of DP RC in Season 4 \[22/07/24], etc..
 
-But not all these changes have been well received. 
+But not all these changes have been well received...
 
 ## Wild Assault
 
 ![The removal of Wild Assault, the sealing of a Dark Art.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/wildassault.png)
 
-Wild Assault in particular has been contentious since it's release, and ArcSys have gone through iteration after iteration in attempt to mould it into something positive. After Strive's top 8 at Arc World Tour 2025-26 concluded, they revealed they would be removing Wild Assault, and were met with cheers and cries and a standing ovation.
+Wild Assault in particular has been contentious since it's release, and ArcSys have gone through iteration after iteration in an attempt to mould it into something positive. After the Arc World Tour 2025-26 finals concluded, they revealed they would be removing Wild Assault, and were met with cheers and cries and a standing ovation.
 
 > "Wild Assault being gone means characters can be designed more sharply and that's great. I don't like overbearing system mechanics" - D4RK ONION 
 >
@@ -115,7 +113,7 @@ Wild Assault in particular has been contentious since it's release, and ArcSys h
 >
 > "I bet everyone says "removing Wild Assault" here. Well. Removing Wild Assault" - Éadairbhe
 
-While some have stated that they enjoyed Wild Assault for the cool combos it enabled, the overwhelming sense is I think is of relief. A deep breath.
+While some have stated that they enjoyed Wild Assault for the cool combos it enabled, the overwhelming impression among the community is a sense of relief.
 
 # Defensive interaction as a whole
 
@@ -132,7 +130,7 @@ I'll be individually going over some changes to defense separately, but I though
 
 While many responses shared an adoration for the defensive changes, I want to focus on the opposing view point because I think it's the most interesting.
 
-A reoccurring theme among critiques of 2.0 was loss of identity. Goronberry mentioned that he dislikes the standardisation of characters away from 4f normals and low profiles which he said diminished the individual strengths. Now Oisín Alumento is saying that the limitations on Roman Cancel and lowered reward on meterless reversals, among other things, "loses some of the 'Guilty Gear' DNA".
+A reoccurring theme among critiques of 2.0 was loss of identity. Goronberry mentioned that he dislikes the standardisation of characters away from 4f normals and low profiles which he said diminished the individual strengths. Now Oisín Alumento is saying that the limitations on Roman Cancel and lowered reward on meterless reversals, among other things "loses some of the 'Guilty Gear' DNA".
 
 This loss of identity is a point worth considering: At what point does a move towards a fair and balanced environment go too far and become homogenisation on a character or game level? We'll see throughout the article where the consensus seems to lie on this issue.
 
@@ -160,11 +158,15 @@ On the theme of throws, Throw PRC \[Purple Roman Cancel]! As of 2.0 there's a lo
 >
 > "I know it's a very unpopular opinion, but I'm unhappy that Throw Whiff PRC is gone. I felt like that was a really core part of what made Roman Cancel feel like a powerful mechanic, a mechanic that let you break the rules a bit if you could pay for it. And I felt that it struck a good balance of making the attacker in a situation feel powerful, since they could run Strike-Throw without one of those option leading to an immediate punish and reversal, while still having a real cost to being wrong … I think that the Tension Penalty change and the PRC scaling nerf would have been more than enough to rein in the more 'problematic'/'degenerate' aspects of the Roman Cancel system, without needing to completely remove some of its flashiest applications."  - Oisín Alumento
 
+To some, Throw PRC being gone is a great change. Mister_Finer enjoys the increased consequences for a wrong read on both offense and defense, saying "Since \[Throw PRC] is gone it makes offense a lot more interesting for both sides."
+
+MasterEdgelord0, who also enjoys the change, praises ArcSys for being "willing to make serious system changes to make the game healthier."
+
 To others such as Oisín, this change is unneeded. He argues that Throw PRC was a core part of what made Roman Cancel feel powerful, "a mechanic that let you break the rules", and that the Tension Penalty & PRC Scaling changes would be enough to keep problematic applications of RC in line.
 
 ## c.S Hitbox
 
-In the 2.0 patch, c.S \[close slash] hitboxes were lowered and standardised across the cast. Previously c.S was a key anti-air option, providing the most reward of any anti-air on hit, along with being consistent way to jail fuzzy jump attempts during pressure.
+In the 2.0 patch, c.S \[close slash] hitboxes were lowered and standardised across the cast. Previously c.S was a key anti-air option, providing the most reward of any anti-air on hit, along with being a consistent way to jail fuzzy jump attempts during pressure.
 
 > "cS hitboxes getting nerfed is a very uninteresting change imo as it feels like a lot of characters were built with it in mind. It unintentionally makes fuzzy jump a lot better as it's much harder to dissuade and harder to punish for some character. I think increasing scaling on anti air cS starters would've been a better change" - Mister_Finer
 >
@@ -192,7 +194,7 @@ A gripe of Strive players last patch was "the game is too snowbally". To address
 >
 > "Positive Bonus doesn't override tension penalty." - Cho-Cathal-ic
 
-Everyone loved this one. A stray f.S leads into a Wild Assault leads into a super wallbreak leads into hkd positive bonus pressure...! But now two elements of that dastardly mix are gone and we are all the happier for it.
+Everyone loved this one. A stray f.S leads into a Wild Assault leads into a super wallbreak leads into hkd positive bonus pressure...blah blah blah! But now two elements of that dastardly string of events are gone and we are all the happier for it.
 
 ## Other miscellaneous system mechanic changes
 
@@ -224,7 +226,7 @@ The rest of the defensive changes didn't have enough specific quotes to make the
 >
 > "The new burst and DS inputs. Not only did it take absolutely forever to get used to; they also just suck and often don't come out properly…" - -Xandra-
 
-System Mechanics /end.
+System Mechanics /end
 
 ## Jam Intermission
 
@@ -280,7 +282,7 @@ This is a huge topic and I am totally not qualified nor do I have the bandwidth 
 
 I am making this section to talk about my guy because I have something to say. I played Chaos before the patch, but I can't bring myself to play this iteration. They took the fun out and made him even more gross. Obviously this infinite stuff is going to pass but regardless he now acts as a zoner more than anything else. Who wanted this?!?
 
-The fun of chaos for me was the fluidity of the gun on offense and in combos and how it could be used to lock someone down while you did some bullshit. The removal of 236S for this awful feeling H button, no more Air Gun, and these jank inputs on portals all add up to a nasty, inflexible feeling gun that I hate.
+The fun of chaos for me was the fluidity of the gun on offense and in combos and how it could be used to lock someone down while you did some bullshit. The removal of 236S for this awful feeling H button, no more Air Gun, the changes to reload, and these jank inputs on portals all add up to a nasty, inflexible feeling gun that I hate.
 
 I wanted him to be shot, he really deserved it, and maybe there was no way to have the Chaos I love without him being a permanent top 1. Despite all that, I'll still be sad that I can't take him into this great new patch.
 
@@ -302,7 +304,7 @@ This is a point that nobody seems to agree with ArcSys on, with many people spec
 
 ## The Testament Situation
 
-image goes here
+!\[Testament is not doing well.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/testament.png)
 
 Among nerfed low-tiers, Testament stood out as a particularly violent case of character destruction. Their changes were so universally disapproved by form responders that a section was mandated to catalogue all the distinct mentions.
 
@@ -318,19 +320,50 @@ Among nerfed low-tiers, Testament stood out as a particularly violent case of ch
 >
 > "They did shoot and kill Testament entirely." - Éadairbhe 
 
-There are going to be riots in the street about this character.
+People feel a certain way about this character. There are going to be riots in the street.
 
 ## Fishing Intermission
 
-You can now FISH 50 TIMES AT ONCE! This is a huge relief to collectors and fishing enthusiasts alike, such as Mr Potato.
+You can now FISH 50 TIMES AT ONCE! This is a huge relief to collectors and fishing enthusiasts alike, such as Mr Potato, who mentioned this change himself.
 
->
->
->
 > **What's one change made in this patch which you totally love?** 
 >
 > "You can fish 50 times in one pull now" - Mr Potato
->
->
 
-Among changes this patch, this is ranking at the least controversial.
+Among changes this patch, this is ranking as the least controversial.
+
+# Conclusion
+
+As the final question on the form, I asked the players how this patch made them feel about Strive's future. Were they excited to compete, getting back into the game, or was this not what they were looking for?
+
+> "I'm more motivated than ever to improve at the game since its been made a lot more stable. I think the game has been made more difficult since you can't just snowball with WA and positive bonus anymore. There just less bs in general and that makes playing it a lot more fun." -Mister_Finer 
+>
+> "The most important thing to me is seeing a lot of renewed interest and more people picking up the game. Having more players and a general positive sentiment does a ton to keep my enthusiasm for competing in strive going." - Monj
+>
+> "The state of the game as I mentioned earlier is pretty healthy and I'm hopeful for the future of the game and the friends that I have made through it. I'll continue to compete and get better to work towards my goal of rising in ranks as a player." - Lightheon
+>
+> "I think the game is the most fun to play since season 2. I'm really enjoying it and want to lock in on playing/traveling for it some more" - Dr K
+>
+> "I really enjoy this patch, I will continue to compete in tournaments, try to get to more locals, maybe do more online brackets." - Cho-Cathal-ic
+>
+> "I think Strive will be fine going forward, i’m aware that I’m in the minority \[with mixed feelings] and that a lot of players are really enjoying the patch, so I think it’s just not for me anymore." - Mr Potato
+>
+> "I do wanna compete in this patch. Brought back my motivation to plays fgs. Very excited. RIP SOL BADGUY 2021-2024" - Rubii
+>
+> "Definitely got me back into playing the game" - MasterEdgelord0
+>
+> "I’ve only played in 1 tournament since 2.0 came out but I can confidently say it felt WAY better to play in it compared to any tournament before in the last 5 versions, online or offline ... I’m very much looking forward to continuing to enter offline tournaments for the game for the foreseeable future :)" - mattie
+
+To conclude, from observing the feedback, this has been in many regards a major success for ArcSys. 
+
+So many players are getting back into the game or are excited to compete again. There's a feeling in the air among the Strive crowd as of late, the cheesey swiss bracket has been very populated with new faces... I am very hopeful for this game that I love so much.
+
+I hope the love of the game that everyone shares has shone through this article. My desire while writing this is that all the players of the Irish FGC can be heard while we're in this exciting moment together!!! I really think this community is special I am honoured to be in the position to create something filled with it's voices.
+
+## Thank you for reading!!!
+
+A huge shout out to my girlfriend Nia \[aka Flood] for helping me write this article. I wouldn't've been able to handle the workload alone; Her help with organising and her keen artistic & editorial eye were fundamental to making this piece.
+
+Let me end this on a quote from her, which I think sums up this patch:
+
+> "smell of the game? clean and fragrant" - Nia
