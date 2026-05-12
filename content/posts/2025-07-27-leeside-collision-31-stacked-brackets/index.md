@@ -3,7 +3,7 @@ title: "Leeside Collision 31: Stacked Brackets"
 date: 2025-07-27T19:18:00.000+01:00
 draft: false
 authors:
-  - chainsawxangel
+  - ribi-roibeis
 featured_image: leeside-31-3.jpg
 tags:
   - Tournament

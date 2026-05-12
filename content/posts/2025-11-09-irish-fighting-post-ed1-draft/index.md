@@ -3,7 +3,7 @@ title: THE IRISH FIGHTER'S PERIODICAL - IGM HIJINX AND CORK'S NEW LOCAL - EDITIO
 date: 2025-11-10T17:14:00.000+00:00
 draft: false
 authors:
-  - chainsawxangel
+  - ribi-roibeis
 featured_image: cover1.png
 tags:
   - News

@@ -3,7 +3,7 @@ title: 2XKO'S FIRST MONTH IN THE SUN
 date: 2025-10-07T14:44:00.000+01:00
 draft: false
 authors:
-  - chainsawxangel
+  - ribi-roibeis
 featured_image: cover.png
 tags:
   - Tournament
