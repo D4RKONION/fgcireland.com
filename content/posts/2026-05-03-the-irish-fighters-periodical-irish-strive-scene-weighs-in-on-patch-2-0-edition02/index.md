@@ -1,7 +1,7 @@
 ---
 title: THE IRISH FIGHTER'S PERIODICAL - IRISH STRIVE PLAYERS TALK PATCH 2.0 -
   EDITION02
-date: 2026-05-05T15:00:00.000+01:00
+date: 2026-05-12T18:58:00.000+01:00
 draft: true
 authors:
   - ribi-roibeis
