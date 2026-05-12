@@ -4,12 +4,15 @@ title: THE IRISH FIGHTER'S PERIODICAL - IRISH STRIVE PLAYERS TALK PATCH 2.0 -
 date: 2026-05-05T15:00:00.000+01:00
 draft: true
 authors:
-  - chainsawxangel
-featured_image: wildassault.png
+  - ribi-roibeis
+featured_image: cover.png
 tags:
   - News
   - Round Up
-description: summary
+description: An assemblage of Ireland's sharpest intellectual steel elucidate
+  their thoughts regarding GUILTY GEAR -STRIVE-'s recent Battle Balance Patch.
+  Feast yourself on wisdom with this once in a lifetime chance to read it all
+  HERE!
 galleryImages:
   - image: /images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/balance.png
   - image: /images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/wildassault.png
@@ -18,6 +21,9 @@ galleryImages:
   - image: /images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/anjiino2.png
   - image: /images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/venombridget.png
   - image: /images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/chippaxl.png
+  - image: /images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/testament.png
+  - image: /images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/characters.png
+  - image: /images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/rolling.png
 ---
 # Introduction
 
@@ -35,9 +41,9 @@ Total uses of the phrase "Wild Assault": 11
 
 Total uses of the word "Nerf": 40
 
-In terms of character representation \[including secondaries] there were:
+In terms of character representation \[including secondaries], please consult the chart.
 
-2 Bridget, 1 Sol, 1 Jam, 2 Axl, 3 Anji, 1 Johnny, 3 Chipp, 1 Faust, 2 Venom, 1 Nago, 2 Bedman?, 2 I-no, 3 Testament, 2 Elphelt, 1 Potemkin, 1 Aba, 2 Lucy, 1 May, 2 Dizzy, 1 Baiken, 1 Slayer, 1 Zato-1
+![A collage of characters.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/characters.png)
 
 ### Reader's Guide
 
@@ -48,6 +54,8 @@ This article is not intended to be read from top to bottom \[that would be exhau
 So what does the community think?!?
 
 # Overall reception to the patch
+
+![A pair of balancing bunnies.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/balance.png)
 
 The GUILTY GEAR -STRIVE- 2.0 Battle Balance Patch came out on the 9th of April 2026. It promised to be a huge update for the game, akin to title updates from previous Gears, and many hoped it would be a big shakeup in terms of meta.
 
@@ -172,11 +180,13 @@ In the 2.0 patch, c.S \[close slash] hitboxes were lowered and standardised acro
 >
 > "The antiair c.S change is so stupid to me. Why would they spend 5 years giving characters c.S animations that are very clearly designed to antiair only to turn around one day and say "No, :3". I understand wanting to lower the reward off antiairs but surely there had to be a better way, it feels genuinely terrible seeing the characters c.S very visibly go through them just for it to not hit because of the changes." - Goronberry
 
- ArcSys seem to've been targeting the reward off of anti-air c.S, which they have succeeded in, but Mister_Finer posits "increasing the scaling on anti air cS starters would've been a better change".
+ArcSys seem to've been targeting the reward off of anti-air c.S, which they have succeeded in, but Mister_Finer posits "increasing the scaling on anti air cS starters would've been a better change".
 
 A common complaint I've seen throughout the community, echoed here, is the fact that a lot of c.S animations don't line up with the hitbox now. Attacks which look like they should hit completely phase through opponents in the air, creating some very weird looking situations.
 
 ## Meter Penalty & Snowballing
+
+![A rolling snowball threatens to cause mayhem.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/rolling.png)
 
 A gripe of Strive players last patch was "the game is too snowbally". To address this, ArcSys made it so meter penalty carries over between wallbreaks, negating a lot of positive bonuses value. The result of this change is a choice: Break wall with super and use the hard knockdown to continue pressure without meter OR Break wall with a normal and use positive bonus to win neutral.
 
@@ -304,7 +314,7 @@ This is a point that nobody seems to agree with ArcSys on, with many people spec
 
 ## The Testament Situation
 
-!\[Testament is not doing well.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/testament.png)
+![Testament is not doing well.](/images/uploads/posts/the-irish-fighters-periodical-irish-strive-players-talk-patch-2-0-edition02/testament.png)
 
 Among nerfed low-tiers, Testament stood out as a particularly violent case of character destruction. Their changes were so universally disapproved by form responders that a section was mandated to catalogue all the distinct mentions.
 
@@ -320,7 +330,7 @@ Among nerfed low-tiers, Testament stood out as a particularly violent case of ch
 >
 > "They did shoot and kill Testament entirely." - Éadairbhe 
 
-People feel a certain way about this character. There are going to be riots in the street.
+People feel a certain way about this character... like a tummy ache... something's just not right.
 
 ## Fishing Intermission
 
