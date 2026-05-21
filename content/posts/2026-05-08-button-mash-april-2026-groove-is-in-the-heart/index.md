@@ -29,4 +29,18 @@ The last Sunday of April saw the Belfast FGC descend once again on the Accidenta
 
 (4 players/[Bracket](https://www.start.gg/tournament/button-mash-april-2026/event/2xko/brackets/2227048/3231833)/[VOD](https://www.youtube.com/watch?v=8Bcr3oVcmFA&t=7288s))
 
-**Alumento** (Ahri/Yasuo) swept aside all opposition as he won 2XKO with a 100% record not just in terms of matches, but in games as well. Second place went to **Mopsy** (Yasuo/Darius/Teemo/Braum/Akali/Warwick/Blitzcrank) and third went to **Pennma** (Illaoi/Warwick)
+**Alumento** (Ahri/Yasuo) swept aside all opposition as he won 2XKO with a 100% record not just in terms of matches, but in games as well. Second place went to **Mopsy** (Yasuo/Darius/Teemo/Braum/Akali/Warwick/Blitzcrank) and third went to **Pennma** (Illaoi/Warwick).
+
+# Guilty Gear Strive
+
+(10 players/[Bracket](https://www.start.gg/tournament/button-mash-april-2026/event/guilty-gear-strive/brackets/2227046/3231831)/[VOD](https://www.youtube.com/watch?v=8Bcr3oVcmFA&t=10282s))
+
+**mattie** (Jam/Ky) finally ended **Jo**'s (Testament) winning streak, doing it the hard way after being sent to losers' bracket by **Mister_Finer** (Johnny). **Orion** (Jam) and **Alumento** (Baiken) were sent packing with successive 3-0 wins, leading to a rematch with Mister_Finer who had lost the winners' final to Jo. This time Mister_Finer won 3-2, before another pair of 3-2 wins against Jo in the grand final.
+
+# Capcom vs SNK 2
+
+(9 players/[Bracket](https://www.start.gg/tournament/button-mash-april-2026/event/capcom-vs-snk-2/brackets/2245709/3255029)/[VOD](https://www.youtube.com/watch?v=8Bcr3oVcmFA&t=16874s))
+
+**kaworuscott** (Yamazaki/Eagle/Geese) dominated the opposition in the throwback tournament, winning 3-0 over **Dodongo's Cavern** (Hibiki/Maki)* in the winners' final, before repeating that performance in the grand final. In the losers' final, Dodongo's Cavern defeated **Scavenger XIII** (Ryu/Sagat/Guile), who had been sent to losers' bracket by **Yreval** (Ken/Terry/Sakura) before exacting his revenge in the losers' semi-final.
+
+** - For those unfamiliar with CVS2, you select one, two, or three characters, and divide your four ratio points among them. Three characters is generally considered to be optimal, although at this level it's perfectly viable to play two or even one character (shoutouts to Mopsy). Just be glad it's not like CVS1, where you could select four ratio 1 characters, and the only real reason not to was because Nakoruru (a ratio 2 character, in a game where the ratio points for each character were fixed) was completely OP.*
