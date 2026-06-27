@@ -1,6 +1,6 @@
 ---
 title: "Confrontation at the Convention: Fighting Games at Q-Con 2026"
-date: 2026-06-27T23:18:00.000+01:00
+date: 2026-06-27T23:50:00.000+01:00
 draft: false
 authors:
   - yreval
@@ -84,4 +84,4 @@ Of course, the con's tabletop gaming roots are still very much on show, and ther
 
 So, should fighting game players start making plans to go to next year's Q-Con? It's a mostly - but not entirely - positive picture. The tournaments were much better organised, and the standard of play much higher (at least for the tournaments I played in), than last year. However, the turnout for SF6 and GGST was a serious disappointment - I can only assume that the poor organisation of last year's tournaments put people off. That said, the SSBU and DBFZ tourneys did draw decent crowds, and the pieces are all in place for some excellent fighting game action at next year's Q-Con. Shoutouts to **Azhar** and **SpookySketches** for running a great fighting game tournament area.
 
-Details are obviously still to be confirmed, but expect it to take place at QUB over the course of a weekend in mid-late June, and for a weekend ticket to cost £20, if it's anything like last year. Keep an eye on the [Q-Con website](https://www.q-con.org.uk/) and their social media channels for more info when it becomes available.
+Details are obviously still to be confirmed, but expect the next Q-Con to take place at QUB over the course of a weekend in mid-late June, and for a weekend ticket to cost £20, assuming no major changes from this year. Keep an eye on the [Q-Con website](https://www.q-con.org.uk/) and their social media channels for more info when it becomes available. See you then, hopefully!
