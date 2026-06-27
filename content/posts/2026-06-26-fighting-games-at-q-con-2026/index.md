@@ -14,6 +14,7 @@ description: After some lean years, is Q-Con becoming a key fixture in the Irish
 galleryImages:
   - image: /images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20250615_140253.jpg
   - image: /images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20260620_112402.jpg
+  - image: /images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20260620_161518.jpg
 ---
 In the days before IGM and Celtic Throwdown, [Q-Con](https://www.q-con.org.uk/) was one of the major fighting game events in Ireland. Starting in 1993 as a tabletop gaming convention, after a few years video games were added to the bill, and by the time the Street Fighter 4 boom hit in 2009, fighting game tournaments had already been part of the Q-Con schedule for a few years.
 
@@ -62,3 +63,9 @@ There were two other tournaments - on the Saturday morning, **Mickemmet** was th
 Aside from the fighting game tournaments, most of the rest of my time at the con was spent in the arcade, which was organised by the good people at [Base Arcade](https://basearcade.com/). The arcade included **SF2 Champion Edition** and **Tekken 2**, as well as this curiosity:
 
 ![The Street Fighter II pinball game. The game's artwork depicts Ryu, Blanka, Ken, and Chun-Li, who seem more interested in smashing the car than fighting each other. A score of 263,136,620 is shown on the display; this is the high score on this game, which I had just achieved at the time I took this picture.](/images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20260620_112402.jpg)
+
+![A close-up of the smash-the-car bonus stage in the Street Fighter II pinball game. Underneath a window in the playfield, there is a flipper which, at certain points in the game, can be used to flip a ball towards a toy car.](/images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20260620_161518.jpg)
+
+*They even put the smash-the-car bonus stage in the pinball game. Someone at Gottlieb must have really liked it, huh? I'm not complaining though, it's really cool.*
+
+Of course, the con's tabletop gaming roots are very much on show, and there's plenty of stuff of the kind you expect to see at conventions - an artists' alley, cosplay (there was an Arcueid cosplayer in the GGST bracket. #MeltyBloodForQCon2027), panels, and so on.
