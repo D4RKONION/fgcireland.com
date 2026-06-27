@@ -1,6 +1,6 @@
 ---
 title: "Confrontation at the Convention: Fighting Games at Q-Con 2026"
-date: 2026-06-25T23:46:00.000+01:00
+date: 2026-06-27T23:18:00.000+01:00
 draft: true
 authors:
   - yreval
