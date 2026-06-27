@@ -15,6 +15,9 @@ galleryImages:
   - image: /images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20250615_140253.jpg
   - image: /images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20260620_112402.jpg
   - image: /images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20260620_161518.jpg
+  - image: /images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20260620_141744.jpg
+  - image: /images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20260620_105208.jpg
+  - image: /images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20260620_102229.jpg
 ---
 In the days before IGM and Celtic Throwdown, [Q-Con](https://www.q-con.org.uk/) was one of the major fighting game events in Ireland. Starting in 1993 as a tabletop gaming convention, after a few years video games were added to the bill, and by the time the Street Fighter 4 boom hit in 2009, fighting game tournaments had already been part of the Q-Con schedule for a few years.
 
@@ -26,9 +29,11 @@ In the early 2010s, conventions such as Q-Con, Eirtakon, and the like were the h
 
 ![The 1st place trophy for GGST at Q-Con 2025. It's 3D printed and depicts Sol and Ky's weapons, Fireseal and Thunderseal.](/images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20250615_140253.jpg)
 
-*On the other hand, I did get this trophy for winning the GGST tournament, but have you seen me play GGST? Have you seen how I usually place in GGST tournaments (or, more accurately, don't place)? When I'm winning the tournament, that's how you know the standard of play is not good.*
+*On the other hand, I did get this trophy for winning the GGST tournament, but have you seen me play GGST? Have you seen how I usually place in GGST tournaments? When I'm winning the tournament, that's how you know the standard of play is not good.*
 
 When the [fighting game tournaments](https://www.q-con.org.uk/fighting-tournaments) were announced for this year's Q-Con, though, there was cause for optimism - each tournament would be given a three-hour window and would be at least first to 2 from the start, and with the entry cap raised to 32, there would presumably be more setups available.
+
+![General view of the fighting game tournament area during the SF6 tournament. There are four setups, and the leftmost one is mirrored on the main screen.](/images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20260620_141744.jpg)
 
 Out of the four tournaments, I entered SF6 on Saturday afternoon and GGST on Sunday morning. Here's how they went down, from my perspective:
 
@@ -60,7 +65,11 @@ There were two other tournaments - on the Saturday morning, **Mickemmet** was th
 
 # The rest of the con
 
-Aside from the fighting game tournaments, most of the rest of my time at the con was spent in the arcade, which was organised by the good people at [Base Arcade](https://basearcade.com/). The arcade included **SF2 Champion Edition** and **Tekken 2**, as well as this curiosity:
+Aside from the fighting game tournaments, most of the rest of my time at the con was spent in the arcade, which was organised by the good people at [Base Arcade](https://basearcade.com/).
+
+![Some people playing arcade games at Q-Con. The games are, from left to right: Galaga, Bubble Bobble, Street Fighter II Champion Edition, and Pac-Man.](/images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20260620_105208.jpg)
+
+The arcade - where all games were set to free play, I might add - included **SF2 Champion Edition** and **Tekken 2**, as well as this curiosity:
 
 ![The Street Fighter II pinball game. The game's artwork depicts Ryu, Blanka, Ken, and Chun-Li, who seem more interested in smashing the car than fighting each other. A score of 263,136,620 is shown on the display; this is the high score on this game, which I had just achieved at the time I took this picture.](/images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20260620_112402.jpg)
 
@@ -68,4 +77,14 @@ Aside from the fighting game tournaments, most of the rest of my time at the con
 
 *They even put the smash-the-car bonus stage in the pinball game. Someone at Gottlieb must have really liked it, huh? I'm not complaining though, it's really cool.*
 
-Of course, the con's tabletop gaming roots are very much on show, and there's plenty of stuff of the kind you expect to see at conventions - an artists' alley, cosplay (there was an Arcueid cosplayer in the GGST bracket. #MeltyBloodForQCon2027), panels, and so on.
+Of course, the con's tabletop gaming roots are still very much on show, and there's plenty of stuff of the kind you expect to see at conventions - an artists' alley, cosplay (there was an Arcueid cosplayer in the GGST bracket. #MeltyBloodTwiLuminaForQCon2027), panels, and so on.
+
+![A small robot combat arena at Q-Con.](/images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20260620_102229.jpg)
+
+*The fighting at Q-Con wasn't confined to the screens - fortunately, it came in the form of this mini Robot Wars arena*
+
+# Conclusion
+
+So, should fighting game players start making plans to go to next year's Q-Con? It's a mostly - but not entirely - positive picture. The tournaments were much better organised, and the standard of play much higher (at least for the tournaments I played in), than last year. However, the turnout for SF6 and GGST was a serious disappointment - I can only assume that the poor organisation of last year's tournaments put people off. That said, the SSBU and DBFZ tourneys did draw decent crowds, and the pieces are all in place for some excellent fighting game action at next year's Q-Con. Shoutouts to **Azhar** and **SpookySketches** for running a great fighting game tournament area.
+
+Details are obviously still to be confirmed, but expect it to take place at QUB over the course of a weekend in mid-late June, and for a weekend ticket to cost £20, if it's anything like last year. Keep an eye on the [Q-Con website](https://www.q-con.org.uk/) and their social media channels for more info when it becomes available.
