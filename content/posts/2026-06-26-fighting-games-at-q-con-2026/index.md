@@ -28,7 +28,6 @@ In the days before IGM and Celtic Throwdown, [Q-Con](https://www.q-con.org.uk/) 
 In the early 2010s, conventions such as Q-Con, Eirtakon, and the like were the highlights of the Irish FGC calendar, but with the arrival of Celtic Throwdown in 2015, their importance faded. Last year's Q-Con was my first since 2017, and while I enjoyed the con as a whole, the fighting game situation was not good - tournaments were given two hours to run on two setups, meaning that entries were capped at 16 and the early rounds were first to 1 - yes, even in GGST.
 
 ![The 1st place trophy for GGST at Q-Con 2025. It's 3D printed and depicts Sol and Ky's weapons, Fireseal and Thunderseal.](/images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20250615_140253.jpg)
-
 *On the other hand, I did get this trophy for winning the GGST tournament, but have you seen me play GGST? Have you seen how I usually place in GGST tournaments? When I'm winning the tournament, that's how you know the standard of play is not good.*
 
 When the [fighting game tournaments](https://www.q-con.org.uk/fighting-tournaments) were announced for this year's Q-Con, though, there was cause for optimism - each tournament would be given a three-hour window and would be at least first to 2 from the start, and with the entry cap raised to 32, there would presumably be more setups available.
@@ -74,13 +73,11 @@ The arcade - where all games were set to free play, I might add - included **SF2
 ![The Street Fighter II pinball game. The game's artwork depicts Ryu, Blanka, Ken, and Chun-Li, who seem more interested in smashing the car than fighting each other. A score of 263,136,620 is shown on the display; this is the high score on this game, which I had just achieved at the time I took this picture.](/images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20260620_112402.jpg)
 
 ![A close-up of the smash-the-car bonus stage in the Street Fighter II pinball game. Underneath a window in the playfield, there is a flipper which, at certain points in the game, can be used to flip a ball towards a toy car.](/images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20260620_161518.jpg)
-
 *They even put the smash-the-car bonus stage in the pinball game. Someone at Gottlieb must have really liked it, huh? I'm not complaining though, it's really cool.*
 
 Of course, the con's tabletop gaming roots are still very much on show, and there's plenty of stuff of the kind you expect to see at conventions - an artists' alley, cosplay (there was an Arcueid cosplayer in the GGST bracket. #MeltyBloodTwiLuminaForQCon2027), panels, and so on.
 
 ![A small robot combat arena at Q-Con.](/images/uploads/posts/confrontation-at-the-convention-fighting-games-at-q-con-2026/20260620_102229.jpg)
-
 *The fighting at Q-Con wasn't confined to the screens - fortunately, it came in the form of this mini Robot Wars arena*
 
 # Conclusion
