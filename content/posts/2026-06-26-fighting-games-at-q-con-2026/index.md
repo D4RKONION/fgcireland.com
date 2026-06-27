@@ -1,7 +1,7 @@
 ---
 title: "Confrontation at the Convention: Fighting Games at Q-Con 2026"
 date: 2026-06-27T23:18:00.000+01:00
-draft: true
+draft: false
 authors:
   - yreval
 featured_image: 20260620_110436.jpg
