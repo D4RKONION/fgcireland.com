@@ -14,6 +14,8 @@ galleryImages:
   - image: /images/uploads/posts/button-mash-july-2026-who-wants-to-be-a-blazbillionaire/button-mash-july-26-top8-invincible.jpg
   - image: /images/uploads/posts/button-mash-july-2026-who-wants-to-be-a-blazbillionaire/button-mash-july-26-top8-strive.jpg
   - image: /images/uploads/posts/button-mash-july-2026-who-wants-to-be-a-blazbillionaire/button-mash-july-26-top8-t8.jpg
+  - image: /images/uploads/posts/button-mash-july-2026-who-wants-to-be-a-blazbillionaire/button-mash-july-26-top8-bbcf.jpg
+  - image: /images/uploads/posts/button-mash-july-2026-who-wants-to-be-a-blazbillionaire/button-mash-july-26-top8-t3.jpg
 ---
 Button Mash returned with another five tournaments on the 4th of July at Belfast's Accidental Theatre. Let's check out how they went down:
 
@@ -40,3 +42,19 @@ Button Mash returned with another five tournaments on the 4th of July at Belfast
 **Hench Man Hoey** (King) claimed a dominant win, not losing a single game on his way. **FreakingFracker** (Victor) took second place despite a loss to **Skeletorr** (Kunimitsu) in winners' bracket, as he got his revenge in a tight losers' final. In the end, though, Hench Man Hoey had too much for him in the grand final.
 
 ![T8: 1) Hench Man Hoey (King) 2) FreakingFracker (Victor) 3) Skeletorr (Kunimitsu) 4) kaworuscott (King) 5) PineApple (Yoshimitsu)/Nubby (Asuka) 7) Bread (Lili)/snidecnut (Azucena)](/images/uploads/posts/button-mash-july-2026-who-wants-to-be-a-blazbillionaire/button-mash-july-26-top8-t8.jpg)
+
+# Blazblue Central Fiction
+
+(15 players/[Bracket](https://www.start.gg/tournament/button-mash-july-2026/event/blazblue-central-fiction/brackets/2289474/3314709)/[VOD](https://www.youtube.com/watch?v=jLdghaJ5vhs&t=14295s))
+
+Not many would have guessed that BBCF would be the largest bracket at this Button Mash - but then out of nowhere, [Arc System Works announced a new character was coming to the game](https://youtu.be/SFZHNBgQquQ), nine years after the most recent character addition, resulting in a fresh surge of interest in the game. **Maka** (Amane) came out on top despite being knocked into losers' bracket by **FabricatorZayac** (Ragna). He fought his way past **Dr K** (Jin), **Mr Potato** (Terumi), and **Orion** (Susanoo) on his way to a grand final rematch with FabricatorZayac, which he won 3-1, and which he followed up with a 3-0 win in the reset.
+
+![BBCF: 1) Maka (Amane) 2) FabricatorZayac (Ragna) 3) Orion (Susanoo) 4) Mr Potato (Terumi) 5) Dr K (Jin)/Pennma (Ragna) 7) girldollthing (Taokaka)/Mini_Kai (Lambda-11)](/images/uploads/posts/button-mash-july-2026-who-wants-to-be-a-blazbillionaire/button-mash-july-26-top8-bbcf.jpg)
+
+# Tekken 3
+
+(8 players/[Bracket](https://www.start.gg/tournament/button-mash-july-2026/event/tekken-3/brackets/2302481/3332262)/[VOD](https://www.youtube.com/watch?v=jLdghaJ5vhs&t=17973s))
+
+The throwback game this time around was the iconic third instalment of the Tekken series, and **kaworuscott** (Jin) claimed victory with a close grand final win over **Skeletorr** (Lei), while **Yreval** (Paul) took third place.
+
+![T3: 1) kaworuscott (Jin) 2) Skeletorr (Lei) 3) Yreval (Paul) 4) Scavenger XIII (Nina) 5) WonderDownUnder (Paul)/PineApple (Yoshimitsu) 7) SleepySnacker (Ogre)/Snaker (Mokujin)](/images/uploads/posts/button-mash-july-2026-who-wants-to-be-a-blazbillionaire/button-mash-july-26-top8-t3.jpg)
