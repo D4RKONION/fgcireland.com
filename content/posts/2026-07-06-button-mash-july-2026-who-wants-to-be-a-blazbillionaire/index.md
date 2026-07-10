@@ -1,7 +1,7 @@
 ---
 title: "Button Mash July 2026: Who Wants to be a Blazbillionaire?"
-date: 2026-07-10T11:49:00.000+01:00
-draft: true
+date: 2026-07-10T11:54:00.000+01:00
+draft: false
 authors:
   - yreval
 featured_image: 20260704_172434.jpg
