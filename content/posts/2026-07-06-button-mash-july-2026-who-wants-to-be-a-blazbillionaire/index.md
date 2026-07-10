@@ -9,13 +9,14 @@ tags:
   - Tournament
   - Round Up
   - Belfast
-description: BBCF draws crowd at latest instalment of Belfast locals
+description: BBCF draws crowd at latest Belfast tournament
 galleryImages:
   - image: /images/uploads/posts/button-mash-july-2026-who-wants-to-be-a-blazbillionaire/button-mash-july-26-top8-invincible.jpg
   - image: /images/uploads/posts/button-mash-july-2026-who-wants-to-be-a-blazbillionaire/button-mash-july-26-top8-strive.jpg
   - image: /images/uploads/posts/button-mash-july-2026-who-wants-to-be-a-blazbillionaire/button-mash-july-26-top8-t8.jpg
   - image: /images/uploads/posts/button-mash-july-2026-who-wants-to-be-a-blazbillionaire/button-mash-july-26-top8-bbcf.jpg
   - image: /images/uploads/posts/button-mash-july-2026-who-wants-to-be-a-blazbillionaire/button-mash-july-26-top8-t3.jpg
+  - image: /images/uploads/posts/button-mash-july-2026-who-wants-to-be-a-blazbillionaire/20260704_180950.jpg
 ---
 Button Mash returned with another five tournaments on the 4th of July at Belfast's Accidental Theatre. Let's check out how they went down:
 
@@ -55,6 +56,16 @@ Not many would have guessed that BBCF would be the largest bracket at this Butto
 
 (8 players/[Bracket](https://www.start.gg/tournament/button-mash-july-2026/event/tekken-3/brackets/2302481/3332262)/[VOD](https://www.youtube.com/watch?v=jLdghaJ5vhs&t=17973s))
 
-The throwback game this time around was the iconic third instalment of the Tekken series, and **kaworuscott** (Jin) claimed victory with a close grand final win over **Skeletorr** (Lei), while **Yreval** (Paul) took third place.
+The throwback game this time around was the iconic third instalment of the Tekken series, and **kaworuscott** (Jin) claimed victory with a close grand final win over **Skeletorr** (Lei/Ogre), while **Yreval** (Paul) took third place.
 
 ![T3: 1) kaworuscott (Jin) 2) Skeletorr (Lei) 3) Yreval (Paul) 4) Scavenger XIII (Nina) 5) WonderDownUnder (Paul)/PineApple (Yoshimitsu) 7) SleepySnacker (Ogre)/Snaker (Mokujin)](/images/uploads/posts/button-mash-july-2026-who-wants-to-be-a-blazbillionaire/button-mash-july-26-top8-t3.jpg)
+
+![kaworuscott (Doctor B) vs Scavenger XIII (Yoshimitsu) in Tekken 3](/images/uploads/posts/button-mash-july-2026-who-wants-to-be-a-blazbillionaire/20260704_180950.jpg)
+
+*Unfortunately, stream viewers were not treated to the triumphant return of [Dr Blad.](https://youtu.be/hEG1TkYvDs8)*
+
+# What next?
+
+Button Mash will return on **Saturday the 22nd of August** at the same venue. **Guilty Gear Strive, Street Fighter 6**, and **Avatar Legends** will be joined by two further games still to be announced. In the meantime, entries have closed for [IGM Summer Showdown](https://www.start.gg/tournament/igm-summer-showdown-2026/details) this coming weekend, but there will be plenty of stream coverage of what promises to be a thrilling weekend of fighting games. [Day of Champions XVIII](https://www.start.gg/tournament/day-of-champions-xviii/details) is taking place in Dublin on August 8th, with the usual quartet of games (GGST, UNI, 2XKO, T8).
+
+The Belfast weekly locals have returned to Tuesday evenings recently - the QUB SU is closed on the week of the 14th, but we should be good to go for the 21st. As always, keep an eye on the [Button Mash socials](https://linktr.ee/buttonmashni) for all the latest information.
