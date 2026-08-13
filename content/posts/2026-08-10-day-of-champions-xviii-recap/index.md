@@ -32,7 +32,7 @@ If you're just looking for the photo gallery, check the FGC Ireland discord for 
 
 We had 60(!!!) attendees across five games, with an average bracket size of just under 17 players. The most entered game was unsurprisingly the brand new Marvel Tokon, with a huge 22 entries. I'm very glad that I limited entry to three brackets only as one can imagine what a logistical nightmare it would have been otherwise.
 
-Day of Champions 18 was a great payoff for all the lessons learned from the last 2 DoCs we've run. We upgraded our setup equipment with some 24" monitors, massively improved the stream thank to the kind donations of Brian Von Doom (who even showed up to man the stream!), and put on an event running five games in one day.
+Day of Champions 18 was a great payoff for all the lessons learned from the last 2 DoCs we've run. We upgraded our setup equipment with some 24" monitors, massively improved the stream (and even had the legendary BrianVonDoom show up to man the stream!), and put on an event running five games in one day.
 
 ![Brian "hard at work"](/images/uploads/posts/day-of-champions-xviii-recap/2.jpg)
 
